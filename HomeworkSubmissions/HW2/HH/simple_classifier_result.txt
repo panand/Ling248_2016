@@ -1,0 +1,24 @@
+Group1 (training data: 336)	correct	error	accuracy
+do	19	12	0.6129032258
+make	18	43	0.2950819672
+work	9	20	0.3103448276
+
+Group2 (training data: 322) correct error   accuracy
+do	46	24	0.6571428571
+make	41	82	0.3333333333
+work	23	51	0.3108108108
+
+Group 2' (training data:322)    correct error   accuracy
+do	46	24	0.6571428571
+make	41	82	0.3333333333
+work	7	67	0.09459459459
+
+Group3 (training data: 289) correct error   accuracy
+do	68	34	0.6666666667
+make	85	149	0.3632478632
+work	8	100	0.07407407407
+
+Group4 (training data:249)  correct error   accuracy
+do	148	73	0.6696832579
+make	116	274	0.2974358974
+work	13	158	0.07602339181
