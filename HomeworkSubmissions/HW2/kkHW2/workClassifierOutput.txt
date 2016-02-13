@@ -1,0 +1,418 @@
+[recommend, seek, detach, work, concentrate, eliminate, feed]	[2:41:03::]	2:41:05::
+[say, be, be, absorb, work]	[2:41:00::]	1:06:00::;1:04:00::
+[work, say]	[2:41:00::]	2:41:05::
+[be, explain, be, work]	[2:41:06::]	1:06:00::;1:04:00::
+[say, work, establish, involve]	[2:41:02::]	2:41:05::
+[say, seem, be, be, might, be, work]	[2:41:03::]	1:06:00::;1:04:00::
+[work]	[2:41:02::]	2:32:00::
+[work, continue, develop, aim]	[2:41:06::]	1:06:00::;1:04:00::
+[work, be, purchase, stagger]	[2:41:06::]	1:06:00::;1:04:00::
+[concern, consider, seek, seek, study, work]	[2:41:00::]	2:41:05::
+[do, jeopardize, consider, desire, study, work, continue, consider, design, assure]	[2:41:00::]	1:06:00::;1:04:00::
+[deserve, work]	[2:41:00::]	2:38:00::
+[work, guide, counsel, draw]	[2:41:00::]	2:41:05::
+[picket, work]	[2:41:02::]	2:32:00::
+[say, find, deal, be, work]	[2:41:03::]	1:06:00::;1:04:00::
+[work, solve]	[2:41:02::]	2:41:05::
+[count, seem, have, work]	[2:41:01::]	1:06:00::;1:04:00::
+[work, do, pay, play, work]	[2:41:00::]	1:06:00::;1:04:00::
+[work]	[2:41:00::]	2:32:00::
+[be, offer, work]	[2:41:03::]	1:06:00::;1:04:00::
+[serve, be, work, help, strengthen]	[2:36:00::]	1:06:00::;1:04:00::
+[establish, work]	[2:41:06::]	2:41:05::
+[work]	[2:41:03::]	2:32:00::
+[base, say, secure, guarantee, work, limit]	[2:41:02::]	2:41:05::
+[work, get, accept]	[2:41:02::]	1:06:00::;1:04:00::
+[work]	[2:41:03::]	2:32:00::
+[be, plug, be, fill, be, work]	[2:41:03::]	1:06:00::;1:04:00::
+[execute, work]	[2:36:00::]	2:41:05::
+[be, depict, work]	[2:36:00::]	1:06:00::;1:04:00::
+[work]	[2:41:03::]	2:32:00::
+[work, consider]	[2:41:00::]	2:41:05::
+[work, have]	[2:41:02::]	1:06:00::;1:04:00::
+[think, have, work]	[2:41:02::]	1:06:00::;1:04:00::
+[entitle, inform, report, work]	[2:41:06::]	2:41:05::
+[say, work]	[2:41:02::]	2:41:05::
+[allege, work]	[2:41:03::]	2:38:00::
+[teach, work]	[2:36:00::]	2:41:05::
+[tell, work, tell]	[2:41:06::]	2:41:05::
+[be, work]	[2:41:00::]	1:06:00::;1:04:00::
+[learn, live, be, work, love, dance]	[2:41:04::]	2:41:05::
+[skate_over, repeat, be, work]	[2:41:03::]	1:06:00::;1:04:00::
+[break, be, be, come_along, find, work]	[2:41:00::]	1:06:00::;1:04:00::
+[choose, work]	[2:41:00::]	2:41:05::
+[be, let, phrase, work]	[2:41:02::]	1:06:00::;1:04:00::
+[help, keep_up, indicate, be, avoid, seem, work]	[2:38:00::]	1:06:00::;1:04:00::
+[work, use, reaffirm]	[2:32:00::]	2:41:06::
+[shed, yield_up, disturb, work]	[2:36:01::]	2:41:05::
+[have, comprehend, work, muster, contradict, say, believe, work, see, prove]	[2:30:00::, 2:36:01::]	1:06:00::;1:04:00::
+[take_leave, step, give, work]	[2:41:03::]	2:41:05::
+[work]	[2:41:03::]	2:32:00::
+[put, note, say, test, see, work]	[2:41:03::]	2:41:05::
+[work, stand]	[2:35:02::]	2:41:05::
+[be, add, work, contribute]	[2:41:02::]	1:06:00::;1:04:00::
+[work]	[2:41:00::]	2:32:00::
+[be, choose, work]	[2:41:03::]	1:06:00::;1:04:00::
+[n't, entrust, person, better, hands, know, muscle, sternocleido_mastoideus, neck, right, down, tibialis_anticus, leg, better, still, know, just, exercise, work, best, person, principle, combine, fast, fast, muscle, growth]	[2:35:02::]	2:41:05::
+[person, always, have, shapely, leg, swim, water_ski, really, n't, work, very_much]	[2:29:00::]	1:06:00::;1:04:00::
+[person, be, specialist, torso, development, long, favor, now, famous, technique, one, exercise, be, pressing, pushing, movement, accent, one, sector, muscle, group, specific, way, follow, pulling, exercise, work, opposing, sector, same, muscle, group]	[2:29:00::]	1:06:00::;1:04:00::
+[strongly, upper, lat, serratus, work, fine, exercise, pinpoint, concentration, force, dumbbell, variation, afford]	[2:29:00::]	1:06:00::;1:04:00::
+[time, person, entire, chest, back, lat, shoulder, area, be, pumped-up, almost, burst, point, person, take, time, do, a_bit, more, pectoral, front, deltoid, shaping, work]	[1:04:00::]	1:06:00::;1:04:00::
+[come, not, alone, training, certain, definition, specialization, exercise, champion, select, knowledge, exactly, work, best]	[2:41:03::]	2:41:06::
+[often, exercise, work, well, bodybuilder, less, spectacularly]	[2:41:03::]	2:41:05::
+[ever, forget, even, moment, say, work, perfectly, no_matter, have, short, long, thighbone, length]	[2:41:03::]	1:06:00::;1:04:00::
+[indeed, light, weight, work, much, better, greater, more, extensive, split]	[2:35:02::]	2:41:05::
+[specialist, learn, do, great_deal, work, improve, size, health, plant, resulting, flower]	[1:09:00::]	1:06:00::;1:04:00::
+[be, best, buy, fresh, dealer, work, improve]	[2:41:02::]	1:06:00::;1:04:00::
+[done, work, be, accomplished, ignore, plant]	[1:04:00::]	1:06:00::;1:04:00::
+[student, musical, form, would-be, classifier, work, present, problem]	[1:06:00::]	1:06:00::;1:04:00::
+[turn_to, more, modern, version, person, london, offer, most, sophisticated, keyboard, work]	[1:04:00::]	2:41:05::
+[person, work, be, very_much, akin, person, sound, disc, be, dated, have, hard_time, locate, copy]	[1:06:00::]	1:06:00::;1:04:00::
+[too, many, record, seem, reduce, work, symphonic, complexity, melody, accompaniment]	[1:06:00::]	1:06:00::;1:04:00::
+[work]	[2:41:03::]	2:32:00::
+[work, suppose, pull, clear]	[2:35:02::]	2:41:05::
+[start, work]	[2:38:00::]	2:41:04::
+[be, allow, work, mar]	[2:36:00::]	1:06:00::;1:04:00::
+[accomplish, appear, start, work]	[2:41:05::]	1:06:00::;1:04:00::
+[arrive_at, multiply, start, work]	[2:41:05::]	2:41:04::
+[work, equal, do]	[2:41:02::]	1:06:00::;1:04:00::
+[work]	[2:29:00::]	2:32:00::
+[work]	[2:29:00::]	2:32:00::
+[work, show]	[2:29:00::]	2:41:05::
+[work]	[2:29:00::]	2:32:00::
+[see, work]	[2:29:00::]	2:41:05::
+[be, work]	[2:41:02::]	1:06:00::;1:04:00::
+[obtain, press, start, work]	[2:36:00::]	2:41:03::
+[work, slip]	[2:41:02::]	2:41:05::
+[operate, work]	[2:41:00::]	2:41:05::
+[be, include, see, collect, send, work, pile]	[2:41:02::]	1:06:00::;1:04:00::
+[have, make, work]	[2:35:02::]	1:06:00::;1:04:00::
+[be, get, work]	[2:35:02::]	1:06:00::;1:04:00::
+[get, work, cool]	[2:41:03::]	1:06:00::;1:04:00::
+[most, recreation, work, call_for, good_deal, pre, planning]	[1:04:00::]	2:41:05::
+[become, more_and_more, available, work, county, other, government, agency]	[1:04:00::]	1:06:00::;1:04:00::
+[site, planning, work, be, best, have, qualified, experienced, park, planner, carry_through, study]	[1:04:00::]	1:06:00::;1:04:00::
+[person, hail, ingenious, work, naturally, gifted, well, trained, musician, still, twenties]	[1:06:00::]	1:06:00::;1:04:00::
+[expect, such, violent, epoch, transition, destroy, creative, flair, composer, especially, work, be, so, fluent, spontaneous]	[1:06:00::]	1:06:00::;1:04:00::
+[of_course, work, be, not, comparable, even, though, same, brain, conceive]	[1:06:00::]	2:41:05::
+[early, work, conceive, sophisticated, international, audience, late, work, conceive, affirm, way_of_life, fellow, citizen]	[1:06:00::]	1:06:00::;1:04:00::
+[english, master, person, realize, subject, large, simplified, mass, seem, effortless, be, in_reality, result, skilled, design, bear, hard, work, thorough, distillation, natural, form, inspire]	[1:04:00::]	1:06:00::;1:04:00::
+[many, work, hard, long, hours, struggling, family_business, be, allied, art, kind, design, production, engraved, seal, bear, relation, painting, picture]	[2:41:00::]	1:06:00::;1:04:00::
+[gradually, withdraw, shop, altogether, past, thirty, year, work, independently, painter, continued, hunting, fishing, expedition]	[2:41:00::]	2:41:05::
+[work, oil, year, begin, work, watercolor, first, public, recognition, early, honor, include, election, academy, be, essay, heavy, medium]	[2:41:04::, 1:04:00::]	1:06:00::;1:04:00::
+[more_often_than_not, find, easy, excuse, leave, own, work, stand, respectable, distance, watch, man, transform, raw, nature, composed, not, imitative, painting]	[1:04:00::]	1:06:00::;1:04:00::
+[of_late, year, find, well, work, out_of_doors]	[2:41:02::]	2:41:05::
+[artist, study, work, more, thoroughly, move, certain, unit, design, often, only, slightly, fine, picture, result]	[1:06:00::]	1:06:00::;1:04:00::
+[often, work, out_of_doors, condition, light, atmosphere, particular, passage, look, favorable, in_relation_to, subject, be, too, bright, too, dull, too, light, too, dark, view, indoors, mat]	[2:41:02::]	2:41:05::
+[occur, make, change, sketch, final, watercolor, work, full, sheet, field]	[2:41:02::]	1:06:00::;1:04:00::
+[work, one, sketch, square_up, project, linear, form, freehand, watercolor, sheet, charcoal]	[2:36:00::]	1:06:00::;1:04:00::
+[longer, work, more, be, sure, at_least, workmanlike, method, be, important]	[2:41:02::]	1:06:00::;1:04:00::
+[work, watercolor, easel, field, frequently, resort, large, garden, umbrella, protect, eye, undue, strain]	[2:41:02::]	2:41:05::
+[studio, work, tilt-top_table, leave, paper, unfixed, so, move, freely, control, wash]	[2:41:02::]	1:06:00::;1:04:00::
+[make_up, tumbling, say, start, somersault, run_through, such, stunt, headstand, handstand, cartwheel, backbend, culminate, nearly, impossible, combination, aerial, flip, twist, apparatus, work]	[1:04:00::]	1:06:00::;1:04:00::
+[certainly, be, less, anxiety, fewer, accident, be, clumsy, child, sustain, worst, injury, high, scholastic, average, alert, child, work, better]	[2:41:06::]	1:06:00::;1:04:00::
+[dance, teacher, respond, person, request, not_only, regular, dance, work, also, kind, basic, gymnastic, work, make_for, strength, flexibility]	[1:04:00::]	1:06:00::;1:04:00::
+[at_first, child, do, kick_up, so, teacher, determine, ready, work, alone, need, help]	[2:41:02::]	1:06:00::;1:04:00::
+[bare, foot, be, better, such, work, form, slipper]	[1:04:00::]	1:06:00::;1:04:00::
+[berlin, publish, view, chemical, law_of_nature, german, issue, french, translation, paris, title, work, hold, very, high, esteem, new, generation, research, chemist]	[1:06:00::]	1:06:00::;1:04:00::
+[many, company, do, fine, work, develop, sale, personnel, much, be, product, rather, sale, training]	[1:04:00::]	1:06:00::;1:04:00::
+[men, qualified, broad, task, marketing, manager, be, even, more, scarce, demanding, combination, qualification, call_for, type, management, work]	[1:04:01::]	2:41:05::
+[work, vacuum, minimal, information, result, only, showpiece, look, good, exhibition, catalog, please, public_relations, department, have, little, do, essence, interior_design]	[2:41:02::]	1:06:00::;1:04:00::
+[early, year, training, certain, phase, work, cover, synthetic, problem, have, use]	[1:09:00::]	1:06:00::;1:04:00::
+[consultation, architect, client, real_estate, man, fabric, house, furniture, company, be, essential, proper, development, class, problem, just, actual, work]	[1:04:01::]	1:06:00::;1:04:00::
+[professional, organization, group, group, group, various, trade, association, aid, greatly, work]	[1:04:00::]	1:06:00::;1:04:00::
+[certainly, educator, involve, interior_design, be, member, active, work, organization]	[1:04:00::]	1:06:00::;1:04:00::
+[be, almost, no, school, country, offer, graduate, work, interior_design, rule, at_present, observe]	[1:09:00::]	1:06:00::;1:04:00::
+[attitude, employee, benefit, encourage, excess, free, government, work, plant]	[1:04:00::]	2:41:05::
+[investigate, possibility, move, midweek, holiday, forward, monday, back, friday, have, uninterrupted, work, week]	[1:04:00::]	1:06:00::;1:04:00::
+[watch, work, schedule, boiler, operator, guard, other, 24, hour, day, 7, day, week, operation, minimize, overtime]	[1:04:00::]	1:06:00::;1:04:00::
+[possibility, cafeteria, help, work, part-time, custodial, other, job]	[2:41:00::]	1:06:00::;1:04:00::
+[part-time, driver, assign, other, productive, work]	[1:04:00::]	1:06:00::;1:04:00::
+[union, accept, seniority, concession, assign, work, old, disabled, employee]	[1:04:00::]	2:41:05::
+[plant, nurse, replace, trained, first_aid, man, work, full-time, some_other, assignment]	[2:41:00::]	2:41:05::
+[too, many, plant, official, be, all_too, eager, buy, package, program, insurance_company, simply, work, plant]	[2:41:03::]	1:06:00::;1:04:00::
+[make, sure, n't, pay, holiday, occur, employee, not, otherwise, work]	[2:41:02::]	1:06:00::;1:04:00::
+[require, employee, work, last, shift, holiday, be, eligible, pay]	[2:41:02::]	1:06:00::;1:04:00::
+[also, make, sure, have, reasonable, requirement, hours, work, production, employee, be, entitled, vacation]	[2:41:00::]	1:06:00::;1:04:00::
+[try, provide, standard, vacation, time_off, make, vacation, pay, depend_on, number, hours, work, previous, year]	[2:41:00::]	1:06:00::;1:04:00::
+[design, work, share, change]	[2:35:02::]	2:41:06::
+[work]	[2:35:02::]	2:32:00::
+[work]	[2:41:03::]	2:32:00::
+[work]	[2:41:00::]	2:32:00::
+[utilize, replace, work]	[2:41:03::]	2:29:00::
+[work, be, ask, answer, talk, speak]	[2:41:02::]	1:06:00::;1:04:00::
+[slight, change, work, schedule, cut, production, cow, chicken]	[1:04:00::]	1:06:00::;1:04:00::
+[leave, farm, work, locality, short, notice, such, move, mean, loss, capital]	[1:04:01::]	2:41:05::
+[farmer, get_up, early, at_times, work, late, night]	[2:41:02::]	2:41:05::
+[frequently, work, long, hours, hot, sun, cold, rain]	[2:41:02::]	2:41:05::
+[no_matter, how, well, work, plan, bad_weather, unexpected, setback, cause, extra, work, catch_up]	[1:04:00::]	1:06:00::;1:04:00::
+[care, calf, pig, chicken, develop, child, sense_of_responsibility, work]	[1:04:00::]	1:06:00::;1:04:00::
+[be, particularly, suitable, need, work, exercise, out_of_doors, health]	[2:41:02::]	1:06:00::;1:04:00::
+[person, consider, work, farm, recreational]	[1:04:00::]	1:06:00::;1:04:00::
+[consider, also, much, family, keep_up, other, work]	[1:04:01::]	1:06:00::;1:04:00::
+[have, year-round, full-time, job, n't, expect, grow, much, more, family, use, other, member, family, do, good_deal, work, hire, help]	[1:04:00::]	1:06:00::;1:04:00::
+[list, number, hour, family, expect, work, each_month]	[2:41:02::]	1:06:00::;1:04:00::
+[not, include, all, spare_time, all, family, spare_time, only, be, willing, use, farm, work]	[1:04:00::]	1:06:00::;1:04:00::
+[expensive, specialized, piece, machinery, need, such_as, spray, rig, combine, binder, be, better, pay, machine, do, work]	[1:04:00::]	1:06:00::;1:04:00::
+[take_into_account, difference, city, county, tax, insurance, rate, utility, rate, cost, travel, work]	[1:04:01::]	2:41:06::
+[mercenary, be, little, interested, farming, add, nothing, output, farm, plot, work, be, still, do, hoe, late]	[1:04:00::]	1:06:00::;1:04:00::
+[work, do, analyst, man, really, know, folklore, be, have, no_more, appeal, other, work, truly, scientific, sort, reach, limited, learned, audience]	[1:06:00::]	1:06:00::;1:04:00::
+[wish, discuss, literary, figure, use, folklore, work, first, thing, realize, be, literary, figure, be, probably, part, ignorant, american, public]	[1:06:00::]	1:06:00::;1:04:00::
+[last, two, writer, introduce, strong, political, bias, work, not, union, leaders, discuss, soon, see, folklore, reservoir, protest, downtrodden, publicly, silenced, mass]	[1:06:00::]	1:06:00::;1:04:00::
+[age, ten, work, newsboy, location, knock_down, streetcar, result, permanently, shortened, leg]	[2:41:06::]	2:41:05::
+[all_of, activity, gear, top, priority, communication_system, practice, test, hold, assure, work, smoothly]	[2:35:02::]	2:41:05::
+[get, seem, life, work]	[1:04:00::]	1:06:00::;1:04:00::
+[jewish, working_girl, almost, invariably, work, office, contradistinction, gentile, factory_worker, buttressed, respectable, income, be, likely, dress, better, live, more, expansively, college_student]	[2:41:06::]	2:41:05::
+[mean, great, many, academically, talented, girl, discourage, pursue, graduate, work, more, demanding, nature]	[1:04:00::]	1:06:00::;1:04:00::
+[be, significant, location, be, summer, playground, old, teenager, kind, summer, suburb, new_york, no_longer, attract, great, number, work, there, waiter, busboy, counselor, day_camp]	[2:41:06::]	1:06:00::;1:04:00::
+[opportunity, find, certain, city, such_as, craft, auto_mechanics, carpentry, drafting, electrical_work, tool-and-die_work, sheet_metal, work]	[1:04:00::]	1:06:00::;1:04:00::
+[formally, organized, vocational_program, support, federal, funds, allow, high_school, student, gain, experience, field, work, be, likely, lead, full-time, job, graduation]	[1:04:01::]	2:41:05::
+[case, student, attend, school, half-time, work, regular, job, other, half]	[2:41:00::]	1:06:00::;1:04:00::
+[receive, remuneration, work]	[1:04:00::]	2:41:05::
+[a_few, place, cooperative, program, school, employer, clerical, work, show, same, possibility, allow, student, still, school, develop, skill, be, immediately, marketable, graduation]	[1:04:01::]	2:41:05::
+[indeed, some, period, history, some, neighborhood, job, opportunity, be, so, good, undoubtedly, great, boy, be, potential, member, profession, quit, school, early, age, work]	[2:41:00::]	1:06:00::;1:04:00::
+[make, attempt, measure, enduring, satisfaction, material, well-being, man, work, graduation, high_school, be, highly, successful, business, enter]	[2:41:00::]	2:41:05::
+[high, motivation, higher_education, start, early, enough, time, boy, girl, reach, grade, at_least, develop, basic, skill, be, essential, academic, work]	[1:09:00::]	1:06:00::;1:04:00::
+[third, significance, vocational, course, be, enrolled, be, keenly, interested, work, realize, relevance, learn, future, career, sense, purpose, carry_over, academic, course, study, at_the_same_time]	[1:09:00::]	1:06:00::;1:04:00::
+[today, many, college, bound, student, try, take, course, personal, typing, feel, certain, degree, mastery, skill, be, almost, essential, propose, do, academic, work, college, professional, school]	[1:09:00::]	1:06:00::;1:04:00::
+[talk, confidentially, director, vocational, high_school, realize, boy, just, say, want, be, plumber, then, do, good, work, find, job]	[1:04:00::]	2:41:05::
+[far, distant, part, united_states, talk, instructor, boy, twelfth, grade, do, special, work]	[1:04:00::]	1:06:00::;1:04:00::
+[not, surprisingly, approach, not, work]	[2:41:03::]	1:06:00::;1:04:00::
+[task, congregation, define, economic, integration, work, co-opt, individual, family, similar, social, economic, position, replenish, nuclear, core, congregation]	[1:04:00::]	2:41:05::
+[trend, seem, work, cross-purpose, metropolis]	[2:30:00::]	1:06:00::;1:04:00::
+[work, have, become, adopt]	[2:35:02::]	1:06:00::;1:04:00::
+[work, know, originate]	[2:41:03::]	1:06:00::;1:04:00::
+[work, enrich]	[2:41:02::]	2:41:00::
+[have, work, love]	[2:41:00::]	1:06:00::;1:04:00::
+[come, view, make, work, support, reflect]	[2:41:00::]	2:41:05::
+[work]	[2:35:02::]	2:32:00::
+[wish, meet, person, prompt, simple, curiosity, interest, work]	[1:06:00::]	1:06:00::;1:04:00::
+[know, conversation, author, not, settle, such, question, man, be, not, same, writing, in_the_last_analysis, question, settle, work]	[1:06:00::]	2:41:05::
+[person, own, work, be, example]	[1:06:00::]	1:06:00::;1:04:00::
+[have, picture, mind, garden, as_a_whole, not, see, certain, aspect, certain, corner, linger, memory, windblown, frostbitten, white, chrysanthemum, window, brittle, brown, leaf, sharp, scent, november, ripe, pear, lie, long, grass, turn_over, dusty, slippered, foot, cautiously, bee, still, work, ragged, brown, edged, hole, hot, colored, verbena, corner, dining_room, wall, side, porch, pass, on_the_way, pump, half, gourd, tie, cup, grandmother, childish, pleasure, drink]	[2:41:02::]	1:06:00::;1:04:00::
+[worth, dwell, detail, crisis, story, bring_together, number, characteristic, element, make, curious, riddle, compound, obscurely, centrally, significant, person, work]	[1:06:00::]	1:06:00::;1:04:00::
+[work, artist, suppose, find, one, more, moment, strike, student, absolutely, decisive, ultimately, emblematic, be, not, less, strikingly, so, be, mysterious, deeply, hidden, constatation, thought, encipher, single, image, single, moment]	[1:06:00::]	1:06:00::;1:04:00::
+[horrifying, humor, specifically, sexual, embarrassment, joke, go_wrong, monstrous, image, fat, man, dress_up, whore, dress_up, baby, epiphany, quivering, flesh, bring_together, secret, liaison, indolent, mindless, sensuality, sharp, shrewd, talent, cleverness, occasional, touch, genius, however, not, know, attack, problem, suffering, miraculous, way, music, revelation, death, associate, single, instant, seem, triumph, art, rather, desperate, art, also, evoke, numerous, distant, resonance, entire, body, person, work]	[1:06:00::]	1:06:00::;1:04:00::
+[go, so, much, detail, so, small, work, be, also, so, typical, work, represent, germinal, form, conflict, remain, essential, person, writing]	[1:06:00::]	1:06:00::;1:04:00::
+[monk, person, bring, renaissance, place, background, munich, turn_of_the_century, protest, luxurious, work, display, art, shop, person, particular, person, portray, voluptuous, style, model, gossip, painter, mistress]	[1:06:00::]	2:41:05::
+[presence, genuine, mimesis, art, mark, persistence, work, demand, attention, compel, valuation, vaguely, understand]	[1:06:00::]	2:41:05::
+[desire, presuppose, sense, causally, efficacious, power, be, involved, work, good, threaten, ill]	[2:41:02::]	1:06:00::;1:04:00::
+[suppose, perchance, group, vocational_training, that_is, be, quite, sufficient, immigrant_class, flood, part, new_england, world, post, civil_war, period, immigrant, bring_in, southern, europe, work, mill, make_up, labor, shortage, cause, migration, west]	[2:41:00::]	1:06:00::;1:04:00::
+[man, true, reputation, be, work]	[1:06:00::;1:04:00::]	2:41:06::
+[next, major, work, complete, be, long, fantastic, epic, prose, entitle, person, describe, monument, grave, carefree, indolent, youth]	[1:06:00::]	1:06:00::;1:04:00::
+[prose, poetry, all_of, person, later, work, be, concerned, sweden]	[1:06:00::]	1:06:00::;1:04:00::
+[person, write, four, other, work, fiction, early, figure, revere, swedish, memory]	[1:06:00::]	1:06:00::;1:04:00::
+[on_the_one_hand, not, work, large, agency, be, almost, always, self-employed]	[2:41:00::]	1:06:00::;1:04:00::
+[catch, criminal, not, merely, pay, so, frequently, not, receive, fee, at_all, enjoy, work, firmly, believe, murder, punish]	[1:04:01::]	1:06:00::;1:04:00::
+[familiar_with, work, remember, place, incipience, democratic, faith, around]	[1:06:00::]	2:41:05::
+[form, capitalism, indeed, work, superb, organization, credit, any, society]	[2:41:03::]	2:41:05::
+[be, work, worthy, consideration]	[1:06:00::]	1:06:00::;1:04:00::
+[by_no_means, discourage, production, idea, provide, raw_material, work, provide, stimulation, lead, further, production]	[2:41:02::]	1:06:00::;1:04:00::
+[person, total, work, today, in_fact, work, exist, person, comment, person, write, essay, reveal, such, simple, attitude, south]	[1:06:00::]	1:06:00::;1:04:00::
+[earliest, work, reflect, heavy, influence, english, continental, writer]	[1:06:00::]	2:41:05::
+[tradition, reach, apex, perhaps, work, person, end, century, reappear, undiminished, late, best-selling, novel, person]	[1:06:00::]	1:06:00::;1:04:00::
+[be, profitable, believe, read, realistic, humorist, person, work, thought, be, not, necessarily, read, owe, directly, rather, deal, a_hundred, year, ago, class, people, type, life, continue, time, person, time]	[1:09:00::]	1:06:00::;1:04:00::
+[such, comparison, remind, employ, low, character, work, person, record, actuality, south, moreover, follow, long, established, literary, precedent]	[1:06:00::]	1:06:00::;1:04:00::
+[summer, be, still, school, person, work, father, firm, messenger_boy]	[2:41:00::]	1:06:00::;1:04:00::
+[yet, meet, person, collaborate, person, person, work, lead_sheet, composer, furnish]	[2:41:05::]	1:06:00::;1:04:00::
+[casual, dreamlike, work, method, often, not, in_absentia, be, abrupt, change, person, so, person, adjust, again, approach, collaboration]	[2:41:02::]	1:06:00::;1:04:00::
+[be, time, work, lyricist, simultaneously]	[2:41:02::]	1:06:00::;1:04:00::
+[speak, work, person, person, say, work, habit, be, strange]	[1:04:00::, 2:41:02::]	1:06:00::;1:04:00::
+[person, be, one, few, possibly, only, composer, person, be, able, work, so, closely, hold, meeting, person, study]	[2:41:02::]	1:06:00::;1:04:00::
+[person, person, collaborate, person, work, also, person, another, film]	[2:41:02::]	1:06:00::;1:04:00::
+[work, beginning, eight, bar, musical, strain, person, set, words, be, no, more, work, be, no, more, worry, match, spiritual, feeling, jot]	[1:06:00::, 1:04:00::]	2:41:05::
+[moreover, critic, instruct, audience, see, work, contribute, pseudo, think, instruct, evaluate, work, help, achieve, own, identity]	[1:06:00::]	1:06:00::;1:04:00::
+[late, person, philosopher, work, prove, helpful, many, student, literature, once, write, be, be, snobbish, enough, wish, deny, far, close, sympathy, art, music_hall, picture_palace, person, person, even, shakespeare, person]	[1:06:00::]	1:06:00::;1:04:00::
+[very, likely, also, include, recognition, work, read, reflect, belong_to, way, thought, label, school, ism, i.e., complex, syndrome, idea, occur, together, sufficient, prominence, warrant, identification]	[1:06:00::]	1:06:00::;1:04:00::
+[usually, work, study, offer, special, even, individualized, rendering, treatment, idea, in_question, student, find, necessary, distinguish, carefully, several, expression, ism, mode, thought]	[1:06:00::]	1:06:00::;1:04:00::
+[work, closely, principal, property, disposal, installation, federal_government, review, proposed, sale, program, identify, type, property, small, business_concern, be, most, likely, be, interested, purchase]	[2:41:06::]	1:06:00::;1:04:00::
+[government, contract, eligible, applicant, pay, one-half, cost, approved, exploration, work, progress]	[1:04:00::]	1:06:00::;1:04:00::
+[applicant, pay, rest, cost, own, time, spend, work, charge, use, equipment, own, apply, share, cost]	[1:04:00::]	1:06:00::;1:04:00::
+[persuade, appraise, set, work, establish, do, do, help, depend, place]	[2:41:02::]	1:06:00::;1:04:00::
+[work, be]	[2:41:00::]	1:06:00::;1:04:00::
+[conduct, engineering, research, technical, development, work, determine, laboratory, pilot, plant, testing, result, research, study, aforesaid, develop, process, plant, design, point, demonstrate, large, practical, scale]	[1:04:00::]	1:06:00::;1:04:00::
+[work, give, heat_of_formation, aluminum, fluoride, closely, substantiate, value, determine, less, direct, method, raise, property, 15, percent, accept, a_few, year, ago]	[1:06:00::]	1:06:00::;1:04:00::
+[result, be, preliminary, work, continue]	[1:04:00::]	1:06:00::;1:04:00::
+[work, roof, continue, way]	[1:04:00::]	1:06:00::;1:04:00::
+[group, washington, dc, work, develop, brick, clay, product, suitable, shelter, construction]	[2:41:02::]	1:06:00::;1:04:00::
+[high, cost, system, 4, billion, force, plan, time_period, become, operational, decide, stop, further, work, project]	[1:04:00::]	1:06:00::;1:04:00::
+[however, recommend, development, work, airframe, engine, continue]	[1:04:00::]	2:35:02::
+[additional, modern, bomber, replace, old, medium, bomber, one, b-52, do, work, several, replace]	[1:04:01::]	1:06:00::;1:04:00::
+[child, work, deduct, reasonable, wage, pay, services, render, business]	[2:41:00::]	1:06:00::;1:04:00::
+[heat_of_condensation, work, function, kinetic_energy, electron, impinge_on, anode]	[1:19:00::]	2:41:05::
+[instrument, use, work, be, slight, modification, previously, describe]	[1:04:00::]	1:06:00::;1:04:00::
+[be, work, necessary, fill, manometer, column, reference, height]	[1:19:00::]	1:06:00::;1:04:00::
+[in_other_words, ideal_gas, compress, keep, constant, temperature, work, do, compress, completely, convert, heat, transfer, surrounding, heat_sink]	[1:19:00::]	1:06:00::;1:04:00::
+[mean, work, equal, in_turn, equal]	[1:19:00::]	2:41:05::
+[energy, isothermal, work, do, perfect_gas, come, thermal, energy, surroundings]	[1:19:00::]	1:06:00::;1:04:00::
+[threshold, mass, derive, momentum, threshold, assumption, mean, impact, velocity, u.s., work, ussr, work]	[1:06:00::]	1:06:00::;1:04:00::
+[much, old, experimental, work, respiratory, infection, accomplish, very, artificial, procedure]	[1:09:00::]	1:06:00::;1:04:00::
+[present, work, whole, serum, fractionate, chromatography, deae_cellulose, use, single, gradient, similar, describe, person, person, certain, chemical, serological, property, fraction, contain, antibody, abo, rh, system, describe]	[1:06:00::]	1:06:00::;1:04:00::
+[be, hard, understand, conclude, most, snake, not, grow, appreciably, attain, maturity, work, species, location, perhaps, some, tropical, snake, be, unusual, respect]	[2:41:06::]	1:06:00::;1:04:00::
+[opposition, point_of_view, have, staunch, support, work, person]	[1:06:00::]	1:06:00::;1:04:00::
+[person, note, difference, pleural, blood, supply, exist, animal, nowhere, published, work, find, do, comparative, study, intrapulmonary, feature, various, mammalian, lung, other_than, dog, cat, person]	[1:06:00::]	1:06:00::;1:04:00::
+[in_addition, little, work, do, comparative, basis, regard_to, normal, existence, bronchial_artery, pulmonary_artery, anastomosis]	[1:09:00::]	1:06:00::;1:04:00::
+[work, other, investigator, apply, salt, fractionation, technique, problem, fractionation, organic, solvent, such_as, acetone]	[1:06:00::]	1:06:00::;1:04:00::
+[much, work, review, person, person]	[1:09:00::]	1:06:00::;1:04:00::
+[work, best, procedure, remove, substance, cause, nonspecific, staining, obtain, specific, conjugate, pass_through, conjugate, deae_cellulose, column, some, case, absorb, first, second, milliliter, fraction, sweet_clover, tissue, powder]	[1:04:00::]	2:41:05::
+[person, experiment, therapeutic, work, lie_in, area]	[1:04:00::]	1:06:00::;1:04:00::
+[theorem, prove, be, more, general, describe, work, primary, decomposition, minimal, polynomial, not, prime, enter, be, all, first, degree]	[2:35:02::]	2:41:05::
+[word, binomial, mean, two, name, two, term, usage, apply, work, first, name, two, outcome, binomial, trial, second, term, represent, probability, success, failure]	[1:06:00::]	2:41:05::
+[colonial, period, generally, leave, people, believe, government, wish, provide, manner, service, independence, freeman, not, work, realize, benefit, modern, life]	[2:41:00::]	1:06:00::;1:04:00::
+[effort, such_as, group, location, demonstrate, transitional, society, work, balanced, national, development]	[2:41:02::]	1:06:00::;1:04:00::
+[form, work]	[2:41:02::]	2:41:05::
+[transfer, engage, work]	[2:41:06::]	2:41:05::
+[reliability, validation, work, person, et_al., demonstrate, result, closely, similar, finding, adult, scale]	[1:04:00::]	1:06:00::;1:04:00::
+[conjecture, be, regardless, manner, school, lesson, teach, compulsive, child, accentuate, element, lesson, aid, systematize, work]	[1:04:00::]	1:06:00::;1:04:00::
+[roleplaying, offer, solution, procedure, work, as_follows, candidate, invite, hotel, conference_room, president, explain, difficulty, have, how, unnecessary, seem, hire, people, just, not, work_out]	[2:35:02::]	1:06:00::;1:04:00::
+[reason, value, procedure, be, simply, applicant, test, work, different, situation, judgment, number, expert, see, salesman, conduct, different, typical, restaurant, owner, manager]	[1:04:01::]	2:41:05::
+[use, roleplaying, evaluation, illustrate, procedure, use, real_life, situation, special, equipment, special, assistant, daily, course, work]	[1:04:00::]	1:06:00::;1:04:00::
+[position, receptionist, open, large, office, announcement, other, girl, already, work, apply, job, have, high, prestige, slightly, high, salary, typing, clerking, position]	[2:41:00::]	1:06:00::;1:04:00::
+[applicant, be, generally, familiar_with, work, receptionist]	[1:04:01::]	1:06:00::;1:04:00::
+[end, work, one, day, personnel, man, take, applicant, one_at_a_time, ask, sit, receptionist, desk, then, play, role, number, people, come, receptionist, number, query, number, purpose]	[1:04:01::]	2:41:05::
+[criticize, curtness, abruptness, answer, not, work, become, popular]	[2:41:00::]	1:06:00::;1:04:00::
+[more_than, be, therapist, intuitive, sensing, latent, meaning, stereotype, help, meaning, reveal, spread-out, deck_of_cards, sporadic, occasion, passage, patient, month, work, together]	[1:04:00::]	1:06:00::;1:04:00::
+[much, less, full, extent, hebephrenic, person, belching, flatus, have, comparable, communicative, function, work, patient, therapist, eventually, do, some, at_least, private, mull, possible, meaning, belch, passage, flatus, not_only, be, reduced, lack, else, analyze, also, learn, even, animal, like, sound, constitute, form, communication, from_time_to_time, quite, different, thing, say, long, patient, become, sufficiently, aware, distinct, feeling, concept, say, words]	[2:41:02::]	2:41:05::
+[former, intend, decrease, amount, work, necessary, extend, dictionary, coverage]	[1:04:00::]	2:41:05::
+[latter, be, useful, modify, information, form, word, hence, reduce, work, require, improve, dictionary, content]	[1:04:00::]	1:06:00::;1:04:00::
+[work, be, substitute, thing, more, exact, contribution, meaning, have, dominant, stress]	[1:04:00::]	2:41:05::
+[limited, familiarity, possible, phenomenon, severely, hamper, work, tone]	[1:04:00::]	2:41:05::
+[papers, four, widely, read, contribute, importantly, improvement, analytic, work]	[1:04:00::]	2:41:05::
+[good, field, technique, not_only, equip, linguist, better, work, also, help, overcome, negative, attitude]	[1:04:00::]	1:06:00::;1:04:00::
+[involve, step-by-step, progress, be, day_by_day, work, lexicostatistics, growing, body, scientific, inquiry]	[1:04:00::]	1:06:00::;1:04:00::
+[employer, prefer, hire, youth, such, training, most, graduate, vocational, training, work, job, related, training]	[1:04:01::]	1:06:00::;1:04:00::
+[a_few, key, skilled_worker, experienced, company, type, work, usually, bring_in, plant, manager, hire, away, similar, plant, elsewhere]	[1:04:00::]	2:41:05::
+[author, conclude, conduct, patient, everyday, life, work, even, more_than, foregoing, fact, mention, leave, positively, room, doubt, sense_of_touch, ordinary, sense, word, be, unaffected, put, same, thing, physiological, term, performance, capacity, tactual, apparatus, periphery, up, tactual, center, brain, that_is, one, end, other, be, unimpaired]	[1:04:01::]	1:06:00::;1:04:00::
+[work, late, ninth, century, calm, severe, serenity, display]	[1:06:00::]	2:41:05::
+[ninth, century, be, artistic, work, spiritually, free, most, self-sufficient, past, future, loving, skill, spend, artist, product, be, testimonial, sense, do, be, important, be, appreciated]	[1:06:00::]	1:06:00::;1:04:00::
+[vase, embody, basic, aesthetic, logical, characteristic, greek, civilization, at_first, hesitantly, protogeometric, work, and_then, more, confidently, initial, stage, geometric, style]	[1:06:00::]	1:06:00::;1:04:00::
+[plate, illustrate, four, example, be, work, common, spirit, different, school]	[1:06:00::]	2:41:05::
+[notice, person, horse, long, log, building, assume, friend, slip, inside, be, able, put_up, good, fight, begin, work, way, ditch, join]	[2:38:00::]	1:06:00::;1:04:00::
+[work, end, august, give, satisfactory, service]	[2:35:02::]	1:06:00::;1:04:00::
+[write, utopia, treat, learned, diversion, learned, world, phantasy, person, amuse, holiday, work, spontaneous, overflow, intellectual, high_spirits, revel, debate, paradox, comedy, invention]	[1:06:00::]	1:06:00::;1:04:00::
+[person, writing, wholly, limited, such, exercise, almost, dimly, remember, dozen, or_so, other, author, live, time, works, tenuously, survive, mind, few, hundred, scholar, decade, pursuit, very, specialized, occasions, read, work]	[1:06:00::]	1:06:00::;1:04:00::
+[only, one, other, contemporary, person, evoke, so, immediate, direct, response, only, one, other, contemporary, work, person]	[1:06:00::]	1:06:00::;1:04:00::
+[later, collage, master, variety, extraneous, material, use, sometimes, same, work, almost, always, every, other, eye-deceiving, device, think_of]	[1:06:00::]	1:06:00::;1:04:00::
+[american, usually, live, group, segregate, national, origin, religious_belief, like, work, shop, noise, vitality, downtown]	[2:41:00::]	1:06:00::;1:04:00::
+[teacher, school_principal, confer_with, agree, keep_up, certain, amount, work, home, be, little, danger, lose, term]	[1:09:00::]	1:06:00::;1:04:00::
+[person, think_of, man, out, night, leave, protective, ridge, fear, work, guts, pick, way, area, beyond]	[2:30:00::]	1:06:00::;1:04:00::
+[location, stone-gray, mystery, travel, thirty, day, sleep, barn, farmer, road, work, subtle, change, know, location, meet, person]	[2:36:01::]	1:06:00::;1:04:00::
+[papa, go_out, do, god, work, person, often, accompany, buggy, draw, new, black, mare]	[1:04:00::]	1:06:00::;1:04:00::
+[one, day, person, tell, smile, pat, back, walk, weekly, conference, squad, leader, keep_up, squad, be, good, best, keep_up, keep_up, good, work]	[1:04:00::]	1:06:00::;1:04:00::
+[work, learn, part, write]	[2:41:02::]	2:41:05::
+[person, admit, n't, agree, public, performance, indeed, just, own, private, satisfaction, dearly, love, know, work, sound, do, professional, musician, trained, voice]	[1:06:00::]	1:06:00::;1:04:00::
+[musician, group, not, rehearse, work, merely, see, sound]	[1:06:00::]	1:06:00::;1:04:00::
+[even, suspect, be, work]	[1:06:00::]	1:06:00::;1:04:00::
+[afraid, one_and_the_same, time, work, turn_down, be, blow, pride, know, be, author, work, accept, then, violent, feeling, matter, certainly, betray, deeply, concern, be]	[1:06:00::]	1:06:00::;1:04:00::
+[emotion, screw_up, new, height, acceptance, first, rehearsal, ensue, such, buzz, excitement, parisian, music_lover, person, come, run, rousseau, inform, news, reach, superintendent, king, amusement, now, demand, work, offer, first, royal, summer, palace, location]	[1:06:00::]	1:06:00::;1:04:00::
+[person, not, laugh, be, work, concentration, achievement]	[1:04:00::]	1:06:00::;1:04:00::
+[detective, leave, person, phone, secretary, cancel, work, advise, network, get, substitute, director, current, project]	[1:04:00::]	1:06:00::;1:04:00::
+[person, talk, maid, arrange, come, every_day, instead, four, day, now, work]	[2:41:00::]	2:41:05::
+[stir, say, be, sorry, work, prevent, today]	[1:04:01::]	1:06:00::;1:04:00::
+[title, read, easily, crisscrossed, wire, work, theology, astral, physics, history, biology, political_science]	[1:06:00::]	2:41:05::
+[man, not, object, sketch, go_about, work, persuade, come, studio, pose]	[1:04:01::]	2:41:05::
+[work, cardinal, location]	[2:41:00::]	2:41:05::
+[work, two, hour, day, each, model, send, rabbi]	[2:41:02::]	2:41:05::
+[arrangement, person, work, well, sometimes, person, not, figure, be, master, apprentice]	[2:35:02::]	1:06:00::;1:04:00::
+[person, be, senseless, complain, not, like, work, wet, floor, particularly, cold_weather]	[2:41:02::]	1:06:00::;1:04:00::
+[person, work, fieldhand, afternoon, school]	[2:41:00::]	1:06:00::;1:04:00::
+[person, more_and_more, affection, person, hot, day, summer, work]	[1:04:00::]	1:06:00::;1:04:00::
+[help, person, person, enlarge, flower_garden, side_yard, sometimes, sit, still, evening, watch, last, fat, bee, work, summer, purple, dusk]	[2:41:02::]	1:06:00::;1:04:00::
+[work, granary]	[2:41:00::]	2:32:00::
+[cousin, work, group]	[2:41:00::]	1:06:00::;1:04:00::
+[place, clean, meal, serve, person, do, work]	[1:04:00::]	1:06:00::;1:04:00::
+[be, responsible, sometimes, dangerous, work, thieving, be, awful, port, location]	[1:04:01::]	1:06:00::;1:04:00::
+[be, two, human_being, work, together, same, project, be, competition, no_more, escape, expect, escape, grave]	[2:41:06::]	1:06:00::;1:04:00::
+[work, question, motive, make, work, content, thought, eventual, victory, however, bring_about, be, sweet, indeed]	[2:41:06::]	1:06:00::;1:04:00::
+[arm, give, some, trouble, person, be, not, enough, medical, expert, determine, heal, improperly, person, simply, rebel, tedious, work, print_shop, use, stiffness, arm, excuse]	[1:04:00::]	1:06:00::;1:04:00::
+[tell, manservant, open, door, lordship, engage, work, leave, strict, order, not, disturb]	[1:04:00::]	1:06:00::;1:04:00::
+[work, go, neighbor, collect, check]	[1:04:01::]	2:41:05::
+[person, work, brain]	[2:41:06::]	1:06:00::;1:04:00::
+[person, work, blind]	[2:41:06::]	1:06:00::;1:04:00::
+[person, undertake, work, go, house, house, thoughtless, resignation, honest, traditional, laborer]	[1:04:00::]	1:06:00::;1:04:00::
+[work, stand, left, hand, pocket, merely, stop, moment, sketch, surprised, stare, watch, person, hand]	[2:36:00::]	1:06:00::;1:04:00::
+[all, seem, peek, window, broken, nosed, man, muscular, arm, wrestler, neck, be, merely, caretaker, try, hand, boss, work]	[1:04:01::]	2:41:05::
+[now, keep, protectively, ready, laugh, again, sure_enough, point, index_finger, say, once_more, roar_off, fog, foot, evidently, surprising, suddenness, press, accelerator, just, hand, work]	[2:36:00::]	2:41:05::
+[first, marry, work, field, day, get_in, car, drive, work, take, fresh, hot, meal]	[2:41:00::]	1:06:00::;1:04:00::
+[now, be, work, field, be, rain, not, know, go]	[1:04:01::]	1:06:00::;1:04:00::
+[woman, keep, voice, low, work, house, sit, living_room, sound, chicken, shut_up, coop, night]	[2:41:06::]	2:41:05::
+[ejaculate, surprised, woman, look, person, explanation, part, ceremony, only, offer, a_few, words, doctor, provincial, american, speech, state, nerves, bring_on, demand, work]	[1:04:01::]	1:06:00::;1:04:00::
+[doctor, mind, work, great, speed, rise, put_on, greatcoat, address, person, muted, voice]	[2:41:02::]	1:06:00::;1:04:00::
+[work, child, hang_on]	[2:41:00::]	2:41:05::
+[person, take, clothesbrush, closet, work]	[2:41:00::]	1:06:00::;1:04:00::
+[work]	[2:41:04::]	2:32:00::
+[know, be, work, wait, open]	[2:41:00::]	1:06:00::;1:04:00::
+[work]	[2:35:02::]	2:32:00::
+[say, work]	[2:41:00::]	2:41:05::
+[settle, go_back, work]	[2:38:02::]	2:41:05::
+[have, work, collapse]	[2:38:00::]	1:06:00::;1:04:00::
+[rather, wish, never, get_into, business, scarcely, resist, nice, little, profit, not, much, work, involve, easy_money]	[1:04:00::]	2:41:05::
+[n't, mind, work, hard, not, figure, do, wrong, live, easy, soft, want, be, chance, n't, mark, be]	[2:41:02::]	1:06:00::;1:04:00::
+[be, person, work, nice, shop, somewhere, a_little, more, money, have, pretty, clothes, learn, lady, manners, know, different, people, up_to_now, not, just, here, foreign, sounding, name, go_to, same, church, different, place, different, job, different, people, be, all, different, too]	[2:41:00::]	2:41:05::
+[too, much, work, morning, person, gone]	[1:04:00::]	2:41:05::
+[try, talk, fellow, work, friend]	[2:41:00::]	2:41:05::
+[year, live, progress, no-goal, eat, work, breathe, plan, reason]	[2:41:00::]	2:41:05::
+[think, sometime, second, week, work, person]	[2:41:06::]	2:41:05::
+[nothing, say, do, seem, so, natural, work, look_forward, eventual, proposal]	[2:41:06::]	1:06:00::;1:04:00::
+[future, immediate, future, make, include, take, upstairs, give, a_bit, space, friend, work, make, available, fingertip]	[2:41:06::]	1:06:00::;1:04:00::
+[be, display, work_in_progress, finished, work]	[1:06:00::]	1:06:00::;1:04:00::
+[go_to, work, today, sneak, around, spy, person, house]	[1:06:01::]	2:41:05::
+[send, work]	[1:06:01::]	2:41:05::
+[boy, apparently, person, be, right, tell, person, only, recent, month, force, give_up, college, work, busboy]	[2:41:06::]	1:06:00::;1:04:00::
+[n't, play, golf, n't, seem, belong_to, local, club, work, take, away, a_lot, of_course, probably, account_for, tendency, keep_to_oneself]	[1:04:01::]	1:06:00::;1:04:00::
+[come, no, great, surprise, person, hot, water, shower, n't, work, person, throw_up, all_over, stairs, thieving, bastard, cop, walk_off, cigarette]	[2:35:02::]	2:41:05::
+[ask, n't, do, tomorrow, seem, muse, work, good, tonight, afraid, let_it_go]	[2:35:02::]	1:06:00::;1:04:00::
+[person, interrupt, work, half, finished, stupid, jackass, person, be, certain, louse_up]	[1:06:00::]	1:06:00::;1:04:00::
+[now, be, work, do, lots]	[1:04:00::]	1:06:00::;1:04:00::
+[be, work, turn_out, be, want]	[2:35:02::]	1:06:00::;1:04:00::
+[suppose, work]	[2:41:03::]	2:41:05::
+[have, have, work, be]	[2:41:02::]	1:06:00::;1:04:00::
+[know, work]	[2:35:02::]	1:06:00::;1:04:00::
+[work]	[2:30:00::]	2:32:00::
+[hope, work]	[2:41:03::]	2:41:05::
+[work, croon, produce]	[2:41:02::]	2:41:06::
+[work, say]	[2:41:00::]	2:41:05::
+[muck, work]	[2:41:00::]	2:32:00::
+[work]	[2:41:02::]	2:32:00::
+[be, tighten, work, comfort]	[2:41:02::]	1:06:00::;1:04:00::
+[work, come_out]	[2:38:02::]	2:41:05::
+[know, ride, know, work, swear]	[2:41:00::]	1:06:00::;1:04:00::
+[work, father, girl, say, and_then, seem, change, mind]	[2:41:00::]	1:06:00::;1:04:00::
+[see, hand, start, work, down, leather, thong, handle, quirt, grab, wrist]	[2:38:00::]	1:06:00::;1:04:00::
+[say, hanker, work]	[2:41:02::]	2:41:05::
+[draw_together, work, effect]	[2:41:02::]	2:41:05::
+[work, be]	[2:41:00::]	1:06:00::;1:04:00::
+[work, be, pretend]	[2:41:03::]	1:06:00::;1:04:00::
+[mean, trouble, fella, work, crook]	[2:41:00::]	2:41:05::
+[other, homesteader, pass_off, person, murder, personal, grudge, killing, work, neighbor]	[1:06:00::]	1:06:00::;1:04:00::
+[morning, september, 10, person, person, rise, dawn, begin, day, work]	[1:04:00::]	1:06:00::;1:04:00::
+[be, possible, highly, doubtful, kill, merely, let, reputation, work, privately, claim, unsolved, murder, state]	[2:41:03::]	1:06:00::;1:04:00::
+[best, evidence, be, receive, monthly, wage, about, very, good, money, era, top, hand, work, 30, found]	[2:41:00::]	2:41:05::
+[n't, push, person, work, location, be, friend, year]	[2:41:06::]	1:06:00::;1:04:00::
+[work, at_all]	[2:41:00::]	2:41:05::
+[want, be, work, come]	[2:41:04::]	2:41:05::
+[then, disappointment, evident, face, move, work]	[1:04:00::]	2:41:05::
+[stay, work]	[2:41:00::]	2:41:05::
+[work]	[2:41:02::]	2:32:00::
+[know, help, meet, work, intend, marry]	[2:41:02::]	1:06:00::;1:04:00::
+[three, handle, quite, few, small, commission, spot, drawing, advertising_agency, uptown, magazine, work, quick, lettering, job]	[1:06:00::]	2:41:05::
+[be, n't, just, pressure, work, be, excuse, often, use, even]	[1:04:01::]	1:06:00::;1:04:00::
+[be, kind, work, do, quality, ambition, awake, keep_from, painting]	[1:04:01::]	1:06:00::;1:04:00::
+[look, have, artist, want, joy, work, standing, profession, large, steady, income]	[1:04:01::]	1:06:00::;1:04:00::
+[go_to, retrospective, work, be, eighteen, think, be, contemporary, person]	[1:06:00::]	2:41:05::
+[upshot, evening, be, get, address, person, studio, rather, studio, give, class, n't, work, join, life_class, meet, tuesday, thursday, ten, twelve, morning]	[2:41:02::]	1:06:00::;1:04:00::
+[short, time, person, person, join, class, so, n't, feel, lonely, hang, sign, door, read, out, work]	[1:04:00::]	1:06:00::;1:04:00::
+[think, be, call, convivial, man, be, be, alone, studio, do, work, really, feel, alive]	[1:04:00::]	1:06:00::;1:04:00::
+[world, formerly, find, time, build_up, business, raise, family, be, half_a_dozen, board, work, actively, committee, go_out, evening, plow, content, bulging, briefcase]	[2:41:02::]	1:06:00::;1:04:00::
+[old, people, work, more, slowly]	[2:41:02::]	2:41:05::
+[then, at_least, have, place, hang, tool, work]	[2:41:02::]	2:41:05::
+[carpenter, want, steady, work, moment, twenty, mile, hammer, nail, twenty-five, dollar, day, work_on, school, job]	[1:04:01::]	1:06:00::;1:04:00::
+[person, be, at_least, sober, enough, remember, telephone, turn_out, be, greatest, boon, come, person, life, move, location, fact, n't, work, very, fast, very, long, at_a_time, n't, like, work, at_all, person, hang_around, talk]	[2:41:02::]	1:06:00::;1:04:00::
+[say, be, lonely, type, work, cellar, see, funny, thing, come, crack, wall, be, n't]	[2:41:02::]	2:41:05::
+[first, day, work, puzzle, entry, doctor, note, emergency, case]	[1:06:01::]	2:41:05::
+[never, work, naturally, make, look, unusual]	[2:41:03::]	2:41:05::
+[person, be, lucky, enough, see, hear, performance, work, august, certainly, welcome, return, public, notice, be, not, unlikely, even, great, person, lie_dormant, so, many, year, erudite, ingenious, person, pass_through, purgatory, neglect]	[1:06:00::]	1:06:00::;1:04:00::
+[hear, see, person, work, be, virtually, impossible, deny, artistic, validity, importance, whole, abstract, movement]	[1:06:00::]	1:06:00::;1:04:00::
+[work, use, non, color, be, startling, skillful]	[1:06:00::]	1:06:00::;1:04:00::
+[be, reliably, give, understand, technical, argot, engage, particular, branch, boost, i.e., burglar, rob, tenant, be, absent, contrast, hot, prowler, work, occupant, be, home]	[2:41:06::]	1:06:00::;1:04:00::
+[grocery, youth, work, soon, tired_of, depressing, effect, customer, be, sufficiently, neurotic, threat, incubus, let, go]	[2:41:00::]	1:06:00::;1:04:00::

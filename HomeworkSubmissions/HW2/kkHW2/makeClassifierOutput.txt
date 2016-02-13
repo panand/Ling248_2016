@@ -1,0 +1,1332 @@
+[make, indicate, tell]	[2:36:08::]	2:36:13::;2:36:05::
+[make, ask, grant]	[2:36:08::]	2:36:13::;2:36:05::
+[make, be]	[2:36:08::]	2:36:13::;2:36:05::
+[be, get, make, involve]	[2:36:08::]	2:36:13::;2:36:05::
+[lean, inquire, mean, make, admit]	[2:36:08::]	2:36:13::;2:36:05::
+[rule, be, make]	[2:36:08::]	2:36:13::;2:36:05::
+[meet, make, get, understand]	[2:41:00::]	2:36:13::;2:36:05::
+[be, feel, make]	[2:41:00::]	2:36:13::;2:36:05::
+[excuse, be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[restrain, raise, be, make]	[2:32:00::]	2:36:13::;2:36:05::
+[make, remove, prick]	[2:36:00::]	2:36:13::;2:36:05::
+[say, be, make, know]	[2:30:00::]	2:36:13::;2:36:05::
+[say, plan, name, make, come_up]	[2:36:08::]	2:36:13::;2:36:05::
+[urge, have, make]	[2:36:08::]	2:36:13::;2:36:05::
+[authorize, adopt, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:36:08::]	2:36:13::;2:36:05::
+[say, regret, make]	[2:36:08::]	2:36:13::;2:36:05::
+[make]	[2:36:08::]	2:36:13::;2:36:05::
+[think, resent, make]	[2:36:01::]	2:36:13::;2:36:05::
+[have, try, make, condemn]	[2:32:00::]	2:36:13::;2:36:05::
+[say, represent, make]	[2:36:08::]	2:36:13::;2:36:05::
+[make, carry]	[2:41:00::]	2:36:12::
+[make, step_down]	[2:41:00::]	2:36:13::;2:36:05::
+[be, propose, make, emphasize]	[2:41:00::]	2:36:13::;2:36:05::
+[expect, make, jockey, expect, advance]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, recognize]	[2:41:00::]	2:36:13::;2:36:05::
+[make, have, be, cut, eliminate]	[2:30:00::]	2:36:13::;2:36:05::
+[make, reestablish, see, come, bypass]	[2:41:00::]	2:41:13::
+[make, cause, suspect, relate]	[2:41:00::]	2:36:13::;2:36:05::
+[call, make, raise]	[2:41:00::]	2:36:13::;2:36:05::
+[say, think, wait, make, take, be, find, be]	[2:36:00::]	2:36:13::;2:36:05::
+[deny, make]	[2:36:00::]	2:36:13::;2:36:05::
+[have, make, open]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[solicit, make, mail]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:05::]	2:36:13::;2:36:05::
+[start, be, write, be, be, make, solve, be, be]	[2:36:00::]	2:36:13::;2:36:05::
+[indicate, make, total]	[2:36:04::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be, like, bring]	[2:36:04::]	2:36:13::;2:36:05::
+[choose, make, extend]	[2:36:09::]	2:36:13::;2:36:05::
+[select, make, wear]	[2:36:09::]	2:36:13::;2:36:05::
+[choose, make, trim]	[2:36:09::]	2:36:13::;2:36:05::
+[make, argue]	[2:36:08::]	2:36:13::;2:36:05::
+[hate, have, come_up, comment, make]	[2:36:08::]	2:36:13::;2:36:05::
+[concede, be, list, say, make]	[2:36:05::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[increase, demand, know, make, involve, seem, improve]	[2:30:00::]	2:36:13::;2:36:05::
+[sentence, commute, make]	[2:30:00::]	2:36:13::;2:36:05::
+[want, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be, request, establish]	[2:41:00::]	2:36:13::;2:36:05::
+[announce, be, prepare, accept, make]	[2:30:00::]	2:36:13::;2:36:05::
+[indicate, intend, make]	[2:41:00::]	2:36:13::;2:36:05::
+[do, make]	[2:36:01::]	2:36:13::;2:36:05::
+[visit, make]	[2:36:08::]	2:36:13::;2:36:05::
+[make, say, appear, take, pay]	[2:36:08::]	2:36:13::;2:36:05::
+[say, make, clear, dump]	[2:41:00::]	2:36:13::;2:36:05::
+[say, make, hire]	[2:41:00::]	2:36:13::;2:36:05::
+[make, hear]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[go_on, make, take_over]	[2:41:00::]	2:36:13::;2:36:05::
+[keep, make, defend, break_out]	[2:36:01::]	2:36:13::;2:36:05::
+[feel, make, need, demonstrate, jolt]	[2:30:00::]	2:36:13::;2:36:05::
+[say, tell, make, supply, supervise]	[2:41:00::]	2:36:13::;2:36:05::
+[say, question, total, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[combine, make, be, be]	[2:30:00::]	2:36:13::;2:36:05::
+[weigh, make]	[2:30:00::]	2:36:13::;2:36:05::
+[cost, contain, make]	[2:36:01::]	2:36:13::;2:36:05::
+[make, sell, grow]	[2:36:01::]	2:36:13::;2:36:05::
+[make, purchase]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[begin, make]	[2:36:01::]	2:36:13::;2:36:05::
+[be, make, clean, be]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[make, deal]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[make, start]	[2:36:01::]	2:36:13::;2:36:05::
+[stage, erase, make]	[2:38:02::]	2:36:13::;2:36:05::
+[indicate, make, correct]	[2:36:00::]	2:36:13::;2:36:05::
+[make, open, control, merge]	[2:36:00::]	2:36:13::;2:36:05::
+[rebuff, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[provide, push_up, make, afford]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, mine]	[2:36:01::]	2:36:13::;2:36:05::
+[pass, adjourn, soften, make]	[2:36:01::]	2:36:13::;2:36:05::
+[announce, make, call_on, furnish, show]	[2:36:00::]	2:36:13::;2:36:05::
+[deny, rule, make]	[2:41:00::]	2:36:13::;2:36:05::
+[rule, apply, make, set_up, purchase, divulge]	[2:41:00::]	2:36:13::;2:36:05::
+[explain, have, make]	[2:41:00::]	2:36:13::;2:36:05::
+[mention, drop, do, make]	[2:36:08::]	2:36:13::;2:36:05::
+[encourage, try, say, include, be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[seem, make, be, be]	[2:41:00::]	2:36:13::;2:36:05::
+[take, repair, make]	[2:36:00::]	2:36:13::;2:36:05::
+[be, make]	[2:36:01::]	2:36:13::;2:36:05::
+[decide, think, make, look]	[2:36:05::]	2:36:13::;2:36:05::
+[fail, materialize, say, make, get, sweep]	[2:41:00::]	2:36:13::;2:36:05::
+[serve, lull, make]	[2:36:08::]	2:36:13::;2:36:05::
+[want, weaken, make]	[2:30:00::]	2:36:13::;2:36:05::
+[give, take, try, probe, make]	[2:30:00::]	2:36:13::;2:36:05::
+[convince, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, get]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[resume, go, be, make, belong_to]	[2:36:05::]	2:36:13::;2:36:05::
+[do, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, guarantee]	[2:36:08::]	2:36:13::;2:36:05::
+[make, suspect, reserve]	[2:41:00::]	2:36:13::;2:36:05::
+[be, lead, destroy, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, reduce]	[2:41:00::]	2:36:13::;2:36:05::
+[generate, make, stem, fall, plague]	[2:30:00::]	2:36:13::;2:36:05::
+[write, make, oppose]	[2:30:00::]	2:36:13::;2:36:05::
+[aim, amend, authorize, make, act]	[2:30:00::]	2:36:13::;2:36:05::
+[make, take_out, be, abolish, extend, want, continue, set, set]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[parade, use, use, carry, make, be]	[2:30:00::]	2:29:08::
+[be, say, make]	[2:41:00::]	2:36:13::;2:36:05::
+[face, require, officiate, hear, make, defeat]	[2:41:00::]	2:36:13::;2:36:05::
+[think_about, have, have, be, overcome, make, wonder, solve]	[2:36:15::]	2:36:13::;2:36:05::
+[make, thwart]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[have, make]	[2:36:05::]	2:36:13::;2:36:05::
+[make, say, want, talk]	[2:41:00::]	2:36:13::;2:36:05::
+[catapult, make, deliver]	[2:41:03::]	2:36:13::;2:36:05::
+[add, cause, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, give]	[2:36:08::]	2:36:13::;2:36:05::
+[make, take_over, keep]	[2:40:01::]	2:36:13::;2:36:05::
+[make, be, make, do, fail, do]	[2:36:08::, 2:36:00::]	2:36:13::;2:36:05::
+[be, hijack, happen, make, land]	[2:36:15::]	2:36:13::;2:36:05::
+[serve, make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[make, improve]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, water]	[2:36:15::]	2:36:13::;2:36:05::
+[overcome, make, join, see]	[2:30:00::]	2:36:13::;2:36:05::
+[make, destroy, require]	[2:38:02::]	2:36:13::;2:36:05::
+[make, fall_short_of, be, maintain, be]	[2:38:02::]	2:36:13::;2:36:05::
+[make, attack, attract]	[2:41:00::]	2:36:13::;2:36:05::
+[spare, make, look_like]	[2:30:00::]	2:36:13::;2:36:05::
+[search, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, carry, make, balance]	[2:30:00::]	2:29:08::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[point_out, integrate, isolate, attempt, make]	[2:36:00::]	2:36:13::;2:36:05::
+[fix, study, make]	[2:36:01::]	2:36:13::;2:36:05::
+[be, wish, make]	[2:41:00::]	2:36:13::;2:36:05::
+[try, make]	[2:36:08::]	2:36:13::;2:36:05::
+[speak, carry, make]	[2:36:00::]	2:36:12::
+[be, engage, seal, have, make]	[2:41:00::]	2:36:13::;2:36:05::
+[suggest, be, make, make_it]	[2:41:00::]	2:36:13::;2:36:05::
+[make, receive, be, imagine, balance]	[2:36:08::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, rush, express, be]	[2:41:00::]	2:36:13::;2:36:05::
+[become, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, want, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, protect]	[2:36:08::]	2:36:05::
+[assume, have, hide, have, make]	[2:30:00::]	2:36:13::;2:36:05::
+[tend, create, make, restore]	[2:30:00::]	2:36:13::;2:36:05::
+[believe, make, list, lie, do, promote]	[2:41:00::]	2:36:13::;2:36:05::
+[accuse, harbor, make, insist, be, establish]	[2:36:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[move_into, believe, make, stick]	[2:32:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[object, be, make, turn_into, come]	[2:41:00::]	2:29:08::
+[have, survive, be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[get, make]	[2:36:00::]	2:36:13::;2:36:05::
+[remove, make]	[2:30:00::]	2:36:13::;2:36:05::
+[remove, make, pay, affect]	[2:30:00::]	2:36:13::;2:36:05::
+[make, run_into, recommend, take_shape]	[2:36:09::]	2:36:13::;2:36:05::
+[happen, run, make]	[2:30:00::]	2:36:13::;2:36:05::
+[use, say, be, make]	[2:40:01::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, have]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:42:05::]	2:36:13::;2:36:05::
+[expect, be, make, know, try, tell, be]	[2:30:00::]	2:36:13::;2:36:05::
+[push, make, be, sling, ripple]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[thank, make]	[2:41:00::]	2:36:13::;2:36:05::
+[pull, make, see, hope, lie]	[2:36:05::]	2:36:13::;2:36:05::
+[make, resume]	[2:36:08::]	2:36:13::;2:36:05::
+[point, force, slow_down, permit, change, accelerate, decelerate, keep, guess, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[think, make]	[2:30:00::]	2:36:13::;2:36:05::
+[leave, see, wait, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, say, be, make]	[2:41:13::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, permit, make, appear]	[2:30:00::]	2:36:13::;2:36:05::
+[start, make, end]	[2:36:00::]	2:36:13::;2:36:05::
+[make, be]	[2:36:01::]	2:36:13::;2:36:05::
+[try, do, be, protect, try, maintain, make]	[2:36:12::]	2:36:13::
+[be, commend, serve, discharge, make, criticize]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, limit]	[2:30:00::]	2:36:13::;2:36:05::
+[be, balance, make]	[2:41:00::]	2:36:13::;2:36:05::
+[write, make]	[2:41:00::]	2:36:13::;2:36:05::
+[determine, spend, certify, appropriate, make, assess, levy, collect, appropriate]	[2:41:00::]	2:36:13::;2:36:05::
+[show, become, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, desire, participate, live_up_to, present]	[2:36:00::]	2:36:13::;2:36:05::
+[respect, make, like, question]	[2:31:00::]	2:36:13::;2:36:05::
+[make, support]	[2:40:01::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, guarantee]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:09::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[suppose, miss, see, make]	[2:36:00::]	2:36:13::;2:36:05::
+[repeat, make]	[2:36:00::]	2:36:13::;2:36:05::
+[be, make, be, be, be]	[2:41:00::]	2:36:13::;2:36:05::
+[make, grow, hang, follow]	[2:30:00::]	2:36:13::;2:36:05::
+[inveigh, be, justify, be, assume, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[hedge, decide, be, make, be, affect]	[2:30:00::]	2:36:13::;2:36:05::
+[inhibit, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[presuppose, demonstrate, make, appear]	[2:30:00::]	2:36:13::;2:36:05::
+[be, be, enable, make, be, be]	[2:41:00::]	2:36:13::;2:36:05::
+[ask, be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[estimate, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, do, explain, get, intend, economize, hope, do]	[2:30:00::]	2:36:13::;2:36:05::
+[declare, make]	[2:30:00::]	2:36:13::;2:36:05::
+[believe, make, prove]	[2:36:08::]	2:36:13::;2:36:05::
+[cloud_over, make, see]	[2:36:00::]	2:36:13::;2:36:05::
+[make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[make, declare, turn]	[2:36:00::]	2:36:13::;2:36:05::
+[prove, invent, make]	[2:30:00::]	2:36:13::;2:36:05::
+[derive, make]	[2:36:00::]	2:36:13::;2:36:05::
+[open, make]	[2:36:00::]	2:36:13::;2:36:05::
+[convict, paint, jail, spend, try, make]	[2:36:00::]	2:36:13::;2:36:05::
+[seem, take_pride, make, be]	[2:41:00::]	2:36:13::;2:36:05::
+[give, make, bring, face]	[2:41:00::]	2:36:13::;2:36:05::
+[spend, make]	[2:36:00::]	2:36:13::;2:36:05::
+[be, make, hope, spark]	[2:31:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, give]	[2:38:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[believe_in, make, make]	[2:41:00::]	2:36:13::;2:36:05::
+[comment, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, display]	[2:36:12::]	2:36:13::;2:36:05::
+[decide, let, make]	[2:36:12::]	2:36:13::;2:36:05::
+[exemplify, make, select]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:38:02::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[lift, make, lead]	[2:32:00::]	2:36:13::;2:36:05::
+[reproduce, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, bring_up, tell, flatter, write]	[2:36:00::]	2:36:13::;2:36:05::
+[come, make, overhear, make, see, move]	[2:41:00::]	2:30:15::
+[have, take, try, see, do, seem, seem, happen, be, make, seem]	[2:30:00::]	2:36:13::;2:36:05::
+[make, hold, come, hear, go]	[2:30:00::]	2:36:09::
+[make, appear, fail, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, ring_out, be]	[2:41:00::]	2:36:13::;2:36:05::
+[share, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, be, write, perform, direct]	[2:41:13::]	2:36:13::;2:36:05::
+[try, humanize, perform, make, intend]	[2:30:00::]	2:36:13::;2:36:05::
+[play, make, tell]	[2:30:00::]	2:36:13::;2:36:05::
+[be, reflect, exhibit, make]	[2:36:00::]	2:36:13::;2:36:05::
+[have, seem, make]	[2:30:00::]	2:36:13::;2:36:05::
+[release, make]	[2:36:00::]	2:36:13::;2:36:05::
+[dance, contain, attempt, make, perform]	[2:32:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:36:00::]	2:36:13::;2:36:05::
+[quote, say, become, wish, be, tend, shy_away_from, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[play, make, become]	[2:30:00::]	2:36:13::;2:36:05::
+[conduct, make]	[2:30:00::]	2:36:13::;2:36:05::
+[hope, amount, make]	[2:41:00::]	2:36:13::;2:36:05::
+[bear, make, attract, be, make_up]	[2:32:00::]	2:36:13::;2:36:05::
+[shake_off, jilt, proclaim, get, make, have, watch]	[2:30:00::]	2:36:13::;2:36:05::
+[put, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, recognize]	[2:32:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, see]	[2:36:00::]	2:36:13::;2:36:05::
+[communize, stand, agree, refuse, make]	[2:36:08::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, have, show, carry]	[2:41:00::]	2:30:15::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, take, lurk]	[2:41:00::]	2:36:13::;2:36:05::
+[be, wean, make, be, kill, leave]	[2:36:00::]	2:36:13::;2:36:05::
+[worry, make, eat]	[2:41:00::]	2:36:13::;2:36:05::
+[commence, bear, descend, be, make, be, evaporate]	[2:30:00::]	2:36:13::;2:36:05::
+[follow, make]	[2:36:00::]	2:36:13::;2:36:05::
+[become, grow_up, make, refute, feel, seem, pull_out, be, weaken]	[2:36:00::]	2:36:13::;2:36:05::
+[make, be, pray, minister]	[2:30:00::]	2:36:13::;2:36:05::
+[trust, be, attend, feel, be, worship, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, fill]	[2:36:00::]	2:36:13::;2:36:05::
+[make, report, worry, happen, worry, be, worry, be, worry, be, take]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, stand, compromise, negotiate, be, negotiate]	[2:30:00::]	2:36:13::;2:36:05::
+[behold, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, assign, seem, base, tend, stifle]	[2:36:00::]	2:36:13::;2:36:05::
+[end, drift, make, keep]	[2:41:00::]	2:36:13::;2:36:05::
+[visit, make]	[2:36:12::]	2:36:13::;2:36:05::
+[write, be, try, make, know, happen]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, be, tie, tend]	[2:30:00::]	2:36:13::;2:36:05::
+[be, provide, make, respect, prohibit]	[2:41:00::]	2:36:13::;2:36:05::
+[call, make]	[2:41:00::]	2:36:13::;2:36:05::
+[continue, be, make, begin]	[2:41:00::]	2:36:13::;2:36:05::
+[think, make, need, submit, decide, kill, be, be]	[2:41:00::]	2:36:13::;2:36:05::
+[succeed, restore, make, distinguish, choose, choose]	[2:41:00::]	2:36:13::;2:36:05::
+[make, believe, need, increase, reduce, limit]	[2:36:12::]	2:36:13::;2:36:05::
+[make, acknowledge]	[2:30:00::]	2:36:13::;2:36:05::
+[obscure, make]	[2:41:00::]	2:36:13::;2:36:05::
+[have, illumine, make]	[2:31:00::]	2:36:13::;2:36:05::
+[think, know, pool, make]	[2:36:01::]	2:36:13::;2:36:05::
+[try, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, be, make, be]	[2:36:08::]	2:36:13::;2:36:05::
+[be, run, carry, need, tie_up, make]	[2:41:00::]	2:29:08::
+[make]	[2:36:08::]	2:36:13::;2:36:05::
+[leave, make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[begin, make, feel]	[2:30:00::]	2:36:13::;2:36:05::
+[be, help, make]	[2:30:00::]	2:36:13::;2:36:05::
+[arise, build, be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[develop, be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[insist, burn, make, base]	[2:36:00::]	2:36:13::;2:36:05::
+[be, be, be, pass_away, behold, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, love, turn_away]	[2:32:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[contribute, make]	[2:30:00::]	2:36:13::;2:36:05::
+[improve, overall, balance, control, bodybuilder, help, make, squat, more, easily, more, correctly, perform]	[2:30:00::]	2:36:13::;2:36:05::
+[have, a_couple_of, training, partner, stand_by, make, first, experiment, just, safety]	[2:41:00::]	2:36:13::;2:36:05::
+[suggest, hold, bar, back, neck, reason, n't, make, experiment, bar, hold, neck]	[2:41:00::]	2:36:13::;2:36:05::
+[lifter, leg, split, lifter, benefit, enormously, practice, variation, remember, make, alternate, set, left, right, leg, front]	[2:41:00::]	2:36:13::;2:36:05::
+[like, make, seedbed, right, open, many, people, start, successfully, cold_frame]	[2:36:00::]	2:36:13::;2:36:05::
+[cold_frame, be, morale_builder, mass, bright, bloom, set, border, snow, make, spirit, rise, time, look]	[2:32:00::]	2:36:13::;2:36:05::
+[treat, right, make, showing, every_month, year, frigid]	[2:41:00::]	2:36:13::;2:36:05::
+[delightful, tropical, fruit, become, well-known, past, thirty, year, modern, transportation, method, make, possible, ship, avocado, anywhere, united_states]	[2:30:00::]	2:36:13::;2:36:05::
+[have, great, many, asset, recommend, n't, make, avocado, part, diet, yet, really]	[2:30:00::]	2:36:13::;2:36:05::
+[sometimes, take, several, eating, avocado, catch, delightful, quality, taste, make, such, favorite, throughout, world]	[2:30:00::]	2:36:13::;2:36:05::
+[today, refrigerated, carrier, make, shipping, avocado, possible, any, place, world]	[2:30:00::]	2:36:13::;2:36:05::
+[make, be, give]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, spend, develop, make]	[2:36:00::]	2:36:13::;2:36:05::
+[lyric, beauty, person, elemental, rhythm, infectious, melody, make, source, pure, pleasure, almost, all, music, listener]	[2:30:00::]	2:36:13::;2:36:05::
+[accumulation, distortion, fit, fractional, bit, total, reach, threshold, awareness, make, record, sound, record]	[2:30:00::]	2:36:13::;2:36:05::
+[group, new, person, be, major, effort, make, record, sound, real, orchestra, rather, copy]	[2:36:00::]	2:36:13::;2:36:05::
+[sort, experience, make, concept, high_fidelity, real, musical, significance, home, music, listener]	[2:30:00::]	2:36:13::;2:36:05::
+[enter, make]	[2:41:03::]	2:36:13::;2:36:05::
+[attend, make, enter, be]	[2:30:15::]	2:36:13::;2:36:05::
+[have, recall, load, drive, make, transfer]	[2:41:00::]	2:36:13::;2:36:05::
+[name, produce, make]	[2:36:01::]	2:36:13::;2:36:05::
+[wonder, bother, make, come_to, excel]	[2:31:13::]	2:36:13::;2:36:05::
+[give, make, make]	[2:30:00::]	2:36:13::;2:36:05::
+[compress, make, show]	[2:36:00::]	2:36:13::;2:36:05::
+[tend, make, file, get]	[2:30:00::]	2:36:13::;2:36:05::
+[fit, make, be, remove, replace]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[seek, make, have, analyze, standardize, communicate, discover, learn]	[2:32:00::]	2:36:13::;2:36:05::
+[determine, make, rotate, build, put, be]	[2:32:00::]	2:36:13::;2:36:05::
+[be, make, convert]	[2:32:00::]	2:36:13::;2:36:05::
+[be, calculate, make, affect]	[2:41:00::]	2:36:13::;2:36:05::
+[make, determine, displace, compute]	[2:32:00::]	2:36:13::;2:36:05::
+[inflate, load, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, look, make, cover]	[2:41:13::, 2:36:08::]	2:36:13::;2:36:05::
+[make, cut, compare, be, scale]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:12::]	2:36:13::;2:36:05::
+[make, weigh]	[2:36:01::]	2:36:13::;2:36:05::
+[make, be, operate]	[2:30:00::]	2:36:13::;2:36:05::
+[make, be, operate, open, open]	[2:36:01::]	2:36:13::;2:36:05::
+[make, include]	[2:41:00::]	2:36:13::;2:36:05::
+[resemble, make, announce]	[2:30:00::]	2:36:13::;2:36:05::
+[make, be]	[2:36:01::]	2:36:13::;2:36:05::
+[be, make, be]	[2:36:00::]	2:36:13::;2:36:05::
+[make, place, come, be]	[2:36:00::]	2:29:08::
+[peel, core, slice, make, set_aside]	[2:36:00::]	2:36:13::;2:36:05::
+[use, plan, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, use]	[2:36:00::]	2:36:13::;2:36:05::
+[try, provide, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, include]	[2:36:00::]	2:36:13::;2:36:05::
+[make, include]	[2:30:00::]	2:36:13::;2:36:05::
+[disappear, schedule, vanish, make, show_off]	[2:30:00::]	2:36:13::;2:36:05::
+[make, cover]	[2:36:05::]	2:36:13::;2:36:05::
+[make, heat]	[2:30:00::]	2:36:13::;2:36:05::
+[make, touch, hit]	[2:36:00::]	2:36:13::;2:36:05::
+[fix, prepare, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, come]	[2:36:13::]	2:41:13::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[leave, make, come_upon]	[2:32:00::]	2:36:13::;2:36:05::
+[have, make, fit]	[2:36:01::]	2:36:13::;2:36:05::
+[make, come_close, remember]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[prepare, blend, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:05::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[blend, make]	[2:36:00::]	2:36:13::;2:36:05::
+[write, have, make]	[2:36:09::]	2:36:13::;2:36:05::
+[have, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, cause, create]	[2:36:00::]	2:36:13::;2:36:05::
+[use, cut, hold, form, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[bevel, score, overlap, make]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, omit]	[2:36:00::]	2:36:13::;2:36:05::
+[make, leave_off]	[2:36:00::]	2:36:13::;2:36:05::
+[make, fill]	[2:36:00::]	2:36:13::;2:36:05::
+[make, use, use]	[2:36:00::]	2:36:13::;2:36:05::
+[make, lap, glue, fasten]	[2:36:00::]	2:36:13::;2:36:05::
+[make, instal]	[2:36:00::]	2:36:13::;2:36:05::
+[take, rip, make]	[2:36:00::]	2:36:12::
+[go_in, make, bend]	[2:36:00::]	2:36:13::;2:36:05::
+[use, make]	[2:36:00::]	2:36:13::;2:36:05::
+[develop, interlock, make]	[2:36:00::]	2:36:13::;2:36:05::
+[note, use, use, use, make]	[2:36:00::]	2:36:13::;2:36:05::
+[lead, observe, make, reach]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, lay_down, obey, become]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[save, make, feel]	[2:30:00::]	2:36:13::;2:36:05::
+[make, spend, nurse, filter, vacuum, leave]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[have, make, work]	[2:32:00::]	2:36:13::;2:36:05::
+[make, acquire]	[2:30:00::]	2:36:13::;2:36:05::
+[concur, make, offset]	[2:36:00::]	2:36:13::;2:36:05::
+[have, include, build, make]	[2:41:00::]	2:36:13::;2:36:05::
+[know, make, pump, release]	[2:30:00::]	2:36:13::;2:36:05::
+[cycle, build_up, make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[make, cool]	[2:30:00::]	2:36:13::;2:36:05::
+[such, program, make, constructive, selection, best, site, available]	[2:41:00::]	2:36:13::;2:36:05::
+[new_edition, topographical, map, make, federal_government, be, excellent, orient, natural, feature, site]	[2:36:01::]	2:36:13::;2:36:05::
+[be, usually, helpful, make, sketch_map, field, show, size, location, feature, interest, take, photograph, site]	[2:36:00::]	2:36:13::;2:36:05::
+[however, be, also, much, gain, make, use, ability, local, people, be, available, interest, recreation]	[2:41:00::]	2:36:13::;2:36:05::
+[be, too, easy, inexperienced_person, make, quick, judgment, a_few, value, area, base, decision, alone]	[2:31:00::]	2:36:13::;2:36:05::
+[look, physical, feature, land, determine, desirable, be, use, do, correct, fault, cost, make, area, meet, need, other, site]	[2:32:00::]	2:36:13::;2:36:05::
+[lack, rainfall, extreme, temperature, call_for, development, shade, irrigation, site, make, useable]	[2:30:00::]	2:36:13::;2:36:05::
+[be, precisely, make, lucid, straightforward, music, so, difficult, compose, clarity, be, new, not, old]	[2:30:00::]	2:36:13::;2:36:05::
+[miscalculation, person, make, fatal, historical, blunder, presume, transform, other, composer, inspiration, represent, many, people, time_period, style, own, music, warp, harmony, melody, form, verify, own, experiment]	[2:41:00::]	2:36:13::;2:36:05::
+[observe, time_and_time_again, be, process, integration, integration, begin, abstract, design, gradually, take_on, recognizable, form, color, pattern, make, weave, whole, composition, overall, amazing, control, large, wash, be, person, stylemark]	[2:36:09::]	2:36:13::;2:36:05::
+[first, make, preliminary, watercolor, sketch, quarter, scale, approximately, inch, pay, particular, attention, design, principle, three, simple, value, light, light, middle, tone, dark, dark, reduce, form, subject, large, pattern]	[2:36:09::]	2:36:13::;2:36:05::
+[occur, make, change, sketch, final, watercolor, work, full, sheet, field]	[2:41:00::]	2:36:13::;2:36:05::
+[use, variety, heavyweight, handmade, paper, prefer, english, make, rough, surface, pound, weight]	[1:09:00::]	2:36:13::;2:36:05::
+[usual, tool, make, constant, use, cleansing, tissue, not_only, wipe, brush, mop_up, certain, area, soften, edge, open_up, light, dark, wash]	[2:41:00::]	2:36:13::;2:36:05::
+[great, absorbency, tissue, fact, be, easy, control, sponge, make, ideal, tool, watercolorist]	[2:30:00::]	2:36:13::;2:36:05::
+[addition, endurance, training, later, body, be, mature, enough, benefit, danger, injury, provide, final, quality, make, top, athlete, soldier, citizen]	[2:36:00::]	2:36:13::;2:36:05::
+[dance, teacher, america, make, business, prepare, young, charge, gymnastics, come, someday, school, be, really, responsible, be, that_much, ahead]	[2:36:08::]	2:29:08::
+[arch, back, upwards, make, bridge]	[2:36:00::]	2:36:13::;2:36:05::
+[in_addition, heart, aorta, successful, measurement, liver, spleen, also, make, technique]	[2:41:00::]	2:36:13::;2:36:05::
+[pressure, measurement, make, at_the_same_time, ultrasonic, dimensioning, measurement, make]	[2:41:00::]	2:36:13::;2:36:05::
+[several, year, ago, headline, make, small, radio_transmitter, capsule, swallow, patient, then, radio, internal, pressure, data, external, receiver]	[2:38:02::]	2:36:13::;2:36:05::
+[father, person, be, village, apothecary, slender, income, make, difficult, feed, family, let_alone, educate, town, even, school]	[2:30:00::]	2:36:13::;2:36:05::
+[be, curious, see, battery, glass, tube, invent, quite, small, one, make, here, four, glass, tube, copenhagen, use, 30, intend, carry]	[2:36:01::]	2:36:13::
+[february, person, manage, experiment, physical, apparatus, report, experiment, make, voltaic_battery, plate, zinc, silver, later, experiment, battery, 60, plate, zinc, lead]	[2:41:00::]	2:36:13::;2:36:05::
+[attempt, make, see, electricity, most, latent, stage, have, action, magnet, as_such]	[2:41:00::]	2:36:13::;2:36:05::
+[assistance, one, member, expedition, person, person, succeed, produce, light, create, electric_discharge, mercury, vapor, electric_current, make, flow]	[2:36:08::]	2:36:13::;2:36:05::
+[person, almost, stumble, lead, relationship, electricity, magnetism, discharge, leyden_jar, send, transversally, piece, watch, spring, steel, make, end, magnetic]	[2:30:00::]	2:36:13::;2:36:05::
+[resulting, magnetic, effect, prove, strong, discharge, make, lengthwise]	[2:36:00::]	2:36:13::;2:36:05::
+[sequence, event, lead, important, discovery, still, remain, ambiguous, seem, one, advanced, student, university, relate, first, direct, event, lead, publication, person, discovery, occur, private, lecture, make, group, other, advanced, student, spring]	[2:41:00::]	2:36:13::;2:36:05::
+[know, specifically, many, feed, additive, do, feed, make, highly, competitive, business, more, profitable, beef_man, dairyman, sheepman]	[2:30:00::]	2:36:13::;2:36:05::
+[company, all, type, make, great, advance, production, capability, efficiency, modern, equipment, new, process, enlarged, facility, fast, new, product, development]	[2:41:00::]	2:36:13::;2:36:05::
+[key, area, examine, make, sure, pricing, strategy, be, target]	[2:30:00::]	2:36:13::;2:36:05::
+[cost, study, make, phase, operation, determine, do, thing, get, worse]	[2:41:00::]	2:36:13::;2:36:05::
+[display, merchandising, back, pre, selling, advertising, promotion, continue, make, stride, sixties]	[2:29:08::]	2:36:13::;2:36:05::
+[have, high, quality, product, make, stand_out, justify, premium, price, spoken, word]	[2:32:00::]	2:36:13::;2:36:05::
+[make, drawing, plan, room, show, placement, furniture, floor_covering, wall, decoration, determine, color_scheme]	[2:36:00::]	2:36:13::;2:36:05::
+[make, necessary, purchase, place, supervise, construction, installation, finishing, placement, furniture, fixture, other, correlated, furnishings, follow_through, completion, project]	[2:41:00::]	2:36:13::;2:36:05::
+[effort, make, assess, result, program]	[2:41:00::]	2:36:13::;2:36:05::
+[negotiate, union, make, sure, employee, have, choice, new, benefit, cent, hour, cost, wage]	[2:30:00::]	2:36:13::;2:36:05::
+[sort, effort, make, assure, old, disabled, worker, be, fully, productive]	[2:41:00::]	2:36:13::;2:36:05::
+[even, other, plant, employ, same, number, worker, make, same, product, be, other, fact, consider]	[2:36:01::]	2:36:13::;2:36:05::
+[factor, make, difference, waste, efficiency, benefit, program]	[2:36:00::]	2:36:13::;2:36:05::
+[make, sure, milk, coffee, place, dispenser, rather, container, supply, coffee]	[2:30:00::]	2:36:13::;2:36:05::
+[make, sure, have, minimum, age, time, on_the_job, requirement, tie, pension, plan]	[2:30:00::]	2:36:13::;2:36:05::
+[make, sure, n't, pay, holiday, occur, employee, not, otherwise, work]	[2:30:00::]	2:36:13::;2:36:05::
+[check, cafeteria, location, make, sure, be, convenient, most, employee]	[2:30:00::]	2:36:13::;2:36:05::
+[also, make, sure, have, reasonable, requirement, hours, work, production, employee, be, entitled, vacation]	[2:30:00::]	2:36:13::;2:36:05::
+[try, provide, standard, vacation, time_off, make, vacation, pay, depend_on, number, hours, work, previous, year]	[2:30:00::]	2:36:13::;2:36:05::
+[continuation, expansion, shooting, development, program, assure, some, degree, national, community, leaders, make, aware, ever, growing, need, shooting, facility, activity, hunting, shooting, answer, public, demand]	[2:30:00::]	2:36:13::;2:36:05::
+[consider, equipment, needed, protect, many, weather, make, cooking, easy, sleeping, comfortable]	[2:30:00::]	2:30:15::
+[make, mistake, first, reason, people, turn_to, camping, be, one, economy]	[2:41:00::]	2:36:13::;2:36:05::
+[become, consider, bear, happen, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, study, use, suggest, speed, evaluate]	[2:30:00::]	2:36:13::;2:36:05::
+[fight, agree, make, include, nod, shake, talk]	[2:36:00::]	2:36:13::;2:36:05::
+[make, demonstrate, react, offer, be, pick_up]	[2:36:00::]	2:36:13::;2:36:05::
+[alert, bring, make]	[2:30:00::]	2:36:13::;2:36:05::
+[say, see, be, pay, consider, make]	[2:41:00::]	2:36:13::;2:36:05::
+[arrive, make, indicate, be]	[2:38:05::]	2:36:13::;2:36:05::
+[make, lay_down, drop, shower, burn]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[know, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, shiver, glance]	[2:32:00::]	2:36:13::;2:36:05::
+[ruin, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:36:08::]	2:36:13::;2:36:05::
+[illuminate, make, seem, imbed, be, miss]	[2:30:00::]	2:36:13::;2:36:05::
+[theory, make, possible, event, eternity, be, continuously, available, moment, consciousness]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:42:05::]	2:36:13::;2:36:05::
+[apply, make]	[2:36:05::]	2:36:13::;2:36:05::
+[make, be]	[2:36:00::]	2:36:13::;2:36:05::
+[make, serve]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[use, be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[substitute, make, be]	[2:41:00::]	2:36:13::;2:36:05::
+[receive, ask, put_on, make]	[2:41:00::]	2:36:13::;2:36:05::
+[wish, show, be, stay, make, take_off, disregard]	[2:41:00::]	2:36:13::;2:36:05::
+[have, accept, have, make, have, believe, see]	[2:30:00::]	2:36:13::;2:36:05::
+[make, interest]	[2:36:00::]	2:36:13::;2:36:05::
+[love, run_up, sew, make]	[2:36:00::]	2:36:13::;2:36:05::
+[yearn, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[let, fall, keep_on, plug, make]	[2:38:02::]	2:36:13::;2:36:05::
+[advise, make, enjoy]	[2:30:00::]	2:36:13::;2:36:05::
+[run, make, build, produce, found, create, develop]	[2:36:00::]	2:36:13::;2:36:05::
+[be, seem, make]	[2:36:00::]	2:36:13::;2:36:05::
+[be, project, create, make, create]	[2:38:02::]	2:36:13::;2:36:05::
+[make, be, be, require, be, have]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[last, mean, be, resume, make, forestall, confide, lie, be]	[2:41:00::]	2:36:13::;2:36:05::
+[have, make]	[2:41:00::]	2:36:13::;2:36:05::
+[add, make, bring]	[2:30:00::]	2:36:13::;2:36:05::
+[associate, give, cause, make, exercise, complicate, relax, facilitate]	[2:30:00::]	2:36:13::;2:36:05::
+[check, discipline, put, make, be]	[2:41:00::]	2:36:13::;2:36:05::
+[be, recover, make]	[2:30:00::]	2:36:13::;2:36:05::
+[take, make, lose]	[2:36:08::]	2:36:13::;2:36:05::
+[additional, factor, help, make, woman, more, sexually, self-assertive, comparatively, recent, discovery, true, depth, female, desire, response]	[2:30:00::]	2:36:13::;2:36:05::
+[couple, be, in_agreement, approach, sex, make, little, difference, dominate, person, declare]	[2:41:00::]	2:36:13::;2:36:05::
+[move, make]	[2:38:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[fall_for, recount, clinch, think, be, make, give, lead]	[2:36:00::]	2:36:13::;2:36:05::
+[team_up, lose, commence, make]	[2:30:00::]	2:36:13::;2:36:05::
+[have, make, understand, be, wish, meet]	[2:36:15::]	2:36:13::;2:36:05::
+[sell, make]	[2:36:00::]	2:36:13::;2:36:05::
+[reason, inform, lord, make, sky, blue]	[2:36:05::]	2:36:13::;2:36:05::
+[then, sell, mineral, cure, kidney, ailment, can, sage, make, look_like, girl, again, application, plain, mud, take_away, wrinkle]	[2:30:00::]	2:36:13::;2:36:05::
+[machine, quack, make, person, device, odds_and_ends, metal, wire, radio, part]	[2:36:01::]	2:36:13::;2:36:05::
+[come_in, fall, make]	[2:36:00::]	2:36:13::;2:36:05::
+[be, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, receive]	[2:41:00::]	2:36:13::;2:36:05::
+[be, be, seek, help, clarify, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, send]	[2:36:00::]	2:36:13::;2:36:05::
+[think, make, describe, be, hear, apply]	[2:41:00::]	2:36:13::;2:36:05::
+[make, try, throw]	[2:41:00::]	2:36:13::;2:36:05::
+[be, find_out, fall, make]	[2:41:00::]	2:36:13::;2:36:05::
+[high, cost, land, supplies, labor, make, difficult, farm, profitably, part-time, basis]	[2:30:00::]	2:36:13::;2:36:05::
+[be, not, well, acquainted_with, area, locate, be, not, sure, family, like, make, success, farming, usually, do, better, rent, place, year, two, buy]	[2:30:00::]	2:36:13::;2:36:05::
+[presence, alternative, job, opportunity, also, make, place, easy, sell, become, desirable]	[2:30:00::]	2:36:13::;2:36:05::
+[soil, type, drainage, degree, slope, make, difference, good, crop, poor]	[2:41:00::]	2:36:13::;2:36:05::
+[house, part-time, farm, consider, make, satisfactory, full-time, residence]	[2:36:00::]	2:36:13::;2:36:05::
+[house, be, not, wired, adequately, electricity, plumbing, central_heating, system, instal, check_into, cost, make, improvement]	[2:41:00::]	2:36:13::;2:36:05::
+[interruption, come, largely, bench, numerous, time, rebuke, attorney_general, let, witness, run, too, make, serious, effort, choke_off, flow]	[2:41:00::]	2:41:13::
+[regard_to, person, be, find, nazi, outlook, contain, principle, separate, far, worse, anti-semitism, principle, poison, anti-semitism, make, more, virulent]	[2:30:00::]	2:36:13::;2:36:05::
+[trial, not, expose, special, nazi, mania, so, deadly, jew, happen, light, warn, very, effectively, ordinary, anti-semitism, nazi, make, such, effective, use, germany, else, find]	[2:41:00::]	2:36:13::;2:36:05::
+[in_other_words, promulgator, murder, plan, make, clear, physically, exterminate, jew, be, extension, anti-semitic, measure, already, operate, phase, german, life, new, conspiracy, count_on, general, anti-semitism, make, measure, effective, readiness, murder]	[2:30:00::]	2:36:13::;2:36:05::
+[magnitude, plan, make, secrecy, impossible, once, wheels, begin, turn, person, control, german, industry, social, institution, armed_forces, become, anti-semitism, tolerance, conscious, accomplice, hitler, crime, last, degree, lesser, be, matter, determine, individually]	[2:30:00::]	2:36:13::;2:36:05::
+[not, edifying, trial, make, effort, demonstrate, once_and_for_all, show, representative, type, mere, anti-semite, draw, step_by_step, program, skull, bash, gassing]	[2:41:00::]	2:36:13::;2:36:05::
+[patriot, everywhere, know, enough, persecution, jew, germany, later, occupied, country, contribute, terrorize, population, split, apart, individual, group, arouse, mean, most, dishonest, impulse, pulverize, trust, personal, dignity, finally, force, people, follow, master, abyss, make, partner, unspeakable, crime]	[2:30:00::]	2:36:13::;2:36:05::
+[career, person, make, trial, potential, showcase, anti-semitic, demoralization]	[2:30:00::]	2:36:13::;2:36:05::
+[exception, roman_catholic_church, orthodox_catholic_church, most, church, make, moral, distinction, rhythm, mechanical, chemical, contraceptive, allow, couple, free, choice]	[2:31:00::]	2:36:13::;2:36:05::
+[conclusion, base, two, proposition, man, use, reason, ascertain, god, purpose, universe, god, make, known, purpose, certain, given, physical, arrangement]	[2:36:00::]	2:36:13::;2:36:05::
+[only, confusion, failure, anarchy, result, effort, make, impose, civil_authority, impossible, task, police, private, home, preclude, possibility, sin]	[2:41:00::]	2:36:13::;2:36:05::
+[subsequent, two_weeks, wait, make, crew, quarrelsome]	[2:30:00::]	2:36:13::;2:36:05::
+[great, crushing, ice, mass, come, view, make, sound, voice, pure, reason]	[2:30:00::]	2:41:13::
+[person, make, plentiful, enemy, several, man, step_forward]	[2:36:00::]	2:36:13::;2:36:05::
+[grant, stretch, southward, location, headwaters, red, make, may, october, year, small, group, scot, settle, winter, location, hudson_bay]	[2:41:00::]	2:36:13::;2:36:05::
+[thus, same, time, person, prepare, pacify, aborigine, location, win, fame, battle, location, anglo-saxon, settlement, make, great, leap, center, north-american, continent, west, american, agricultural, frontier]	[2:41:00::]	2:36:13::;2:36:05::
+[american, outpost, red_river, shortage, livestock, make, good]	[2:36:00::]	2:36:13::;2:36:05::
+[think, make, damn, good, choice, turn_off, nice, fellow, person, let, ornery, thieving, drunkard, damned, card-playing, son_of_a_bitch, come, see, goddamned, thief, lop-eared, pigeon-toed, hellion, be, too, ornery, hell]	[2:41:00::]	2:36:13::;2:36:05::
+[choice, remark, make, soldier, letter, be, disparagement, unpopular, officer]	[2:36:01::]	2:36:13::;2:36:05::
+[massachusetts, soldier, seem, be, civil_war, version, person, write, officer, consider, make, different, material, lowly, fellow, rank]	[2:36:00::]	2:36:13::;2:36:05::
+[naturally, such, scholarly, fact, be, little, concern, man, try, make, money, fan, patriotism, means, folklore]	[2:40:01::]	2:36:13::;2:36:05::
+[be, primarily, concerned, use, make, material, collector, find]	[2:41:00::]	2:36:13::;2:36:05::
+[second, place, large_number, writer, make, more, direct, claim, person, be, folk_writer, one, sort, clearly, make, distinction, genuine, bogus, material]	[2:41:00::, 2:31:00::]	2:36:13::;2:36:05::
+[conduct, less, diplomacy, more, spontaneous, violence, sicilian, have, huge, location, portion, exploit, make, great_deal, money]	[2:40:01::]	2:36:13::;2:36:05::
+[search, oil, gas, make, similar, wave, controlled, condition, dynamite, learn, be, buried, rock, structure, favorable, accumulation, resource]	[2:36:00::]	2:36:13::;2:36:05::
+[person, commission, group, serve, personnel, officer, group, decide, make, army, career, want, be, fighting, part]	[2:42:00::]	2:36:13::;2:36:05::
+[combat, help, commanding_officer, make, fool, mean, get, kill]	[2:30:00::]	2:36:13::;2:36:05::
+[make, load, light, be, realization, officer, noncom, trooper, be, ready, willing, help, carry, good, troop, regiment]	[2:30:00::]	2:29:08::
+[reinforcement, come_up, quickly, take_advantage, opening, make, person, platoon]	[2:36:00::]	2:36:13::;2:36:05::
+[board, inquiry, call, look_into, charge, cowardice, make, man, see, person, leave, battlefield, officer, hear, person, suggest, wounded, leave, torture, sioux, refuse, say, harsh, word]	[2:41:00::]	2:36:13::;2:36:05::
+[be, more, word, write, other, battle, american, history, group, first, make, mark, history, regiment, be, ten, year, old, then]	[2:41:00::]	2:36:13::;2:36:05::
+[civil_war, person, achieve, brilliant, record, make, brigadier_general, age, 23]	[2:30:00::]	2:36:13::;2:36:05::
+[prosperity, be, worthy, objective, provide, high, standard_of_living, get, way, produce, sufficient, gun, resist, communist, aggression, then, material, sacrifice, denial, make]	[2:41:00::]	2:36:13::;2:36:05::
+[bring, squarely, problem, power, use, nation, make, power]	[2:41:00::]	2:36:13::;2:36:05::
+[traditional, lao, explanation, be, moon, swallow, toad, remedy, be, make, all, possible, noise, ideally, firearm]	[2:36:00::]	2:36:13::;2:36:05::
+[death, be, not, violent, be, natural, welcome, make, funeral, feast]	[2:30:00::]	2:36:13::;2:36:05::
+[be, person, group, group, three, camera, eight, lens, make, look, as, formidable, fighting, man, meet, person, interpreter]	[2:30:00::]	2:36:13::;2:36:05::
+[company, soldier, make, one, long, column, reddish, dust]	[2:36:00::]	2:36:13::;2:36:05::
+[prime_minister, pay, respects, buddhist, monk, stride, rapidly, house, joke, local, soldiery, make, speech]	[2:36:00::]	2:36:13::;2:36:05::
+[most, important, aim, jewish, student, be, as_follows, make, world, better, place, live, 30, percent, get, happiness, 28, percent, financial, independence, 21, percent]	[2:30:00::]	2:36:13::;2:36:05::
+[first, two, year, high_school, jewish, boy, town, make, strenuous, exertion, win, position, school, team]	[2:41:00::]	2:36:13::;2:36:05::
+[be, read, make, jewish, best_seller, then, persuade, husband, read]	[2:36:00::]	2:36:13::;2:36:05::
+[however, growing, intellectual, sophistication, new, certitude, impart, course, psychology, anthropology, make, student, increasingly, critical, somewhat, provincial, overprotective, parent]	[2:30:00::]	2:36:13::;2:36:05::
+[make, attempt, measure, enduring, satisfaction, material, well-being, man, work, graduation, high_school, be, highly, successful, business, enter]	[2:41:00::]	2:36:13::;2:36:05::
+[discovery, movie, be, form, fiction, make, early, year, century, make, chiefly, two, man, french, magician, person, american, employee, person, person]	[2:41:00::]	2:36:13::;2:36:05::
+[two, person, be, justly, better_known, go, far, vital, finding, fiction, film, take, first_step, fashion, language, film, make, motion_picture, intricate, efficient, time_machine, remain, even, most, inept, hands]	[2:30:00::]	2:36:13::;2:36:05::
+[person, however, professional, instinct, magician, discover, make, use, number, illusionary, technique, remain, part, vocabulary, film]	[2:41:00::]	2:36:13::;2:36:05::
+[dissolve, make, possible, visually, smooth, transition, scene, scene]	[2:36:00::]	2:36:13::;2:36:05::
+[posse, form, pursue, robber, make, escape, whoop_it_up, wild, wild, woman, honky-tonk, hideout]	[2:41:00::]	2:36:13::;2:36:05::
+[change, at_first_sight, seem, minor, recall, take, italian, painter, about, two, hundred, year, make, analogous, change, italian, painter, universal, consent, be, most, brilliant, group, genius, art, see]	[2:41:00::]	2:36:13::;2:36:05::
+[still, remain, need, one, great, film, artist, explore, full, potential, new, form, make, art]	[2:30:15::]	2:36:13::;2:36:05::
+[in_general, european, effort, make, art, entertainment, ignore, slowly, emerge, language, film]	[2:30:00::]	2:36:13::;2:36:05::
+[phonograph, today, all, high_fidelity, stereophonic, sound, be, precisely, early, art, purveyor, movie, wish, make, camera]	[2:30:00::]	2:36:13::;2:36:05::
+[in_general, friendly, contact, member, follow, contact, clergyman, account_for, major, share, recruitment, church, make, quite, evident, extension, economic, integration, co-optation, be, principal, form, mission, contemporary, church, economic, integration, co-optation, be, two, method, protestant, associate, recruit, neighborhood]	[2:30:00::]	2:36:13::;2:36:05::
+[be, naive, say, make, use, such, word]	[2:41:00::]	2:36:13::;2:36:05::
+[attach, little, importance, personal, liberty, not, make, known, world]	[2:36:00::]	2:36:13::;2:36:05::
+[appear, be, one, intense, dislike, make, little, effort, conceal, even, presence, southern, friend]	[2:41:00::]	2:36:13::;2:36:05::
+[come, win, make]	[2:36:00::]	2:41:13::
+[accord, broaden, make, promote]	[2:36:00::]	2:36:13::;2:36:05::
+[be, personify, be, make, prevail, be]	[2:36:00::]	2:36:13::;2:36:05::
+[make, increase]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, drive]	[2:41:00::]	2:36:13::;2:36:05::
+[know, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, hold]	[2:36:00::]	2:36:13::;2:36:05::
+[drop, make]	[2:36:08::]	2:36:13::;2:36:05::
+[make, continue, rise, rise]	[2:36:01::]	2:36:13::;2:36:05::
+[like, make, use]	[2:30:00::]	2:36:13::;2:36:05::
+[provide, make, build]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[spend, make]	[2:41:00::]	2:36:13::;2:36:05::
+[conduct, make]	[2:41:00::]	2:36:13::;2:36:05::
+[consider, make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make]	[2:36:00::]	2:36:13::;2:36:05::
+[express, offer, make, satisfy]	[2:41:00::]	2:36:13::;2:36:05::
+[be, take_counsel, make]	[2:36:08::]	2:36:13::;2:36:05::
+[come, view, make, work, support, reflect]	[2:36:00::]	2:30:15::
+[make, resume, write, negotiate]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, remain]	[2:36:00::]	2:36:13::;2:36:05::
+[make, hide, reveal, line]	[2:36:09::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[begin, make, identify, appear, be]	[2:32:00::]	2:36:13::;2:36:05::
+[feel, impel, make, move]	[2:36:00::]	2:36:13::;2:36:05::
+[seek, make, relate]	[2:30:00::]	2:36:13::;2:36:05::
+[make, look, be, be, place, free]	[2:30:00::]	2:36:13::;2:36:05::
+[determine, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, find, execute]	[2:41:00::]	2:36:13::;2:36:05::
+[make, resolve]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, retain, secede]	[2:36:00::]	2:36:13::;2:36:05::
+[write, make]	[2:30:00::]	2:36:13::;2:36:05::
+[come, prefer, emigrate, make, love, take]	[2:36:00::]	2:30:15::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, make, act, express, act]	[2:30:00::, 2:36:00::]	2:36:13::;2:36:05::
+[see, make, be, continue, live, fall]	[2:30:00::]	2:36:13::;2:36:05::
+[uphold, do, keep, make]	[2:30:00::]	2:36:13::;2:36:05::
+[differ, believe, make, serve, maintain, depend_on, involve]	[2:41:00::]	2:36:13::;2:36:05::
+[last, two, century, scientific, revolution, independence, physical, environment, make, most, rapid, stride]	[2:41:00::]	2:36:13::;2:36:05::
+[most, effective, political, invention, seem, make, maximum, use, natural, harbor, be, aware, restrain, breakwater, play, only, minor, part, whole, scheme]	[2:41:00::]	2:36:13::;2:36:05::
+[often, fear, persist, even, most, rigid, ritual, be, never, quite, free, uneasy, feeling, make, mistake, previous, execution, be, unaware, really, decisive, act]	[2:41:00::]	2:36:13::;2:36:05::
+[reconstruct, sentence, note, make, immediately, conversation]	[2:36:00::]	2:36:13::;2:36:05::
+[be, not, mess, make, sense]	[2:31:00::]	2:36:13::;2:36:05::
+[be, history, criticism, history, man, attempt, make, sense, manifold, element, art, not, allow, reduce, single, philosophy, single, aesthetic, theory]	[2:31:00::]	2:36:13::;2:36:05::
+[make, sense, division]	[2:31:00::]	2:36:13::;2:36:05::
+[curb, release, make, feel, explode]	[2:30:00::]	2:36:13::;2:36:05::
+[derive, be, make, be, be]	[2:41:00::]	2:36:13::;2:36:05::
+[lead, be, make, devote]	[2:36:00::]	2:36:13::;2:36:05::
+[serve, make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[alley, fence, make, solid, board, high, head, not, so, high, golden_glow, corner, hollyhock, grow, line]	[2:36:13::]	2:36:13::;2:36:05::
+[maturity, look_back, succession, year, count, make, many, feel, length, number, however, large]	[2:30:00::]	2:36:13::;2:36:05::
+[great_grandmother, tell, make, garden, great, pride, cherish, rare, delicate, plant, oleander, tub, wallflower, lemon, verbena, pot, have, winter, cellar, fill, waste, spot, yard, common, thing, garden_heliotrope, corner, woodshed, plantain_lily, west_side, house]	[2:30:00::]	2:36:13::;2:36:05::
+[three, only, protect, stern, commandment, rose, petal, may_not, collect, fall, make, perfume, rose, tea, drink, peony, tight, sticky, bud, blight, laying_on, finger, not, apparently, harm, ant, crawl, poppy]	[2:30:00::]	2:30:15::
+[other, flower, gather, please, myrtle, white_violet, lilac, lilac, bloom, so, prodigally, for_the_most_part, reach, snowball, hollyhock, blossom, turn, upside-down, make, pink, petticoated, lady, little, dark_blue, larkspur, scatter, seed, everywhere]	[2:36:00::]	2:36:13::;2:36:05::
+[pale, yellow, snapdragon, pinch, make, bite, seedpod, balsam, snap, firecracker, touch, red, yellow, columbine, round, tipped, spur, pick_off, eat, honey, morning_glory, bud, so, grasp, squeeze, burst, blown-up, paper_bag, bright, flower, trumpet_vine, make, gloves, end, ten, waggle, finger]	[2:32:00::, 2:30:00::]	2:36:13::;2:36:05::
+[child, watch, progress, whisper, hay, hay, load, hay, make, wish, turn_away, then, stare, rigidly, opposite, direction, sound, horse, foot, return, no_more]	[2:41:00::]	2:36:13::;2:36:05::
+[worth, dwell, detail, crisis, story, bring_together, number, characteristic, element, make, curious, riddle, compound, obscurely, centrally, significant, person, work]	[2:30:00::]	2:36:13::;2:36:05::
+[artistic, interest, then, lie_in, encounter, make, represent, power, central, significance, draw, detail, relevance, meaningfulness]	[2:32:00::]	2:36:13::;2:36:05::
+[make, claim, belong_to, great, mighty, earth]	[2:41:00::]	2:36:13::;2:36:05::
+[person, person, make, protest, quite, in_vain, rejection, not, fatal, be, ridiculous, humiliating, simply, throw_out, shop, porter]	[2:41:00::]	2:36:13::;2:36:05::
+[respect, experience, be, broad, full, rich, variety, potential, meaning, mind, man, art, culture, be, capable, make, clear, distinct]	[2:30:00::]	2:36:13::;2:36:05::
+[town, town, companion, point_out, negro, school, white, school, instance, make, better, appearance, be, new, for_one_thing]	[2:36:00::]	2:36:13::;2:36:05::
+[people, n't, make, integrate, socialize, be, inseparable, southern, standard, law]	[2:36:15::]	2:36:13::;2:36:05::
+[suspect, old, roman, refer, change, make, military, occupation, sort, change, person, talk_about, say, make, desert, call, peace]	[2:36:08::, 2:36:00::]	2:36:13::;2:36:05::
+[part, be, convinced, holmes, be, too, unorthodox, theoretical, make, good, detective]	[2:42:00::]	2:36:13::;2:36:05::
+[another, more, interesting, explanation, hint, person, observe, several, occasion, holmes, make, magnificent, criminal]	[2:42:00::]	2:36:13::;2:36:05::
+[other, qualification, make, cocktail_party, most, complete, most, chaotic, communication_system, ever, dream_up]	[2:30:00::]	2:36:13::;2:36:05::
+[occasion, already, know, else, host, wish, meet, one, a_few, honored, newcomer, then, open_house, system, be, advantageous, honored, guest, be, fixed, connective, point, drifting, guest, make, break, connection, door]	[2:41:00::]	2:36:13::;2:36:05::
+[hazard, poor, communication, be, so, great, justify, habitable, site, only, basis, unusual, productivity, such_as, be, make, available, waterfall, mill, purpose, mine, sugar_maple, camp]	[2:30:00::]	2:36:13::;2:36:05::
+[decision, general, kind, make, central, command]	[2:41:00::]	2:36:13::;2:36:05::
+[one, obvious, conclusion, make, basis, last, election, suppose, be, majority, be, dissatisfied, person, conservatism]	[2:31:00::]	2:36:13::;2:36:05::
+[creative, enterprise, ability, be, primarily, swallow, creative, enterprise, develop, own, organization, ability, make, possible, almost, mandatory]	[2:36:00::]	2:36:13::;2:36:05::
+[example, be, public, utility, make, military, aircraft, accessory, investment, risk, proprietorship, be, too, great, much, needed, project, impossible, achieve, by_any_means, other_than, corporate, form, e.g., construct, major, airport, dam]	[2:36:01::]	2:36:13::;2:36:05::
+[attorney_general, person, make, series, raid, send, more_than, so-called, radical, jail, direct, violation, constitutional, right]	[2:41:00::]	2:36:13::;2:36:05::
+[make, crafty, cruel, capable, fiendish, revenge]	[2:30:00::]	2:36:13::;2:36:05::
+[child, have, single, drop, negro, blood, revert, ancestral, line, slave, superior, race, not, make, one, step, progress, year]	[2:41:00::]	2:36:13::;2:36:05::
+[child, condition, mistaken, notion, fear, stepmother, adult, antagonistic, attitude, make, role, substitute, parent, difficult]	[2:30:00::]	2:36:13::;2:36:05::
+[debate, be, not, likely, resolve, tension, make, lot, stepchild, happy]	[2:30:00::]	2:36:13::;2:36:05::
+[super, herculean, task, be, winnow, value, mud-beplastered, argument, use, so, freely, particularly, such, common, use, make, cliche, stereotype, declaration, intellectual, bankruptcy]	[2:41:00::]	2:36:13::;2:36:05::
+[be, say, rather, believe, bring_to_bear, history, tradition, lore, region, critical, skeptical, mind, same, mind, make, inveterate, experimenter, literary, form, technique]	[2:30:00::]	2:36:13::;2:36:05::
+[fact, cast, material, light, skeptical, mind, not, make, less, southern, rather, think, south, be, no_more, solid, other, region, political, related, area, patronage, force, intimidation, fear, produce, surface, uniformity]	[2:30:00::]	2:36:13::;2:36:05::
+[useful, comment, relation, region, make, think, note, briefly, handle, southern, material, southern, problem, deviate, pattern, set, other, southern, author, remain, faithful, essential, character, region]	[2:41:00::]	2:36:13::;2:36:05::
+[be, evidence, suggest, in_fact, many, author, humorous, sketch, prompt, write, make, indelicate, be, way, protest, artificial, refinement, come, dominate, polite, letters, south]	[2:36:00::]	2:29:08::
+[very, firmness, conviction, logical, clearness, argument, captivate, stimulate, make, greater, effort, usually, be, most, exasperating, man, expect, woman, verify, preconceived_notion, concern, sex, not, immediately, condemn, eccentric, unwomanly]	[2:41:00::]	2:36:13::;2:36:05::
+[youth, greatly, admire, person, be, somewhat, young, be, also, neighboring, person, boy, then, study, medicine, bright, be, not, possibly, compete, interest, papa, mind, never, try, dazzle, patronize, lesser, light, naturally, eclipse, make, seem, even, young, be]	[2:30:00::]	2:36:13::;2:36:05::
+[person, concede, be, pretty, person, girl, make, pretty, picture, sit, grape_arbor, strum, guitar, sing, silvery, tone, be, particular, person, counterpart, group, be, so, closely_knit, individual, difference, family, life, case, be, remarkably, similar, atmosphere, not, entirely, content, be, definitely, jewish, vaguely, christian]	[2:36:00::]	2:36:13::;2:36:05::
+[person, person, enjoy, love, live, together, even, troubled, times, person, home, young_man, call, person, find, confront, phalanx, femininity, make, rather, difficult, direct, particular, attention, one]	[2:30:00::]	2:36:13::;2:36:05::
+[such, speech, difference, make, acutely, aware, richness, expressiveness, language]	[2:30:00::]	2:36:13::;2:36:05::
+[person, make, comfortable, couch, play, tune]	[2:30:00::]	2:36:13::;2:36:05::
+[be, probably, most, original, composer, often, use, very, odd, rhythm, make, difficult, challenging, lyric, writer]	[2:30:00::]	2:36:13::;2:36:05::
+[reservation, point, just, make, be, phenomenon, pseudo, thinking, pseudo, feeling, pseudo, willing, person, discuss]	[2:41:00::]	2:36:13::;2:36:05::
+[man, seem, almost, universally, want, sense, function, that_is, feeling, existence, make, difference, living, unborn, close, immediate, generalized]	[2:41:00::]	2:36:13::;2:36:05::
+[one, thing, make, life, drab, empty, leave, end, day, fatigued, deflated, spiritually, be, pressure, taxing, practical, utilitarian, concern, commonsense, object]	[2:30:00::]	2:36:13::;2:36:05::
+[economic, information, make, available, businessman, economist, promptly, monthly, weekly, supplement]	[2:30:00::]	2:36:13::;2:36:05::
+[problem, frequently, arise, firm, make, item, government, not, directly, line, normal, civilian, business, government, specification, require, operation, firm, not, understand, undertake, contract]	[2:36:01::]	2:36:13::;2:36:05::
+[section, 8, amend, authorize, make, complete, inventory, productive, facility, small, business_concern]	[2:41:00::]	2:36:13::;2:36:05::
+[make, complete, facility, inventory, small, business_concern, labor, surplus, area, budgetary, staff, limitation]	[2:41:00::]	2:36:13::;2:36:05::
+[direct_loan, be, make, alone]	[2:36:08::]	2:36:13::;2:36:05::
+[maximum, loan, make, one, borrower, be]	[2:36:08::]	2:36:13::;2:36:05::
+[three, distinct, class, loan, make, available, farmer, cooperative, group]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[include, assemble, depend, survey, design, promote, make, establish]	[2:30:00::]	2:36:13::;2:36:05::
+[encourage, get_on, supply, perform, make, be, make]	[2:30:00::, 2:36:08::]	2:36:13::;2:36:05::
+[rely_upon, make, project, be, depart, grant, move]	[2:36:00::]	2:36:13::;2:36:05::
+[make, be, be, suggest, meet, occur]	[2:30:00::]	2:36:13::;2:36:05::
+[use, respond, tailor, make]	[2:41:00::]	2:36:13::;2:36:05::
+[withhold, limit, make]	[2:41:00::]	2:36:13::;2:36:05::
+[promote, make, be]	[2:30:00::]	2:36:13::;2:36:05::
+[launch, enter, exceed, make]	[2:41:00::]	2:36:13::;2:36:05::
+[take, require, make, feel]	[2:30:00::]	2:36:13::;2:36:05::
+[pay, establish, serve, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, include, effect]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, replace]	[2:41:00::]	2:36:13::;2:36:05::
+[embrace, determine, purchase, trade, drive, make, obtain]	[2:36:00::]	2:36:13::;2:36:05::
+[describe, appear, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, make]	[2:41:00::]	2:36:13::;2:36:05::
+[evaluate, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, be, pay, have, make, evaluate]	[2:30:00::]	2:36:13::;2:36:05::
+[indicate, make, list]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be, be, score]	[2:30:00::]	2:36:13::;2:36:05::
+[supply, make]	[2:41:00::]	2:36:13::;2:36:05::
+[receive, investigate, make]	[2:41:00::]	2:36:13::;2:36:05::
+[continue, operate, make, maintain]	[2:30:00::]	2:36:13::;2:36:05::
+[enable, make, take_advantage]	[2:41:00::]	2:36:13::;2:36:05::
+[have, be, make, increase, increase]	[2:41:00::]	2:36:13::;2:36:05::
+[have, make, be, finance, pay]	[2:41:00::]	2:36:13::;2:36:05::
+[adjust, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, give, honor, make, remain, preserve]	[2:41:00::]	2:36:13::;2:36:05::
+[give, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, research, training, grant]	[2:36:00::]	2:36:13::;2:36:05::
+[cause, on-site, inspection, make, promising, project, domestic, foreign, case, project, located, united_states, cooperate, participate, development, instance, purpose, act, serve, thereby]	[2:41:00::]	2:36:13::;2:36:05::
+[authorize, appropriate, such, sum, remain, available, expended, be, necessary, not, more_than, in_all, carry_out, provision, act, fiscal_year, inclusive, finance, not, more_than, two, year, end, said, period, such, grant, contract, cooperative, agreement, study, theretofore, undertake, pursuant, act, finance, not, more_than, three, year, end, said, period, such, activity, require, correlate, coordinate, round_out, result, study, research, undertake, pursuant, act, provide, funds, available, one, year, research, development, subject_to, approval, secretary_of_state, assure, such, activity, be, consistent, foreign_policy, objective, united_states, expend, public, private, agency, foreign, country, development, process, useful, program, united_states, provide, further, such, contract, agreement, make, public, private, agency, foreign, country, contain, provision, effective, insure, result, information, develop, connection, therewith, be, available, cost, united_states, use, united_states, world, use, general, public, united_states]	[2:36:00::]	2:36:13::;2:36:05::
+[enact, senate, house_of_representatives, united_states_of_america, congress, assemble, secretary_of_the_interior, hereby, authorize, direct, make, cause, make, study, cover]	[2:41:00::, 2:36:00::]	2:36:13::;2:36:05::
+[subject_to, limitation, act, secretary_of_the_interior, make, stabilization, payment, small, domestic, producer, presentation, evidence, satisfactory, status, such, producer, sale, newly, mine, ore, concentrate, produce, therefrom, provide, act]	[2:41:00::]	2:36:13::;2:36:05::
+[payment, make, only, with_respect_to, metal, content, determine, assay]	[2:41:00::]	2:36:13::;2:36:05::
+[such, payment, make, small, domestic, producer, lead, market_price, common, lead, new_york, new_york, determine, secretary_of_the_interior, be, cent, pound, such, payment, be, difference, cent, pound, average, market_price, month, sale, occur, determine, secretary_of_the_interior]	[2:41:00::]	2:36:13::;2:36:05::
+[such, payment, make, small, domestic, producer, zinc, market_price, prime, western, zinc, location, illinois, determine, secretary_of_the_interior, be, cent, pound, such, payment, be, difference, cent, pound, average, market_price, month, sale, occur, determine, secretary_of_the_interior]	[2:41:00::]	2:36:13::;2:36:05::
+[maximum, amount, payment, make, pursuant, act, sale, newly, mine, ore, concentrate, produce, therefrom, make, calendar_year, not, exceed, maximum, amount, such, payment, such, sale, make, calendar_year, not, exceed, maximum, amount, such, payment, make, such, sale, make, calendar_year, not, exceed, maximum, amount, such, payment, make, such, sale, make, calendar_year, not, exceed]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[prepare, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, begin]	[2:30:00::]	2:36:13::;2:36:05::
+[shutter, aperture, make, larger, smaller, change, foil, area, adjust, electrical, energy, input, foil]	[2:30:00::]	2:36:13::;2:36:05::
+[preparation, make, similar, experiment, radical]	[2:41:00::]	2:36:13::;2:36:05::
+[preliminary, calibration, resistor, make, every]	[2:41:00::]	2:36:13::;2:36:05::
+[exhaustive, survey, make, literature, primary, reference, file, approximately, reference, catalogue]	[2:41:00::]	2:36:13::;2:36:05::
+[in_addition, penalty, provide, title, 18, united_states, code, section, person, guilty, act, provide, therein, with_respect_to, matter, title, forfeit, right, title, payment, make, grant, commission, take, such, action, be, necessary, recover, same]	[2:41:00::]	2:36:13::;2:36:05::
+[connection, claim, decide, commission, pursuant, title, award, make, commission, written, request, claimant, attorney, heretofore, hereafter, employ, such, claimant, determine, apportion, just, reasonable, attorney, fee, services, render, with_respect_to, such, claim, total, amount, fee, so, determine, case, not, exceed, 10, percent, total, amount, pay, pursuant, award]	[2:41:00::]	2:36:13::;2:36:05::
+[fee, so, determine, enter, part, such, award, payment, thereof, make, secretary_of_the_treasury, deduct, amount, thereof, total, amount, pay, pursuant, award]	[2:41:00::]	2:36:13::;2:36:05::
+[united_states, elsewhere, pay, offer, pay, promise, pay, receive, services, render, render, connection, such, claim, compensation, add, amount, previously, pay, such, services, exceed, amount, fee, so, determine, commission, be, guilty, misdemeanor, conviction, thereof, fine, not, more_than, imprison, not, more_than, twelve, month, such, payment, make, grant, commission, take, such, action, be, necessary, recover, same, in_addition, thereto, such, person, forfeit, right, title]	[2:41:00::]	2:36:13::;2:36:05::
+[payment, require, make, secretary_of_the_treasury, title, pursuant, award, make, commission, government, united_states, cover, treasury, credit, miscellaneous, receipt]	[2:41:00::]	2:36:13::;2:36:05::
+[commission, possible, order, making, such, award, certify, secretary_of_the_treasury, secretary_of_state, copy, award, make, favor, government, united_states, national, united_states, title]	[2:41:00::]	2:36:13::;2:36:05::
+[such, payment, application, such, payment, make, accordance, such, regulation, secretary_of_the_treasury, prescribe]	[2:41:00::]	2:36:13::;2:36:05::
+[deducted, amount, payment, make, pursuant, subsection, section, 8, reimbursement, expense, incur, united_states, amount, equal, 5, per_centum, such, payment]	[2:41:00::]	2:36:13::;2:36:05::
+[payment, make, pursuant, title, make, only, person, person, behalf, award, make]	[2:41:00::]	2:36:13::;2:36:05::
+[such, person, be, deceased, be, legal, disability, payment, make, legal, representative]	[2:41:00::]	2:36:13::;2:36:05::
+[total, award, be, not, 500, be, qualified, executor, administrator, payment, make, person, person, find, comptroller_general, united_states, be, entitled, thereto, necessity, compliance, requirement, law, with_respect_to, administration, estate]	[2:41:00::]	2:36:13::;2:36:05::
+[case, partnership, corporation, existence, terminate, behalf, award, make, payment, make, provide, paragraph, 3, 4, person, person, find, comptroller_general, united_states, be, entitled, thereto]	[2:41:00::]	2:36:13::;2:36:05::
+[receiver, trustee, such, partnership, corporation, duly, appoint, court, competent, jurisdiction, united_states, not, discharge, prior, date, payment, payment, make, such, receiver, trustee, accordance, order, court]	[2:41:00::]	2:36:13::;2:36:05::
+[receiver, trustee, such, partnership, corporation, duly, appoint, court, competent, jurisdiction, united_states, make, assignment, claim, part, thereof, with_respect_to, award, make, make, assignment, such, award, part, thereof, payment, make, assignee, interest, appear, case, assignment, award, part, thereof, make, in_writing, duly, acknowledge, file, such, award, certify, secretary_of_the_treasury, payment, discretion, secretary_of_the_treasury, make, assignee, interest, appear]	[2:41:00::]	2:36:13::;2:36:05::
+[person, make, application, such, payment, hold, consent, provision, title]	[2:41:00::]	2:36:13::;2:36:05::
+[secretary_of_the_treasury, authorize, direct, sum, cover, fund, pursuant, subsection, section, make, deduction, provide_for, section, 7, title]	[2:41:00::]	2:36:13::;2:36:05::
+[make, payment, in_full, principal, award, 1000, less, certified, pursuant, section, 5, title]	[2:41:00::]	2:36:13::;2:36:05::
+[make, payment, 1000, principal, award, more_than, 1000, principal, amount, certified, pursuant, section, 5, title]	[2:41:00::]	2:36:13::;2:36:05::
+[make, additional, payment, not, exceed, 25, per_centum, unpaid, principal, award, principal, amount, more_than, 1000]	[2:41:00::]	2:36:13::;2:36:05::
+[complete, payment, prescribe, paragraph, 2, 3, subsection, make, payment, from_time_to_time, ratable, proportion, unpaid, principal, award, principal, amount, more_than, 1000, proportion, unpaid, principal, such, award, bear, total, amount, fund, available, distribution, time, such, payment, make, payment, make, principal, amount, such, award, make, pro_rata, payment, accrued, interest, such, award, bear, interest]	[2:41:00::]	2:36:13::;2:36:05::
+[secretary_of_the_treasury, concurrence, secretary_of_state, authorize, direct, sum, cover, pursuant, subsection, section, complete, payment, such, fund, pursuant, subsection, section, make, payment, balance, sum, remain, such, fund, government, location, extent, require, article, 1]	[2:41:00::]	2:36:13::;2:36:05::
+[services, be, maintained, group, have, revenue, make, possible]	[2:30:00::]	2:36:13::;2:36:05::
+[person, outstanding, career, journalist, guarantee, high, standard, make, group, one, world, great, newspaper, maintain]	[2:36:08::]	2:36:13::;2:36:05::
+[see, for_example, extensive, effort, person, make, enlist, solid, bipartisan, support, action, cuba, laos, effort, see, direct, by_the_way, support, future, action, not, already, past]	[2:41:00::]	2:36:13::;2:36:05::
+[authority, program, renew, several, time, vocational, rehabilitation_program, make, permanent, title, 5]	[2:30:00::]	2:36:13::;2:36:05::
+[law, exist, federal_government, make, grant, state, basis, population, match, state, expenditure, fifty-fifty, basis]	[2:41:00::]	2:36:13::;2:36:05::
+[state, make, all, computation, set_forth, item, 1, 8, above, and_then, add, result, obtain, state, item, 8]	[2:41:00::]	2:36:13::;2:36:05::
+[shelter, build, region, water, rock, be, close, surface, make, impractical, build, underground, shelter]	[2:30:00::]	2:36:13::;2:36:05::
+[shelter, complete, radio, reception, check, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, prepared, stay, shelter, full-time, at_least, several, day, make, home, 14, day, longer]	[2:30:00::]	2:36:13::;2:36:05::
+[even, electric_power, fail, attack, time, heater, use, make, shelter, that_much, more, comfortable]	[2:30:00::]	2:36:13::;2:36:05::
+[rest_on, decision, solely, 7, read, pertinent, part, corporation, engaged, commerce, acquire, directly, indirectly, whole, part, stock, other, share, capital, corporation, engage, also, commerce, effect, such, acquisition, be, substantially, lessen, competition, corporation, stock, so, acquire, corporation, make, acquisition, restrain, such, commerce, section, community, tend, create, monopoly, line, commerce]	[2:41:00::]	2:36:13::;2:36:05::
+[in_addition, right_to_vote, group, stock, hold, group, vest, group, stockholder, other_than, group, group, stockholder, group, group, group, group, enjoin, acquire, stock, exercise, control, group, group, group, group, prohibit, have, director, officer, in_common, group, vice_versa, group, group, order, terminate, agreement, provide_for, purchase, group, specified, percentage, requirement, group, manufactured, product, grant, exclusive, patent_right, grant, group, group, preferential, right, make, sell, chemical, discovery, group, maintenance, joint, commercial_enterprise, two, company]	[2:36:00::]	2:36:13::;2:36:05::
+[make, inroad, name, law_enforcement, protection, congress, afford, marriage, relationship, court, today, continue, path, chart, recent, decision, court, hold, under_the_circumstances, case, wife, compel, testify, husband, objection]	[2:31:13::]	2:36:13::;2:36:05::
+[answer, thereto, advise, board, make, such, statement, assert, only, claim, be]	[2:41:00::]	2:36:13::;2:36:05::
+[be, now, allegation, withholding, favorable, evidence, develop, hearing, denial, full, fair, hearing, such, claim, make, petitioner, stage, administrative, process]	[2:41:00::]	2:36:13::;2:36:05::
+[receive, resume, same, furnish, appeal, board, make, claim, inaccuracy]	[2:41:00::]	2:36:13::;2:36:05::
+[enlarged, role, mind, make, a_few, suggestion, united_states, do, not, do, make, very, large, difference, happen, rest, world]	[2:36:00::, 2:36:08::]	2:36:13::;2:36:05::
+[want, make, sure, junior, colleague, realize, idea, be, welcome, initiative, go_down, right, bottom, go, all_the_way, top]	[2:30:00::]	2:36:13::;2:36:05::
+[given, probable, public, attitude, reasonably, good, estimate, make, action, be, called_for, insure, necessary, support]	[2:41:00::]	2:36:13::;2:36:05::
+[change, emphasis, conventional, type, missile, type, warfare, make, care, mindful, one, type, warfare, safely, neglect, favor, other]	[2:30:00::]	2:36:13::;2:36:05::
+[strongly, recommend, congress, avoidance, mandatory, floor, size, reserve, component, so, have, flexibility, make, adjustment, keep, military, necessity]	[2:41:00::]	2:36:13::;2:36:05::
+[substantial, progress, make, ballistic_missile, technology, rapidly, shift, main, threat, manned, bomber, missile]	[2:41:00::]	2:36:13::;2:36:05::
+[meanwhile, other, air_defense, force, make, effective, describe, later, message]	[2:30:00::]	2:36:13::;2:36:05::
+[last, day, due_date, perform, act, tax, purpose, such_as, filing, return, make, tax, payment, fall, saturday, sunday, legal_holiday, perform, act, next, succeeding, day, be, not, saturday, sunday, legal_holiday]	[2:41:00::]	2:36:13::;2:36:05::
+[failure, file, timely, return, make, estimated, tax, payment, due, fully, explain]	[2:41:00::]	2:36:13::;2:36:05::
+[make, request, extension, early, so, refuse, return, still, be, on_time]	[2:41:00::]	2:36:13::;2:36:05::
+[extension, 2, month, regular, due_date, file, be, also, available, taxpayer, make, return, fiscal_year]	[2:41:00::]	2:36:13::;2:36:05::
+[check, money_order, make, payable]	[2:30:00::]	2:36:13::;2:36:05::
+[refund, less_than, 1, not, make, attach, separate, application, return, request, such, refund]	[2:30:00::]	2:36:13::;2:36:05::
+[very, large, radio_reflector, improve, amplify, technique, now, become, available, make, possible, observe, radio_emission, planet, a_few, year]	[2:30:00::]	2:36:13::;2:36:05::
+[measurement, make, 50, foot, reflector, altitude, azimuth, mounted, show, systematic, change, local, hour_angle, measured, intensity, venus, jupiter, substantial, part, radiation, linearly, polarize]	[2:41:00::]	2:36:13::;2:36:05::
+[observation, also, make, mm, use, optical, technique, person, see_also]	[2:41:00::]	2:36:13::;2:36:05::
+[not, all, observer, use, same, procedure, make, same, assumption, lunar, brightness, distribution, reduce, data, together, difference, method, calibrate, antenna, receiver, account_for, much, disagreement, measured, radio_brightness, temperature]	[2:31:00::]	2:36:13::;2:36:05::
+[observation, mm, person, diameter, antenna, beam, be, small, enough, allow, resolution, some, larger, feature, lunar, surface, contour, diagram, make, lunar, brightness, distribution, three, lunar, phase]	[2:36:00::]	2:36:13::;2:36:05::
+[very, recently, observation, make, 8, mm, wavelength, reflector, 22, meter, diameter, resultant, beam, width, only, 2, person, person, person]	[2:41:00::]	2:36:13::;2:36:05::
+[cm, observation, person, make, may, use, foot, reflector, group, group]	[2:41:00::]	2:36:13::;2:36:05::
+[experiment, make, electric, arc, apply, porous, graphite, anode, cool, transpiring, gas, argon]	[2:41:00::]	2:36:13::;2:36:05::
+[qualitative, observation, make, high-speed, motion_picture, take, study, flow, phenomenon, arc, various, mass, flow, velocity]	[2:41:00::]	2:36:13::;2:36:05::
+[heat, loss, holder, reduce, be, such_that, accurate, heat, balance, make]	[2:36:00::]	2:36:13::;2:36:05::
+[reduce, number, variable, parameter, experiment, make, constant, arc, length, current, 100, amp]	[2:41:00::]	2:36:13::;2:36:05::
+[be, sufficiently, small, compare, surface, temperature, anode, holder, make, energy, flux, radiate, environment, anode, holder, negligible, accuracy, present, measurement]	[2:30:00::]	2:36:13::;2:36:05::
+[system, use, not, depend_upon, feeding, fluid, manometer, measurement, normal, pressure, make, reasonable, time]	[2:41:00::]	2:36:13::;2:36:05::
+[subsequent, measurement, make, material, heat, c, one, hour]	[2:41:00::]	2:36:13::;2:36:05::
+[temperature, maintain, period_of_time, require, make, measurement, usually, about, one, hour]	[2:41:00::]	2:36:13::;2:36:05::
+[spectrum, also, obtain, sample, spherical, container, make, blow, bubble, end, capillary, glass, tube]	[2:36:00::]	2:36:13::;2:36:05::
+[hard, surface, cleaning, household, application, represent, two, class, alkaline, product, formulation, make, expressly, machine, dishwasher, general-purpose, cleaner, use, wall, woodwork]	[2:36:01::]	2:36:13::;2:36:05::
+[soiled, fabric, use, rapid, testing, detergent, formulation, make, such, way, only, part, soil, remove, even, best, detergent, formulation, single, wash]	[2:36:01::]	2:36:13::;2:36:05::
+[greasy, soil, hardly, remove, washing, plain, water, natural, water, in_addition, often, contain, impurity, calcium, salt, react, soil, make, more, difficult, remove]	[2:30:00::]	2:36:13::;2:36:05::
+[a_few, experiment, tube, make, standard, 6, mm, pyrex, tubing, 1, mm, wall, thickness]	[2:36:01::]	2:36:13::;2:36:05::
+[fraction, exchange, determine, ratio, count, minute, observe, carbon_tetrachloride, count, minute, calculate, carbon_tetrachloride, fraction, equilibrium, distribution, activity, chlorine, carbon_tetrachloride, empirically, determine, correction, make, difference, counting, efficiency]	[2:41:00::]	2:36:13::;2:36:05::
+[be, possible, make, estimate, quantum, yield, observe, extent, reduction, uranyl_oxalate, actinometer, solution, illuminate, known, time, typical, reaction, cell, make, appropriate, conversion, base, difference, absorption_spectrum, uranyl_oxalate, chlorine, consider, spectral, distribution, light, source]	[2:31:00::]	2:36:13::;2:36:05::
+[rough, attempt, make, characterize, vertical, profile, cloud, take, sample, outside, window, first, ninth, fifteenth, floor, government_office, building]	[2:41:00::]	2:36:13::;2:36:05::
+[some, instance, different, clinical, disease, picture, result, route, exposure, make, diagnosis, difficult]	[2:30:00::]	2:36:13::;2:36:05::
+[moreover, not, be, so, fastidious, growth, requirement, make, production, militarily, significant, scale, improbable]	[2:30:00::]	2:36:13::;2:36:05::
+[be, broad, spectrum, organism, selection, specified, military, purpose, make]	[2:41:00::]	2:36:13::;2:36:05::
+[argue, further, somewhat, contradictorily, knowledge, resource, preventive_medicine, make, possible, control, such, outbreak, disease]	[2:30:00::]	2:36:13::;2:36:05::
+[on_the_other_hand, similar, attack, make, location, population, know, be, lousy]	[2:41:00::]	2:36:13::;2:36:05::
+[staminate, willow, catkin, then, provide, visitor, nectar, pollen, marvelous, arrangement, provide, exactly, bee, queen, make, beebread, combination, honey, pollen, young, species, feed]	[2:36:11::]	2:36:13::;2:36:05::
+[most, species, seem, prefer, ready-made, hollow, deserted, mouse_nest, birdhouse, hole, make, woodpecker, some, show, definite, liking, make, nest, moss]	[2:36:00::, 2:36:13::]	2:36:13::;2:36:05::
+[now, make, tough, papery, cocoon, pupate]	[2:36:00::]	2:36:13::;2:36:05::
+[be, possible, make, a_few, generalization, six, giant]	[2:31:00::]	2:36:13::;2:36:05::
+[seem, likely, indian_python, come_out, ahead, record, growth, make, more, carefully, frequently, respond, exceptionally, well, captivity, not, reach, proportion, make, hard, keep]	[2:36:00::, 2:30:00::]	2:36:13::;2:36:05::
+[make, sense, figure, post, maturity, growth, at_best, annual, increase, appear, be, matter, inch, foot]	[2:31:00::]	2:36:13::;2:36:05::
+[most, convincing, recent, measurement, anaconda, make, eastern, location, person, petroleum_geologist, group, report, person]	[2:41:00::]	2:36:13::;2:36:05::
+[data, be, growth, indicate, considerable, variation, rate, unfortunately, keep, complete, record, one, individual, many, make, very, short, period_of_time]	[2:41:00::]	2:36:13::;2:36:05::
+[be, evident, many, marked, striking, difference, exist, lung, interspecies, comparison, make]	[2:31:00::]	2:36:13::;2:36:05::
+[skeletal, age, rating, make, age, growth, elbow, shoulder, knee, foot, hand, seem, be, method_of_choice, wish, study, most, aspect, skeletal, developmental, progress, childhood]	[2:31:00::]	2:36:13::;2:36:05::
+[principle, use, make, arrow, figure, 3, 4, apply, construction, figure, 5, 6, figure, appendix]	[2:36:00::]	2:36:13::;2:36:05::
+[person, conclude, most, active, preparation, tsh, make, period, be, probably, 100, potent, starting, material]	[2:36:11::]	2:36:13::;2:36:05::
+[international, unit, adopt, make, possible, comparison, result, different, laboratory, person, person, define, amount, activity, present, mg]	[2:36:00::]	2:36:13::;2:36:05::
+[each, die, have, probability, produce, ace, marksman, have, some, probability, perhaps, make, bull's_eye]	[2:40:02::]	2:36:13::;2:36:05::
+[obviously, very, slight, change, not, change, probability, much, slight, lack, independence, not, make, appreciable, difference]	[2:36:08::]	2:36:13::;2:36:05::
+[above, result, make, following, remark, graph]	[2:41:00::]	2:36:13::;2:36:05::
+[make, exist, consist_of, meet]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:31:00::]	2:36:13::;2:36:05::
+[at_the_same_time, recognize, obstacle, change, lack, cohesion, stability, characterize, country, make, particularly, prone, diversion, external, adventure, sort]	[2:30:00::]	2:36:13::;2:36:05::
+[necessary, make, clear, country, choose, derive, marginal, advantage, cold_war, exploit, potential, disrupt, security, world, not_only, lose, sympathy, also, risk, prospect, orderly, development]	[2:36:00::]	2:36:13::;2:36:05::
+[look_at, country, iran, iraq, pakistan, burma, substantial, progress, make, create, minimum, supply, modern_man, social, overhead, capital, institution, centralized, government, exist, find, second, category, country, different, set, problem, hence, different, priority, policy]	[2:41:00::]	2:36:13::;2:36:05::
+[most, country, second, category, share, difficulty, have, structure, modern, political, social_system, modern, standard, performance, require, make, effective]	[2:30:00::]	2:36:13::;2:36:05::
+[encourage, government, develop, own, technical, assistance, community, state, provincial, government, rural, community, other, smaller, group, make, certain, important, segment, economy, neglect]	[2:30:00::]	2:36:13::;2:36:05::
+[country, make, big, stride, develop, necessary, human, social, overhead, capital, establish, reasonably, stable, effective, governmental, institution, national, local, level, begin, develop, capacity, deal, realistically, simultaneously, major, sector, economy]	[2:41:00::]	2:36:13::;2:36:05::
+[exception, treaty, make, foreign, relation, historically, concern, for_the_most_part, condition, short, at_least, measurable, duration]	[2:36:00::]	2:36:13::;2:36:05::
+[religious_belief, provide, plausible, explanation, many, condition, cause, great, concern, religious, faith, make, possible, fortitude, equanimity, consolation, enable, endure, colossal, misfortune, fear, frustration, uncertainty, suffering, evil, danger]	[2:36:00::]	2:36:13::;2:36:05::
+[force, innovate, make]	[2:30:00::]	2:36:13::;2:36:05::
+[eliminate, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make]	[2:31:00::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[use, make, be]	[2:31:00::]	2:36:13::;2:36:05::
+[plan, double, make, carry_through, publish]	[2:30:00::]	2:36:13::;2:36:05::
+[make, be, depend_on]	[2:30:00::]	2:36:13::;2:36:05::
+[center, be, make, enrich]	[2:30:00::]	2:36:13::;2:36:05::
+[make, appear, relate, hypothesize, be]	[2:41:00::]	2:36:13::;2:36:05::
+[make, shift, inform]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, be, relax, seem]	[2:36:00::]	2:36:13::;2:36:05::
+[give, be, gain, make, perceive]	[2:41:00::]	2:36:13::;2:36:05::
+[school_principal, guidance, worker, make, rating, various, neighborhood, research, team, make, independent, observation, house, dwelling, area]	[2:41:00::]	2:36:13::;2:36:05::
+[final, rating, make, basis, point_system, develop, study, distribution, actual, behavior, record, assign, weight, value, type, behavior, be, deviant, discovered, norm]	[2:41:00::]	2:36:13::;2:36:05::
+[child, score, high, compulsivity, be, give, evidence, tension, emotionality, situation, lack, organization, conformity, standard, expectation, make, exaggerated, effort, achieve, goal]	[2:41:00::]	2:36:13::;2:36:05::
+[interesting, note, medium, compulsive, unstructured, school, make, low, achievement, score, not, significantly, low]	[2:40:02::]	2:36:13::;2:36:05::
+[testing_room, make, successively, three, presentation, three, different, people]	[2:41:00::]	2:36:13::;2:36:05::
+[engineer, make, works, manager, firm, supplant, retired, employee, consider, outstandingly, successful]	[2:41:03::]	2:36:13::;2:36:05::
+[entirely, concerned, efficiency, be, merciless, criticize, people, make, mistake, condemn, too, great, extent]	[2:41:00::]	2:36:13::;2:36:05::
+[entire, group, manager, explain, great, detail, number, human, relations, error, make]	[2:41:00::]	2:36:13::;2:36:05::
+[director, help, tailor-make, checklist, district_manager, error, ask, various, observer, write_out, sentence, comment, mistake, feel, make]	[2:41:00::]	2:36:13::;2:36:05::
+[eighteen, error, locate, then, director, ask, individual, vote, not, feel, manager, make, particular, error]	[2:41:00::]	2:36:13::;2:36:05::
+[ask, vote, true, think, see, make, error, false, think, not, say, be, not, certain]	[2:41:00::]	2:36:13::;2:36:05::
+[look, confused, feel, sure, be, wrong, response, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, coincidence, hebephrenic, patient, most, severely, dedifferentiated, schizophrenic, patient, show, one, characteristic, symptom, laughter, laughter, now, make, feel, scorn, hate, now, make, feel_like, weep, now, give, glimpse, bleak, empty, expanse, man, despair, more, often, convey, welter, feeling, in_no_way, convey, number, words, words, be, so, unlike, welter, be, formed, discrete]	[2:30:00::]	2:36:13::;2:36:05::
+[match, find, entry, make, table, dictionary, usage]	[2:36:00::]	2:36:13::;2:36:05::
+[only, requirement, dictionary, information, make, text, lookup, operation, be, form, represent, dictionary, be, available, lookup, text, form, list, information, form, be, available, sequence, identical, sequence, form]	[2:41:00::]	2:36:13::;2:36:05::
+[be, new, context, be, likely, make, more, prominent, be, not]	[2:30:00::]	2:36:13::;2:36:05::
+[go_with, person, dominant, stress, be, probably, person, person, just, mention, prominently, trip, make, be, discussion, say, be, probably, go_with, dominant, stress, be, probably, preposition]	[2:41:00::]	2:36:13::;2:36:05::
+[have, thing, do, word, thing, make, little, real, contribution, meaning, have, weak, stress, do]	[2:41:00::]	2:36:13::;2:36:05::
+[thus, person, write, account, trip, first, strong, stress, person, mark, person, first, series, people, write, account, trip, strong, stress, write, mark, writing, first, series, action, person, concern, account, trip, later, make, speech, for_example, strong, stress, trip, make, trip, first, series, subject, person, write, account]	[2:41:00::, 2:30:00::]	2:36:13::;2:36:05::
+[person, be, leader, person, be, here, be, deprived_of, stress, make, here, complement, clause]	[2:30:00::]	2:36:13::;2:36:05::
+[suggestion, make, be, silly, possessive, represent, suggestion, be, stress]	[2:31:00::]	2:36:13::;2:36:05::
+[person, have, busy, life, visit, relative, only, context, indicate, visit, relative, be, equivalent, meaning, visit, relative, relative, visit, look_up, number, look, chimney, only, meaning, number, chimney, make, clear, be, syntactically, second, complement, first, sentence, preposition, follow, object, second]	[2:30:00::]	2:36:13::;2:36:05::
+[even, beginning, student, linguistics, make, familiar, appreciable, variety, consonant_system, general, outline, many, specific, detail]	[2:30:00::]	2:36:13::;2:36:05::
+[objective, be, merely, determine, distinction, length, syllabicity, be, desirable, make, explicit, orthography]	[2:36:00::]	2:36:13::;2:36:05::
+[conclude, change, make, current, orthography, appreciably, improve, usefulness, hesitate, suggest, precise, graphic, device, effect, change]	[2:41:00::]	2:36:13::;2:36:05::
+[restatement, make, only, small, contribution, knowledge]	[2:36:00::]	2:36:13::;2:36:05::
+[general, fact, mention, make, clear, total, situation, two, family, be, similar, enough, warrant, comparison]	[2:30:00::]	2:36:13::;2:36:05::
+[person, know, be, most, sympathetic, formation, local, self-government, make, first, firm, promise, election, may_day]	[2:41:00::]	2:36:13::;2:36:05::
+[government, be, probably, prepared, election, mid, first, decision, no_doubt, make, more, difficult, party, strife, multiply]	[2:30:00::]	2:36:13::;2:36:05::
+[remain, only, delicate, task, maneuver, law, labyrinth, palace, politics, make, small, number, policy, decision]	[2:31:00::]	2:36:13::;2:36:05::
+[periodic, bulletin, accomplishment, province, make, registration, process, kind, competition, provincial, official]	[2:30:00::]	2:36:13::;2:36:05::
+[registration, figure, give, table, 2, interpret, caution, estimate, eligible, elector, make, benefit, reliable, census]	[2:31:00::]	2:36:13::;2:36:05::
+[vocational, educator, not, claim, school, training, alone, make, skilled_worker, provide, essential, groundwork, develop, skill]	[2:36:00::]	2:36:13::;2:36:05::
+[course, provide, mainly, post, high_school, day, program, sometimes, arrangement, also, make, high_school, student, attend, evening, extension, course, also, conduct]	[2:41:00::]	2:36:13::;2:36:05::
+[thus, training, provide, youth, school, existence, school, program, have, supplementary, benefit, industry, make, asset, industrial, development, effort]	[2:30:00::]	2:36:13::;2:36:05::
+[few, state, make, effective, use, existing, vocational, education, program, funds, purpose, attract, new, industry]	[2:41:00::]	2:36:13::;2:36:05::
+[all, manual, set_up, vocational, course, stress, importance, first, make, local, survey, skill, need, estimate, growth, local, job, consult, local, employer, type, course, content]	[2:41:00::]	2:36:13::;2:36:05::
+[furthermore, be, cautious, conservatism, part, make, local, skill, survey]	[2:41:00::]	2:36:13::;2:36:05::
+[elaborate, study, make, labor, surplus, area, identify, sufficient, number, local, job, vacancy, future, replacement, need, certain, skill, justify, training_program, skill]	[2:41:00::]	2:36:13::;2:36:05::
+[no, make, same, study, present, information, regional, national, demand, trend, skill, consider, regional, national, demand, other, skill, provide, much, better, opportunity, youth, train]	[2:41:00::]	2:36:13::;2:36:05::
+[purpose, paper, be, analyze, one, possible, force, not, treat, literature, believe, make, significant, contribution, explain, wage, price, behavior, a_few, very, important, industry]	[2:36:00::]	2:36:13::;2:36:05::
+[be, several, such, industry, model, paper, be, applicable, author, make, particular, claim, relevance, explanation, course, wage, price, steel, industry, united_states, world_war_ii]	[2:41:00::]	2:36:13::;2:36:05::
+[form, industry, demand, function, be, one, make, quantity, demand, vary, inversely, product, price, vary, directly, level, gnp]	[2:30:00::]	2:36:13::;2:36:05::
+[simple, passage, additional, eleven, month, time, make, second, 3, boost, more, acceptable]	[2:30:00::]	2:36:13::;2:36:05::
+[union, not, regard, unemployment, own, member, matter, concern, set, own, wage, policy, concern, employment, make, felt, pressure, government, maintain, full, employment]	[2:30:00::]	2:36:13::;2:36:05::
+[europeanization, law, make, explicit, number, 19th, century, scholar]	[2:30:00::]	2:36:13::;2:36:05::
+[no_longer, seek, find, law, make, subject, law, only, agree]	[2:36:00::]	2:36:13::;2:36:05::
+[power, latter, make, limited, explicit, norm, clarify, make, more, precise, creation, new, norm, place, exclusively, parliamentary, hands, two, purpose, serve, government, make, subservient, institutionalized, popular, will, law, become, rational, system, implement, will, serve, conscious, goal, embody, public, policy]	[2:30:00::]	2:36:13::;2:36:05::
+[admiralty_law, law_merchant, host, problem, arise, private, litigation, contact, foreign, country, sever, old, law_of_nations, make, dependent_on, several, national, law]	[2:30:00::]	2:36:13::;2:36:05::
+[take, set, circumstance, interested, legislative, side, think, naturally, make, such, statement]	[2:41:00::]	2:36:13::;2:36:05::
+[view, nothing, good, bad, happen, case, come_on, scene, make, remark]	[2:41:00::]	2:36:13::;2:36:05::
+[indeed, say, on_the_contrary, accident, later, discovery, make, difference, badness, animal, pain, be, every, whit, bad, chance, passerby, happen, later, discover, body, feel, repugnance, not]	[2:36:08::]	2:36:13::;2:36:05::
+[ask, make, remark, suffering, be, bad, thing, think, relevant, say, learn, incident, never, occur, no, pain, suffer, at_all, say, make, all, difference, assert, be, bad, be, precisely, suffering, think, occur, back, there, not, occur, be, nothing, leave, be, bad, assertion, be, case, mistaken]	[2:41:00::, 2:36:08::]	2:36:13::;2:36:05::
+[suggestion, say, evil, occur, after_all, make, mistake, never, mean, anyhow, say, past, suffering, seem, merely, frivolous]	[2:41:00::]	2:36:13::;2:36:05::
+[pain, be, neutral, unfortunately, rabbit, no, ground, at_all, take_up, neutral, object, attitude, disapproval, make, for_the_first_time, only, intelligible, sense, bad]	[2:30:00::]	2:36:13::;2:36:05::
+[come_upon, rabbit, make, remark, suffering, be, bad, thing, presumably, make, feeling, positivist, be, plainly, right, say, such, remark, do, usually, express, feeling]	[2:41:00::]	2:36:13::;2:36:05::
+[suppose, week, later, revert, incident, thought, make, statement, again]	[2:41:00::]	2:36:13::;2:36:05::
+[suppose, circumstance, now, so, change, feeling, make, remark, in_the_first_place, fade]	[2:41:00::]	2:36:13::;2:36:05::
+[circumstance, express, remark, first, make, be, theory, simply, absent, remark, now, express, nothing]	[2:41:00::]	2:36:13::;2:36:05::
+[repeat, remark, such, suffering, be, bad, thing, feeling, make, last, week, be, vanishing_point, ask, mean, say, before, certainly, answer]	[2:41:00::]	2:36:13::;2:36:05::
+[say, make, point, feeling, first, time, little, no, feeling, second, time, be, same, point, make]	[2:41:00::]	2:36:13::;2:36:05::
+[brain, injury, extreme, damage, suffer, sight, patient, train, new, line_of_work, portfolio, maker, occupation, require, great_deal, precision, make, measurement, fairly, well, developed, sense, form, contour]	[2:41:00::]	2:36:13::;2:36:05::
+[mean, concretely, patient, not, read, at_all, make, writing, like, movement, head, body, become, easily, confuse, hash_mark, insert, handwritten, word, thus, confuse, mark, one, letter, recognize, simple, straight_line, curved, only, trace]	[2:41:00::]	2:36:13::;2:36:05::
+[quite, naturally, make, investigation, first, prohibit, patient, make, movement, at_all, and_then, later, repeat, allow, patient, move, way, want]	[2:41:00::]	2:36:13::;2:36:05::
+[vase, spirit, perhaps, at_times, bore, repel, internal, self-satisfaction, best, geometric, pin, rightly, consider, most, beautiful, ever, make, greek, world]	[2:36:09::]	2:36:13::;2:36:05::
+[potter, continue, employ, old, syntax, ornament, shape, make, use, well-defined, limited, range, motif, inherit]	[2:41:00::]	2:36:13::;2:36:05::
+[group, issue, share, stock, 10, each, construction, sewer, locality, assessment, make, maintenance]	[2:31:00::]	2:36:13::;2:36:05::
+[early, equipment, be, very, flimsy, smallest, gust, wind, topple, pole, make, communication, impossible]	[2:30:00::]	2:36:13::;2:36:05::
+[person, receive, own, exchange, make, business, easy, location, office, not, february, area, service, extend, include, location, location]	[2:30:00::]	2:36:13::;2:36:05::
+[with_respect_to, view, two, point, be, worth, make]	[2:41:00::]	2:36:13::;2:36:05::
+[question, answer, be, simple, make, two, word, utopian, communism]	[2:41:00::]	2:36:13::;2:36:05::
+[find, common, way_of_life, pleasing, christ, still, in_use, true, society, christian, that_is, good, monastery, make, easy, convert, utopian, christianity]	[2:30:00::]	2:36:13::;2:36:05::
+[concern, utopia, be, best, ordering, civil, society, again_and_again, make, clear, utopian, communism, provide, institutional, array, indispensable, best, ordering]	[2:30:00::]	2:36:13::;2:36:05::
+[new, indeed, be, person, perception, not, modern, know, ever, try, make, intelligible, modern, student, person, get]	[2:30:00::]	2:36:13::;2:36:05::
+[be, not, detail, utopian, communism, make, utopia, modern, be, spirit, attitude, mind, inform, detail]	[2:30:00::]	2:36:13::;2:36:05::
+[editor, group, discover, evidence, extenuate, circumstance, person, trial, warrant, make, exception, infliction, capital_punishment]	[2:31:00::]	2:36:13::;2:36:05::
+[account, person, lecture, group, say, remark, person, make, people, indignant]	[2:30:00::]	2:36:13::;2:36:05::
+[group, however, state, person, courage, bravery, heroism, good, cause, make, man, martyr, give, dignity, even, bad]	[2:30:00::]	2:36:13::;2:36:05::
+[group, exhibit, more, concern, possibility, abolitionist, make, martyr, person, development, sympathy]	[2:30:00::]	2:36:13::;2:36:05::
+[editor, group, warn, such, demonstration, make, not, find, support, countenance, man, name, recognize, have, right, speak_for, providence]	[2:41:00::]	2:36:13::;2:36:05::
+[person, say, already, make, first, collage, end, glue, piece, imitation, caning, oilcloth, painting, canvas]	[2:36:09::]	2:36:13::;2:36:05::
+[collage, make, term, dilemma, clear, representational, restore, preserve, only, flat, literal, surface, now, illusion, representation, become, for_the_first_time, mutually_exclusive, alternative]	[2:30:00::]	2:36:13::;2:36:05::
+[leave, previous, atomlike, smallness, cut_away, too, abruptly, depth, broad, opaque, shape, pasted, paper, isolate, such, way, make, jump_out, plane]	[2:32:00::]	2:36:13::;2:36:05::
+[drive, massachusetts, location, bypass, make, arc, twenty, mile, downtown, boston, be, vision, future]	[2:42:05::]	2:36:13::;2:36:05::
+[suburban, branch, thereby, credit, sale, make, even, glass, door, never, open]	[2:41:00::]	2:36:13::;2:36:05::
+[accounting, procedure, continue, charge, disproportionate, overhead, warehouse, expense, main, store, make, branch, seem, more, profitable, be]	[2:30:00::]	2:36:13::;2:36:05::
+[many, case, statement, break_even, downtown, operation, make, money, branch, turn_around, cost_analysis, recalculate, terms, less, prejudicial, old, store]	[2:40:01::]	2:36:13::;2:36:05::
+[fear, competition, always, great, motivating, force, american, economy, make, retailer, not, have, suburban, operation, exaggerate, volume, profitability, rival, shiny, new, branch]	[2:32:00::]	2:36:13::;2:36:05::
+[book, person, person, argue, person, new_deal, be, make, modern, suburb, possibility, fine, ironical, argument, consider, suburbanite, tend, vote]	[2:30:00::]	2:36:13::;2:36:05::
+[large, land_area, require, oxidation, pond, make, type, treatment, financially, unattractive, developer]	[2:30:00::]	2:36:13::;2:36:05::
+[weekly, sample, make, change, more, readily, discernible, daily, sample]	[2:30:00::]	2:36:13::;2:36:05::
+[composite, sample, normally, collect, 6, hr, period, occasional, 24, hr, composite, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, take, grab_sample, random, period, so, mass, data, treat, 6, hr, composite, sample]	[2:41:00::]	2:36:13::;2:36:05::
+[routine, microscopic, examination, make, mixed, liquor, indicate, person, person, various, type, protozoa]	[2:41:00::]	2:36:13::;2:36:05::
+[routine, determination, make, dissolved, oxygen, mixed, liquor, oxygen, uptake, rate]	[2:41:00::]	2:36:13::;2:36:05::
+[location, oxidation, pond, high, value, residential, area, make, odor, nuisance, sensitive, problem, developer]	[2:30:00::]	2:36:13::;2:36:05::
+[father, try, make, food, topic]	[2:30:00::]	2:36:13::;2:36:05::
+[doctor, person, be, no_longer, allow, make, regular, trip, town, see, come, often, informally, house]	[2:41:00::]	2:36:13::;2:36:05::
+[be, poem, strange, language, barely, touch, meaning, enough, make, being, ache, desire, fullness, sense, there]	[2:32:00::]	2:36:13::;2:36:05::
+[be, make, such, magnificent, soldier]	[2:42:00::]	2:36:13::;2:36:05::
+[make, decision, eye, open, so, think]	[2:31:00::]	2:36:13::;2:36:05::
+[therefore, decide, be, unfair, young_man, make, effort, understand, sympathize, point_of_view]	[2:41:00::]	2:36:13::;2:36:05::
+[merely, say, good, decorator, day, make, tasteful, home]	[2:36:05::]	2:36:13::;2:36:05::
+[come, say, there, mill, state, employ, five, thousand, people, make, uniform, navy]	[2:36:01::]	2:30:15::
+[in_fact, intimate, clearly, be, reason, person, send, here, make, larger, contribution, dollar, money]	[2:36:00::]	2:36:13::;2:36:05::
+[proposal, make, group, meet, unanimous, opposition]	[2:41:00::]	2:36:13::;2:36:05::
+[explain, errand, bother, much, make, plausible, feel, well_up, be, reason, flee, army]	[2:30:00::]	2:36:13::;2:36:05::
+[make, sound]	[2:36:00::]	2:36:13::;2:36:05::
+[make, thing, so, much, easy]	[2:30:00::]	2:36:13::;2:36:05::
+[violence, always, make, tired, be, not, frightened]	[2:30:00::]	2:36:13::;2:36:05::
+[make, world, seem, friendly, somehow, know, be, not]	[2:30:00::]	2:36:13::;2:36:05::
+[make, preacher]	[2:30:00::]	2:36:13::;2:36:05::
+[make, will, last, testament, leave, location]	[2:36:00::]	2:36:13::;2:36:05::
+[word, also, make, feel, hate, sincere, hate, so, label]	[2:30:00::]	2:36:13::;2:36:05::
+[rich, life, make, so, simple, ever, understand, subterfuge, lie, fraud, error, sin, even, crime, poor, drive, effort, overcome, great, advantage, rich, have, race, life]	[2:30:00::]	2:36:13::;2:36:05::
+[make, opera, material]	[2:36:09::]	2:36:13::;2:36:05::
+[little, song, however, be, sweet_nothings, from_the_heart, tender, memory, childhood, little, melody, hum, make, weep]	[2:30:00::]	2:36:13::;2:36:05::
+[still, just, lady, just, once, one, weekend, country, make, little, piece, melody]	[2:36:09::]	2:36:13::;2:36:05::
+[listen, such, conversation, one, morning, take, cup, chocolate, cafe, person, find, bathe, perspiration, tremble, authorship, become, known, at_the_same_time, dream, startling, effect, make, proclaim, suddenly, composer]	[2:36:08::]	2:36:13::;2:36:05::
+[fear, make, inane, inappropriate, remark]	[2:41:00::]	2:36:13::;2:36:05::
+[last, thing, resemble, war, be, line, farmer, storekeeper, mechanic, perch, top, stone_wall, dashing, rider, make, feel, good_deal, sharp, more, alert, situation]	[2:30:00::]	2:36:13::;2:36:05::
+[voice, call, make, even, more, terrible, unreal, be, redcoat, rank, never, pause, instant, only, glance, stone_wall, voice, come]	[2:30:00::]	2:36:13::;2:36:05::
+[cluster, together, redcoat, make, advantage, not, blessed, thing, two, three, chase, outrun]	[2:30:00::]	2:36:13::;2:36:05::
+[easy, good_looks, make, favorite, lady]	[2:30:00::]	2:36:13::;2:36:05::
+[rather, banish, two, such, christian, make, person]	[2:41:03::]	2:36:13::;2:36:05::
+[person, watch, own, hand, make, caress, anxious, movement, rain, fall, come, ruin, draw_close, cat, rub, ankle, be, ritual, stall, vendor, forever]	[2:41:00::]	2:36:13::;2:36:05::
+[wonder, expression, make, gesture, be, face]	[2:41:00::]	2:36:13::;2:36:05::
+[think, only, heart, make, world, hang_together]	[2:32:00::]	2:36:13::;2:36:05::
+[a_few, minute, make, ten, foot, hike, unaided, soon, parade, house, flaunt, new, skill]	[2:41:00::]	2:36:13::;2:36:05::
+[study, person, not, make, comparison, person, couple]	[2:31:00::]	2:36:13::;2:36:05::
+[person, express, curiosity, case, offer, expression, sympathy, make, no, move, escort, person, door]	[2:41:00::]	2:36:13::;2:36:05::
+[person, go_on, explain, person, fox_terrier, make, flowerbed]	[2:29:00::]	2:36:13::;2:36:05::
+[start, make, free, sketch, loosen_up, thinking, image, appear, paper]	[2:36:00::]	2:36:13::;2:36:05::
+[cloth, dry, stiffen, see, adjustment, make]	[2:41:00::]	2:36:13::;2:36:05::
+[sculpture, comment, person, wryly, sluice, floor, week, make, mud, pie]	[2:36:00::]	2:36:13::;2:36:05::
+[see, person, control, way, fold, bunch, make, flow, enrich, body, attitude]	[2:32:00::]	2:36:13::;2:36:05::
+[bible, forbid, bow_down, make, graven_image]	[2:36:09::]	2:36:13::;2:36:05::
+[wish, make, jesus, authentic, jew]	[2:36:05::]	2:36:13::;2:36:05::
+[grumble, person, know, have, nothing, grumble, person, make, few, demand]	[2:36:00::]	2:36:13::;2:36:05::
+[person, make, lie_down, bed, bring, pan, hot, water, dip, some, clean, white, linen, cloth, apply, extract, splinter]	[2:36:15::]	2:36:13::;2:36:05::
+[make, oath, loyalty, parts, too, crow]	[2:36:15::]	2:36:13::;2:36:05::
+[moral, aridity, merchant, make, loyal, usually, ledger]	[2:30:00::]	2:36:13::;2:36:05::
+[wonder, go_on, poverty, superstition, ignorance, complete, lack, desire, make, land, life, flourish]	[2:32:00::]	2:36:13::;2:36:05::
+[be, able, make, arrangement]	[2:41:00::]	2:36:13::;2:36:05::
+[make, work_papers]	[2:36:00::]	2:36:13::;2:36:05::
+[just_about, make, carry, upstairs, and_then, cling_to, n't, let_go_of]	[2:36:15::]	2:36:05::
+[shake, make, listen]	[2:36:15::]	2:36:13::;2:36:05::
+[after_all, make, flesh, blood]	[2:42:05::]	2:36:13::;2:36:05::
+[lie, cover, make, jabbing, motion, forefinger, tell, look_for, coffeepot]	[2:41:00::]	2:36:13::;2:36:05::
+[afterwards, learn, person, call, person, telephone, make, big, scene, person, try, take_away, husband]	[2:36:08::]	2:36:13::;2:36:05::
+[person, have, irish, clannishness, make, stick_together, politics]	[2:32:00::]	2:36:13::;2:36:05::
+[be, only, natural, person, strive, position, make, decision]	[2:31:00::]	2:36:13::;2:36:05::
+[work, question, motive, make, work, content, thought, eventual, victory, however, bring_about, be, sweet, indeed]	[2:32:00::]	2:36:13::;2:36:05::
+[allow, spend, night, inn, hospital, give, some, extra, money, go_to, pachinko, parlor, excellent, place, make, contact, enemy]	[2:41:00::]	2:36:13::;2:36:05::
+[get, involved, argument, try, make, convert, simply, listen, report, back, hear]	[2:29:08::]	2:36:13::;2:36:05::
+[be, ridiculous, situation, person, know, person, frankly, partisan, openly, gregarious, make, poor, espionage_agent]	[2:42:00::]	2:36:13::;2:36:05::
+[oyabun, make, such, trip, be, sign, great, weakness, indication, equally, great, confidence, all, available, information, be, probably, latter]	[2:41:00::]	2:36:13::;2:36:05::
+[person, feel, fairly, certain, victory, make, visit, trip, so, easily, misinterpret, people, village]	[2:41:00::]	2:36:13::;2:36:05::
+[find, person, parlor, ask, make, sure, be, in_order, residential, hall, and_then, take_charge, office, party, be, here]	[2:30:00::]	2:36:13::;2:36:05::
+[make, labor, worthwhile, say, smiling]	[2:30:00::]	2:36:13::;2:36:05::
+[say, three, minute, make, sporting]	[2:30:00::]	2:36:13::;2:36:05::
+[make, lie_down]	[2:31:00::]	2:36:13::;2:36:05::
+[make, think, person, have, right, witness, brother, humiliation]	[2:32:00::]	2:36:13::;2:36:05::
+[end, room, be, desk, heap, papers, begin, riffle, make, sigh, noise, girlish, exasperation]	[2:36:00::]	2:36:13::;2:36:05::
+[be, terribly, sorry, keep_waiting, wait, say, make, little, drink, wait]	[2:36:00::]	2:36:13::;2:36:05::
+[promise, make, weak]	[2:30:00::]	2:36:13::;2:36:05::
+[plane, make, feel, faint, tokyo, go, summer, give, raw, fish, breakfast, come, straight, home]	[2:30:00::]	2:36:09::
+[have, child, make, friend]	[2:29:08::]	2:36:13::;2:36:05::
+[remark, make, suffering, lonely, woman, seem, so, broad, at_first, n't, know, sixth, drink, put, arm, suggest, go, upstairs, look_for, checkbook, there]	[2:41:00::]	2:36:13::;2:36:05::
+[oblige, make, other, arrangement, daughter]	[2:41:00::]	2:36:13::;2:36:05::
+[person, hold, wheel, loosely, finger, curve, purposeful, way, deliberate, set, body, speak, plainly, figure, make, years, come]	[2:38:00::]	2:30:15::
+[decide, hate, person, kid, too, die, kitchen, be, away, n't, watch, die, just, entertain, person, make, go_up, snap, steps, drafty, hall, pa, lump, cover, end, dung, cover, snow, snore, whistle]	[2:36:15::]	2:36:13::;2:36:05::
+[make, mad, enough, be, sober]	[2:30:00::]	2:36:13::;2:36:05::
+[person, make, come]	[2:36:15::]	2:30:15::
+[n't, want, touch, hope, ma, keep, look, kid, clothes, pile, floor, pool, water, n't, make, move]	[2:41:00::]	2:36:13::;2:36:05::
+[person, be, internationally, famous, crafter, genuine, americana, foreign, eye, original, designer, inventive, childishness, steel, concrete, make, even, more, believably, sincere, personality]	[2:30:00::]	2:36:13::;2:36:05::
+[live, almost, thirty, year, same, stone, farmhouse, same, wife, remarkably, childish, thing, rise, half, six, every, morning, make, french, coffee, have, corn_flake, more, coffee, smoke, four, cigarette, read, last, sunday, yesterday, then, put_on, high-topped, farmer, shoe, walk, vine, bower, workshop]	[2:36:00::]	2:36:13::;2:36:05::
+[be, enormously, long, building, wall, make, rock, bring, home, continent, six, year, oil_geologist]	[2:42:05::]	2:36:13::;2:36:05::
+[make, fall_in_love, again, there, rutted, dirt, driveway, stand, cold, fog, mad, be, going_away, really, n't, have, mad, get, old, life, seem, take, no, more, week, go_by]	[2:32:00::]	2:36:13::;2:36:05::
+[stand_up, smooth, hair, down, straighten, clothes, feel, thankfulness, enveloping, darkness, outside, else, absence, need, answer, respond, aware, even, person, come_in, go_out, now, begin, cook, glimpse, future, future, alone, pain, make, head, writhe, in_a_moment, find, hard, wait, person, come, guest]	[2:32:00::]	2:38:00::;2:38:02::
+[make, curtain, all, window, little, house, keep, spotless, neat, shabby, be, cook, good, meal, person]	[2:36:11::]	2:36:13::;2:36:05::
+[dust, clog, throat, heat, parch, woman, be, always, make, ice_water]	[2:36:00::]	2:36:13::;2:36:05::
+[all, woman, get_up, offer, chair, all, seated, again, guest, make, inquiry, explanation]	[2:41:00::]	2:36:13::;2:36:05::
+[carry, living_room, imagine, picture, make, tall, roundly, slim, a_bit, sophisticated, yellow, sheath, graceful, swingy, walk, learn, twirler, school, band]	[2:36:00::]	2:36:12::
+[make, uncomfortable]	[2:30:00::]	2:36:13::;2:36:05::
+[be, need, person, go_on, want, life, be, make, home, person, blush, raise, child]	[2:36:00::]	2:36:13::;2:36:05::
+[make, feel, differently, person]	[2:30:00::]	2:36:13::;2:36:05::
+[be, time, be, n't, right, make, person, happy, time, come_in, kitchen, ask, peanut_butter, sandwich]	[2:30:00::]	2:36:13::;2:36:05::
+[make, sad, day, be, never, sure, be, back, thinness, quick, jerky, way, bend]	[2:30:00::]	2:36:13::;2:36:05::
+[person, watch, hurry, down, drive, car, handsome, fine-looking, man, make, proud, see]	[2:30:00::]	2:36:13::;2:36:05::
+[talk, right, there, hot, sun, face, make, sweat, feel, ashamed]	[2:30:00::]	2:36:13::;2:36:05::
+[make, feel, naked]	[2:30:00::]	2:36:13::;2:36:05::
+[guess, child, make, woman, old]	[2:30:00::]	2:36:13::;2:36:05::
+[make, man, put]	[2:36:15::]	2:36:13::;2:36:05::
+[rest, summer, scholarly, mania, make, plaster_cast, spatter, print, location, flower, leaf, all_but, surpass, constantly, renew, impression, person, mind, serve_up, contemplation, delight]	[2:36:00::]	2:36:13::;2:36:05::
+[go, mum, nervous, all_but, make, fool]	[2:30:15::]	2:36:13::;2:36:05::
+[make, look, sweet, schoolgirlish, be, excited, be, not, know, express]	[2:30:00::]	2:36:13::;2:36:05::
+[write, make, definite, plan]	[2:31:00::]	2:36:13::;2:36:05::
+[make, inquiry, read, book, etiquette]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be]	[2:36:00::]	2:36:13::;2:36:05::
+[be, have, make, mess_up]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:40:01::]	2:36:13::;2:36:05::
+[have, be, hang_around, try, make, keep_an_eye_on, wait]	[2:30:00::]	2:36:13::;2:36:05::
+[make, can]	[2:30:00::]	2:36:13::;2:36:05::
+[hold_up, try, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, be]	[2:41:00::]	2:36:13::;2:36:05::
+[send, get, keep, tell, believe, say, be, make, be, stop, care, close, leave, think, call]	[2:41:00::]	2:36:13::;2:36:05::
+[know, make, feel]	[2:32:00::]	2:36:13::;2:36:05::
+[chatter, make, become]	[2:41:00::]	2:36:13::;2:36:05::
+[make, mean, convey]	[2:36:00::]	2:36:13::;2:36:05::
+[have, make, border]	[2:36:12::]	2:36:13::;2:36:05::
+[come, roar, make, protect, rip, press]	[2:36:13::;2:36:05::]	2:30:15::
+[hold, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, allow, make]	[2:38:02::]	2:36:13::;2:36:05::
+[get, make, meet]	[2:41:00::]	2:36:13::;2:36:05::
+[want, be, make, end]	[2:41:00::]	2:36:13::;2:36:05::
+[think, have, make]	[2:36:00::]	2:36:13::;2:36:05::
+[see, make]	[2:36:08::]	2:36:13::;2:36:05::
+[make, show]	[2:32:00::]	2:36:13::;2:36:05::
+[make, show, persuade, call]	[2:32:00::]	2:36:13::;2:36:05::
+[make, wish, stay]	[2:36:15::]	2:36:13::;2:36:05::
+[stride, check, sip, get, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, back_off, have, lose]	[2:30:00::]	2:36:13::;2:36:05::
+[be, handle, know, bring, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[dump, make, roll, return, close, make, be]	[2:36:00::]	2:36:13::;2:36:05::
+[check, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[say, make, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, track_down]	[2:36:00::]	2:36:13::;2:36:05::
+[smoke, make, be, leave]	[2:36:12::]	2:36:13::;2:36:05::
+[two_weeks, month, talk_over, again, maybe, happen, meanwhile, say, cop, know, then, make, little, deal, n't]	[2:41:00::]	2:36:13::;2:36:05::
+[tell, know, be, friend, sympathize, make, special, point, special, favor, get_in_touch, get, stuff, just]	[2:30:00::]	2:36:13::;2:36:05::
+[need, leave, note, maybe, just, n't, worry, go_away, make, better, life]	[2:36:00::]	2:36:13::;2:36:05::
+[person, be, still, sound, asleep, make, fresh, coffee, search, desk, drawer, more, cigarette, think_of, handbag, find, crumpled, stray, cigarette, bottom, taste, peculiarly, face_powder]	[2:36:00::]	2:36:13::;2:36:05::
+[make, certain, amount, logic]	[2:36:08::]	2:36:13::;2:36:05::
+[conceivably, wish, make, sure, person, love, location, be, part, breath, body, person, stress, need, money]	[2:36:00::]	2:36:13::;2:36:05::
+[make, sure]	[2:36:00::]	2:36:13::;2:36:05::
+[mainly, person, try, make, believe]	[2:32:00::]	2:36:13::;2:36:05::
+[enormity, person, tell, make, impossible, person, accept, degree, realism, actuality]	[2:30:00::]	2:36:13::;2:36:05::
+[make, clear, shift, act_out, change, manner, killing, person]	[2:30:00::]	2:36:13::;2:36:05::
+[see, handiwork, out, backyard, little, tenant, tell, make, sound, a_little, special]	[2:30:00::]	2:36:13::;2:36:05::
+[person, be, a_bit, stretch, make, even, measurement]	[2:41:00::]	2:36:13::;2:36:05::
+[world, be, full, bloke, put, heart, make, tragic, scene]	[2:36:08::]	2:36:13::;2:36:05::
+[future, immediate, future, make, include, take, upstairs, give, a_bit, space, friend, work, make, available, fingertip]	[2:32:00::, 2:30:00::]	2:36:13::;2:36:05::
+[n't, see, make, necessary, know]	[2:30:00::]	2:36:13::;2:36:05::
+[nothing, make, necessary, proclaim, whole, world]	[2:30:00::]	2:36:13::;2:36:05::
+[fly, place, make, adjustment, be, obvious, do, be, fruit, long, experience]	[2:41:00::]	2:36:13::;2:36:05::
+[overflow, parking_lot, make, progress, automobile, difficult]	[2:30:00::]	2:36:13::;2:36:05::
+[think, stand_up, audience, make, guilty, face]	[2:30:00::]	2:36:13::;2:36:05::
+[finally, through, scorn, make, apparent]	[2:30:00::]	2:36:13::;2:36:05::
+[wear, brown, cotton, dress, cut, hip, way, be, supposed, make, look, slim, yoke, set, skirt, flaring, pleat, below]	[2:30:00::]	2:36:13::;2:36:05::
+[man, sketch_pad, hand, sit, large, pink, woman, small, office, end, long, dim, corridor, make, pencil, line, on_paper, say, more, person]	[2:36:00::]	2:36:13::;2:36:05::
+[only, actually, person, shoot, leave, party, not, more_than, five, minute, make, five, arbitrary, positively, have]	[2:36:00::]	2:36:13::;2:36:05::
+[make, very, poor, red_herring, inside_job]	[2:30:00::]	2:36:13::;2:36:05::
+[free, hand, pull, pad, pencil, begin, make, note, listen, say, see, interval]	[2:36:00::]	2:36:13::;2:36:05::
+[be, no, doubt, mind, handle, be, glad, make, official]	[2:42:00::]	2:36:13::;2:36:05::
+[be, habit, make, new, will]	[2:36:00::]	2:36:13::;2:36:05::
+[have, reason, change, make, right, person, death]	[2:36:00::]	2:36:13::;2:36:05::
+[want, make, more, equitable, distribution, group, benefit, most, particularly, scholarship, fund]	[2:31:13::]	2:36:13::;2:36:05::
+[time, will, draw, person, mention, mentally, alert, seem, age, know, just, change, want, make, and_so_forth]	[2:41:00::]	2:36:13::;2:36:05::
+[two, millions, add, set_aside, person, lifetime, proviso, make, long, person, continue, discharge, duty, administrator, fund, satisfaction, board_of_trustees, hereinafter, appoint, bank, administer, estate, retain, present, capacity, salary, commensurate, increased, responsibility, enlargement, fund, entail]	[2:31:13::]	2:36:13::;2:36:05::
+[person, spend, small_fortune, search, make, provision, will, find, death, never, mention, name, lawyer]	[2:36:00::]	2:36:13::;2:36:05::
+[nevertheless, make, mental, note, look_into, person, financial, background]	[2:36:00::]	2:36:13::;2:36:05::
+[person, be, damned, make, fool, again, way, earlier, laundry_truck]	[2:30:00::]	2:36:13::;2:36:05::
+[assume, building, divide, apartment, one, glance, hall, furnishings, be, obviously, still, functioning, town_house, owner, be, residence, make, doubtful, hiding_place, man, plan, make, in_advance]	[2:30:00::, 2:41:00::]	2:36:13::;2:36:05::
+[person, make, same, deduction]	[2:31:00::]	2:36:13::;2:36:05::
+[be, dead, body, make, contact, floor]	[2:38:00::;2:38:02::]	2:36:13::;2:36:05::
+[person, set, captain, fifth, safe, report, person, know, person, ulcer, prevent, make, untoward, incursion, person, gift]	[2:41:00::]	2:36:13::;2:36:05::
+[day_watch, platoon, commander, person, call_out, beat, assignment, person, n't, make, name, mean]	[2:30:00::]	2:36:13::;2:36:05::
+[person, make, comment, mind, be, busy, consider, man]	[2:36:00::]	2:36:13::;2:36:05::
+[make, point, frown, act_out, part, fond, father, confessor]	[2:41:00::]	2:36:13::;2:36:05::
+[n't, want, say, make, sure, intention, be, honorable]	[2:36:00::]	2:36:13::;2:36:05::
+[make, face, then, laugh]	[2:30:00::]	2:36:13::;2:36:05::
+[person, hear, voice, distinctly, know, be, take, while, make, mental, readjustment, control, disturbance, head]	[2:41:00::]	2:36:13::;2:36:05::
+[make, mistake]	[2:41:00::]	2:36:13::;2:36:05::
+[keep, tell, go_out, kitchen, make, drink]	[2:36:00::]	2:36:13::;2:36:05::
+[only, occasional, tip, turn_out, be, phony, police, person, make, point, run_down, such, suggestion, not, hesitate, time]	[2:41:00::]	2:36:13::;2:36:05::
+[person, remain, trance, be, much, loose_end, puzzle_over, fit, growing, see, hear, be, location, not, just, person, come, face-to-face, alone, person, make, warily, uneasy, person, taste, be, not, smell, goodness, incompletely, jumping_up_and_down, wail]	[2:30:00::]	2:36:13::;2:36:05::
+[then, make, ever, close, person, feel, almost, ready, voice, call, back]	[2:30:00::]	2:36:13::;2:36:05::
+[part, time, save, spend, preliminary, estimate, long-distance, plan, free, bound, oxygen, sand, mars, make, planet, more, friendly, future, human, generation]	[2:30:00::]	2:36:13::;2:36:05::
+[person, calm_down, make, one, request]	[2:41:00::]	2:36:13::;2:36:05::
+[submit, requisition, miracle, want, make, fool]	[2:30:15::]	2:36:13::;2:36:05::
+[expedition, be, order, make, swift, survey, condition, and_then, return, earth]	[2:41:00::]	2:36:13::;2:36:05::
+[reading, believe, person, know, situation, arise, make, reference, provision, divorce]	[2:41:00::]	2:36:13::;2:36:05::
+[nation, give_up, claim, neither, wish, make, move, lead, second]	[2:41:00::]	2:36:13::;2:36:05::
+[time, later, check, make, automatic, equipment, crew, join]	[2:41:00::]	2:36:13::;2:36:05::
+[for_one_thing, organ, speech, native, differ, somewhat, earthman, sound, make, organ, be, therefore, dissimilar]	[2:36:00::]	2:36:13::;2:36:05::
+[ask, do, be, reexamine, make, give, govern]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, seem]	[2:30:00::]	2:36:13::;2:36:05::
+[do, call, make]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, see]	[2:30:00::]	2:36:13::;2:36:05::
+[say, cure, explain, need, make, feel]	[2:30:00::]	2:36:13::;2:36:05::
+[start, go, use, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, wonder, be, be, start]	[2:32:00::]	2:36:13::;2:36:05::
+[look, make]	[2:38:02::]	2:36:13::;2:36:05::
+[make]	[2:36:00::]	2:36:13::;2:36:05::
+[hide, make]	[2:41:00::]	2:36:13::;2:36:05::
+[lose, make]	[2:41:00::]	2:36:13::;2:36:05::
+[school, examine, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, seal]	[2:36:00::]	2:36:13::;2:36:05::
+[make, be, show]	[2:41:00::]	2:36:13::;2:36:05::
+[be, guide, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[mean, know, happen, have, care, count, make, know, take]	[2:36:08::]	2:36:13::;2:36:05::
+[make, ask, be, be, need]	[2:30:00::]	2:36:13::;2:36:05::
+[stay, make, wonder]	[2:32:00::]	2:36:13::;2:36:05::
+[lie, make, get_back]	[2:41:00::]	2:36:13::;2:36:05::
+[look, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, go]	[2:36:15::]	2:36:13::;2:36:05::
+[make]	[2:36:08::]	2:36:13::;2:36:05::
+[make, be, whisper]	[2:30:00::]	2:36:13::;2:36:05::
+[make, stand_up]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[oppress, make, bend, hide, begin, blow, twist]	[2:32:00::]	2:36:13::;2:36:05::
+[make]	[2:30:00::]	2:36:13::;2:36:05::
+[tell, make, pretend, be, take]	[2:30:00::]	2:36:13::;2:36:05::
+[make, return]	[2:32:00::]	2:36:13::;2:36:05::
+[carry, make]	[2:36:13::;2:36:05::]	2:36:12::
+[make, defend]	[2:30:00::]	2:36:13::;2:36:05::
+[sound, make]	[2:32:00::]	2:36:13::;2:36:05::
+[raise, make, see, charge]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[soar, make, split, tear]	[2:41:00::]	2:36:13::;2:36:05::
+[see, fire, say, speak, slowly, make, effort, control, anger]	[2:41:00::]	2:36:13::;2:36:05::
+[make, a_little, sick, let_go_of]	[2:36:08::]	2:36:13::;2:36:05::
+[make, person, wonder]	[2:32:00::]	2:36:13::;2:36:05::
+[n't, know, make, think, get_away, kind_of, business, n't, care, either]	[2:32:00::]	2:36:13::;2:36:05::
+[spend, two, hour, ride, ranch, morning, broad, daylight, be, even, less, inviting, person, make, seem]	[2:30:00::]	2:36:13::;2:36:05::
+[make, rearrange]	[2:30:00::]	2:36:13::;2:36:05::
+[feel, make, mount]	[2:36:00::]	2:36:13::;2:36:05::
+[wear, make, expect, see, launch]	[2:32:00::]	2:36:13::;2:36:05::
+[cut, carry_away, make]	[2:30:00::]	2:36:13::;2:36:05::
+[reach, hold, be, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, shudder]	[2:30:00::]	2:36:13::;2:36:05::
+[make, seem]	[2:41:00::]	2:36:13::;2:36:05::
+[make, feel, same, way]	[2:32:00::]	2:36:13::;2:36:05::
+[moreover, weapon, carry, openly, sheriff, office, make, previous, issue]	[2:36:00::]	2:36:12::
+[do, so, make, job, well-nigh, impossible]	[2:30:00::]	2:36:13::;2:36:05::
+[exert, authority, make, toe_the_line, have, knuckle_under, small_town, clown]	[2:36:15::]	2:36:13::;2:36:05::
+[be, practically, last, move, person, make, own, volition]	[2:41:00::]	2:36:13::;2:36:05::
+[person, be, man, make, full-time, job, cow, stealing]	[2:30:00::]	2:36:13::;2:36:05::
+[person, make, round, live, again, august, morning, bullet, land, foot, once_more, accuse, threaten]	[2:41:00::]	2:36:13::;2:36:05::
+[rumor, offer, person, make, group, meeting, leak_out, then, grand_jury, investigation, murder, get, underway, prosecuting_attorney, person, order, tall, stock, detective, summon, questioning]	[2:41:00::]	2:36:13::;2:36:05::
+[indictment, never, make]	[2:41:00::]	2:36:13::;2:36:05::
+[later, ride, in, lusty, enjoyment, liquor, professional, lady, cheyenne, lay_claim, killing, vague, insinuation, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, personification, the_devil, homesteader]	[2:30:00::]	2:36:13::;2:36:05::
+[make, spread, headquarters, help_out, roundup]	[2:30:00::]	2:36:13::;2:36:05::
+[have, gun, make, big, man, n't, person]	[2:30:00::]	2:36:13::;2:36:05::
+[make, any, easy, coward]	[2:30:00::]	2:36:13::;2:36:05::
+[make, person, talk, person, get, curious, come, investigate]	[2:30:00::]	2:30:15::
+[roar, pain, fury, person, make, attack]	[2:41:00::]	2:36:05::
+[make, person, double_over]	[2:32:00::]	2:36:13::;2:36:05::
+[maybe, marshal, hear, make, difference]	[2:36:00::]	2:36:13::;2:36:05::
+[door, be, open, hour, one, person, make, way, person, close, shoulder]	[2:38:02::]	2:36:13::;2:36:05::
+[single, kick, make, spring, open, shudder]	[2:30:00::]	2:36:13::;2:36:05::
+[take_apart, see, make]	[2:42:00::]	2:36:13::;2:36:05::
+[be, second, time, hands, make, play, money]	[2:41:00::]	2:36:13::;2:36:05::
+[earphone, be, constantly, full, sound, enemy, contact, make, other, flight]	[2:41:00::]	2:36:13::;2:36:05::
+[low, cloud, make, bombing, difficult]	[2:30:00::]	2:36:13::;2:36:05::
+[not, enough, room, make, usual, vertical, bomb, run]	[2:41:00::]	2:36:13::;2:36:05::
+[man, make, deep, dive, person, take_a_breath, full, plunge, back, valley]	[2:41:00::]	2:36:13::;2:36:05::
+[be, make, gas, check, flight, person, voice, break_in, person]	[2:41:00::]	2:36:13::;2:36:05::
+[also, make, conspicuous, enemy, be, enemy, n't, spot, already]	[2:30:00::]	2:36:13::;2:36:05::
+[second, person, make, decision]	[2:41:00::]	2:36:13::;2:36:05::
+[make, sure, first]	[2:36:00::]	2:36:13::;2:36:05::
+[now, make, sure, be, jap]	[2:36:00::]	2:36:13::;2:36:05::
+[give, chance, make, high-speed, climb, turn, attack, breakaway, not, take, overcast, force, tight, turn, recovery]	[2:41:00::]	2:36:13::;2:36:05::
+[dear, god, make, pilot, good, pray]	[2:30:00::]	2:36:13::;2:36:05::
+[say, n't, make, difference, far, know]	[2:42:05::]	2:36:13::;2:36:05::
+[let, pass_over, trip, location, same, speed, make, person, wonder, speed_limit, mph, be, still, effect]	[2:32:00::]	2:36:13::;2:36:05::
+[let_up, accelerator, only, gradually, reach, again, 60, mph, hope, overhaul, person, blonde, car, driver, apparently, have, more, important, catch, person, settle_down, practice, person, kittenish, wile, need, make, duty, call, colonel, mrs, location]	[2:41:00::]	2:36:13::;2:36:05::
+[person, unwire, right-hand, door, window, be, left, merely, loosely, taped, fragment, glass, person, wad, narrow, seat, make, still, more, narrow, three, case, beer]	[2:30:00::]	2:36:13::;2:36:05::
+[seize, rack, make, western, style, flying, mount, just_in_time, one, knee, mercifully, land, duffel_bag, merely, wreck, camera, discover, later, other, knee, land, slivery, truck, floor_board, be, no, medical_report]	[2:41:00::]	2:36:13::;2:36:05::
+[maybe, in_time, make, cross, dig, grave]	[2:36:11::]	2:36:13::;2:36:05::
+[think, be, chance, make, life, out, think, better, next, just, be]	[2:36:00::]	2:36:13::;2:36:05::
+[not, make, pretty, speech, dante, actress, pay, so, good]	[2:36:00::]	2:36:13::;2:36:05::
+[make, pact, devil, be, not_yet, time, pay, price]	[2:41:00::]	2:36:13::;2:36:05::
+[clapping, make, concrete, interrupt, ecstatic, pleasure, know, quickly, release, hold, goat, pretend, examine, haunch, tick]	[2:41:00::]	2:36:13::;2:36:05::
+[think, find, do, make, watch, do]	[2:40:01::]	2:36:13::;2:36:05::
+[make, feel, take, leave, be, put]	[2:30:00::]	2:36:13::;2:36:05::
+[seem, snap, like, think_of, make]	[2:40:01::]	2:36:13::;2:36:05::
+[make]	[2:36:11::]	2:36:13::;2:36:05::
+[have, do, make, stretch, keep, keep, meet, come_up]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[thrust, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, confess, make, write, keep]	[2:32:00::]	2:36:13::;2:36:05::
+[pour, make]	[2:41:00::]	2:36:13::;2:36:05::
+[make, change, be]	[2:41:00::]	2:36:13::;2:36:05::
+[drive, look_like, make]	[2:36:00::]	2:36:13::;2:36:05::
+[make, give, tell, be, regret, be, entertain]	[2:30:00::]	2:36:13::;2:36:05::
+[be, feel, make]	[2:36:00::]	2:36:13::;2:36:05::
+[mumble, let, lead, shuffle, make, be, buffet, have]	[2:30:00::]	2:36:13::;2:36:05::
+[write, try, make]	[2:30:00::]	2:36:13::;2:36:05::
+[be, make, leave]	[2:30:00::]	2:36:13::;2:36:05::
+[call, go, make, bring]	[2:29:08::]	2:36:13::;2:36:05::
+[be, make, get]	[2:40:01::]	2:36:13::;2:36:05::
+[look, make]	[2:36:08::]	2:36:13::;2:36:05::
+[pass, wear, make, feel]	[2:30:00::]	2:36:13::;2:36:05::
+[make, dance]	[2:32:00::]	2:36:13::;2:36:05::
+[begin, talk, dream, at_the_same_time, make, plan, go, begin, dream, too]	[2:36:00::]	2:36:13::;2:36:05::
+[most, be, not, have, only, man, love, drive, bread, truck, deliver, mail, check, berry, crate, shed, own, seventeen, oil_well, six, diamond, mine, be, be, do, make, difference, be]	[2:30:00::]	2:36:13::;2:36:05::
+[dawn, lump, fill, seat, bridge, table, be, man, person, make, miserable, pass, down, person, substitute, other, guy]	[2:30:00::]	2:36:13::;2:36:05::
+[wonder, christmas_card, name, come_to, maybe, be, better, make, else, happy, n't, be, happy, give, else, want, give]	[2:30:00::]	2:36:13::;2:36:05::
+[back, group, other, old_maid, back, there, be, young, clerk, be, make, young, enough, resent, usual, ideal, working, condition, unventilated, toilet, door, have, hold, shut, sit_down]	[2:30:00::]	2:36:13::;2:36:05::
+[even, ferret_out, material, shield, make, linden, wood, cover, leather, get, light, reflection, accurate]	[2:36:01::]	2:36:13::;2:36:05::
+[say, person, be, authentic, careful, research, make]	[2:30:00::]	2:36:13::;2:36:05::
+[paint, spare_time, start, easel, painter, scholarship, be, only, one, make, regular, money]	[2:40:01::]	2:36:13::;2:36:05::
+[freshness, color, freedom, perception, lack, self-consciousness, twist, make, form, leap, page, smack, eye]	[2:36:08::]	2:36:13::;2:36:05::
+[say, just, build_up, reputation, make, real, money, get_to, well_known, illustrator, person, for_instance, then, take_time_off, some, time_off, paint]	[2:40:01::]	2:36:13::;2:36:05::
+[n't, look_like, think_of, old_man, lively, erudite, speech, make, seem, even, young]	[2:30:00::]	2:36:13::;2:36:05::
+[fireplace, have, tile, make, person, picasso]	[2:36:09::]	2:36:13::;2:36:05::
+[make, circle, thumb, finger]	[2:36:00::]	2:36:13::;2:36:05::
+[even, make, city, look_like, one, thoreau, hangout]	[2:30:00::]	2:36:13::;2:36:05::
+[make, friend, easily]	[2:29:08::]	2:36:13::;2:36:05::
+[clean_up, every_day, clean, kitchen, bathroom, get_down, knee, scrub, kitchen, floor, then, hang_up, dress, pick_up, stocking, make, bed, lie_around]	[2:30:02::]	2:36:13::;2:36:05::
+[n't, know, want, go_on, wear, outfit, say, make, face]	[2:36:00::]	2:36:13::;2:36:05::
+[pope, die, quickly, make, saint]	[2:30:00::]	2:36:13::;2:36:05::
+[change, make, person, understand, pope, die, be, end, regime, rome]	[2:41:00::]	2:36:13::;2:36:05::
+[person, spin_around, make, accurate, throw, person, hand, third_base]	[2:41:00::]	2:36:13::;2:36:05::
+[await, make, take]	[2:41:00::]	2:36:13::;2:36:05::
+[save, make, ring, be]	[2:41:00::]	2:36:13::;2:36:05::
+[make, do, make, paint]	[2:41:00::, 2:30:02::]	2:36:13::;2:36:05::
+[reprimand, drag_through_the_mud, make]	[2:30:00::]	2:36:13::;2:36:05::
+[make, learn, waste, involve, take, learn]	[2:41:00::]	2:36:13::;2:36:05::
+[make, care_for]	[2:30:00::]	2:36:13::;2:36:05::
+[make, buy, neglect, consider, put]	[2:30:00::]	2:36:13::;2:36:05::
+[make]	[2:36:01::]	2:36:13::;2:36:05::
+[make]	[2:41:00::]	2:36:13::;2:36:05::
+[farm_out, make]	[2:36:01::]	2:36:13::;2:36:05::
+[be, make, like, have, be, look, scream]	[2:36:01::]	2:36:13::;2:36:05::
+[sting, be, let, make]	[2:41:00::]	2:36:13::;2:36:05::
+[much, slob, know, be, be, certain, never, find_out, even, make, no, difference]	[2:41:00::]	2:36:13::;2:36:05::
+[make, such, fuss, buy, second, car, know, be, vulnerable]	[2:36:08::]	2:36:13::;2:36:05::
+[such, ambiguous, exercise, compound, confusion, make, worse, compound, sometimes, expand, cream, jest, sour]	[2:30:00::]	2:36:13::;2:36:05::
+[similarly, reporter, once, question, person, cryptic, fashion, person, refuse, make, further, statement]	[2:41:00::]	2:36:13::;2:36:05::
+[create, amusing, effect, position, sentence, seem, make, apply, wrong, word]	[2:32:00::]	2:36:13::;2:36:05::
+[double, meaning, anatomical, make, familiar, vaudeville, device, gag, person, person]	[2:30:00::]	2:36:13::;2:36:05::
+[question, contain, two, verb, response, not, make, clear, answer]	[2:30:00::]	2:36:13::;2:36:05::
+[think_of, give, berth, be, sure, make, wide]	[2:30:00::]	2:36:13::;2:36:05::
+[excited, woman, make, emergency, call, phone, doctor, come, right_away]	[2:41:00::]	2:30:15::
+[have, come, talk, future, humor, comedy, tell, start, slightly, and_then, make, stiff, drink, trembling, hand]	[2:36:00::]	2:30:15::
+[sentimental, pure, heart, person, go, knightly, year, still, believe_in, heart, person, character, not, make, stuff, break]	[2:42:05::]	2:36:13::;2:36:05::
+[person, sit, brood, full, minute, make, new, drink]	[2:36:00::]	2:36:13::;2:36:05::
+[just, long, enough, make, feel, important]	[2:30:00::]	2:36:13::;2:36:05::
+[now, say, person, eventually, make, sit, formation, big, root, live_oak, sort, root, divide, make, bottom, sag_down, feel, comfortable]	[2:32:00::]	2:36:13::;2:36:05::
+[now, be, person, horse, make, think_of]	[2:32:00::]	2:36:13::;2:36:05::
+[make, person, horse, belly, so, funny, be, upside_down]	[2:32:00::]	2:36:13::;2:36:05::
+[try, keep, smile, wink, long_time, make, lip, eyelid, tremble]	[2:32:00::]	2:36:13::;2:36:05::
+[never, work, naturally, make, look, unusual]	[2:30:00::]	2:36:13::;2:36:05::
+[then, mother, blush, small, lie, know, know, be, cowardice, make, one, more, radish, night, just, too, impossible, strain]	[2:30:00::]	2:36:13::;2:36:05::
+[play, show, certain, structural, amateurishness, be, eleven, act, vary, length, twenty-five, second, hour, half, statement, make, concern, ceaseless, yearning, search, youth, be, profound, worthy, attention]	[2:38:02::]	2:36:13::;2:36:05::
+[look_for, make, hobby, collect, old, tennis_racket, fly, screen, elude, judge, phonograph_record, scatter, fumed_oak, victrola, dance, two, tango, paso_doble, fairly, enervate, milieu]	[2:30:00::]	2:36:13::;2:36:05::
+[tooth, rain, mouth, pebble, wife, make, fishmonger, trolley_car, grow, stomach]	[2:30:00::]	2:36:13::;2:36:05::
+[be, stone, tibetan, buddha, pick_up, bombay, occasionally, make, merit, wife, garland, flower, lay, a_few, penny, lap]	[2:36:08::]	2:36:13::;2:36:05::
+[learn, for_example, make, practice, yap, dog, encounter, winter, sprinkle, salt, icy, pavement, scarify, foot]	[2:30:00::]	2:36:13::;2:36:05::
