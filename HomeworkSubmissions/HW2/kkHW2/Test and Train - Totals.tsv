@@ -1,0 +1,13 @@
+Word 	Num Train Files	Accuracy
+do	336	0.6129
+make	336	0.2951
+work	336	0.3103
+do	322	0.6571
+make	322	0.3333
+work	322	0.4054
+do	289	0.6667
+make	289	0.3632
+work	289	0.0741
+do	249	0.6697
+make	249	0.2974
+work	249	0.076

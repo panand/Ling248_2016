@@ -1,0 +1,825 @@
+[say, do, involve, meet, precipitate]	[2:41:01::]	2:29:09::
+[speak, say, bet, know, do, go]	[2:41:01::]	2:29:09::
+[say, be, know, do, assemble]	[2:41:01::]	2:29:09::
+[do, say, organize]	[2:41:04::]	2:29:09::
+[express, place, allow, do]	[2:41:01::]	2:29:09::
+[advise, allow, do]	[2:41:01::]	2:29:09::
+[do, take_advantage]	[2:41:01::]	2:29:09::
+[enter, do]	[2:41:02::]	2:29:09::
+[like, convey, do, be, know, be]	[2:41:01::]	2:36:02::;2:41:01::
+[do, arouse, squeeze_out, exert, be]	[2:41:01::]	2:29:09::
+[say, contract, do, be]	[2:41:01::]	2:29:09::
+[say, contract, do]	[2:41:01::]	2:29:09::
+[agree, be, do, do, think, do]	[2:41:04::]	2:29:09::
+[indicate, do]	[2:41:01::]	2:29:09::
+[sign, do]	[2:41:04::]	2:29:09::
+[be, be, do]	[2:41:01::]	2:36:02::;2:41:01::
+[agree, do, win]	[2:36:02::]	2:29:09::
+[note, do]	[2:41:02::]	2:29:09::
+[do, say, be, let, go_home]	[2:36:01::]	2:29:09::
+[disclose, find, complete, hand, give, show, do]	[2:41:01::]	2:29:09::
+[try, say, know, do]	[2:41:01::]	2:29:09::
+[do, jeopardize, consider, desire, study, work, continue, consider, design, assure]	[2:41:02::]	2:29:09::
+[do, complete]	[2:41:04::]	2:29:09::
+[do, make]	[2:41:01::]	2:29:09::
+[emphasize, train, fulfill, handle, say, regret, do]	[2:41:04::]	2:29:09::
+[do]	[2:41:04::]	2:29:09::
+[do, live, imply]	[2:42:00::]	2:29:09::
+[be, think, prove, do, claim, do]	[2:41:02::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[call, note, buy_out, be, be, try, do]	[2:41:01::]	2:36:02::;2:41:01::
+[say, be, invite, be, do]	[2:42:00::]	2:36:02::;2:41:01::
+[hold, apply, realize, do]	[2:41:01::]	2:29:09::
+[do, drive]	[2:41:01::]	2:29:09::
+[mention, drop, do, make]	[2:41:01::]	2:29:09::
+[find, get, say, do, have]	[2:41:01::]	2:29:09::
+[be, do]	[2:36:01::]	2:29:09::
+[begin, read, feel, be, do]	[2:36:01::]	2:29:09::
+[attend, become, convince, do, set_out, do]	[2:41:01::]	2:29:09::
+[do, be]	[2:41:01::]	2:29:09::
+[look, think, see, do]	[2:42:00::]	2:29:09::
+[do, fall]	[2:36:01::]	2:29:09::
+[imagine, do]	[2:36:01::]	2:29:09::
+[see, do, calm]	[2:36:01::]	2:29:09::
+[undertake, do, secure]	[2:36:01::]	2:29:09::
+[pay, say, have, do, stretch, study, open_up]	[2:36:01::]	2:29:09::
+[add, think, be, be, do]	[2:41:01::]	2:36:02::;2:41:01::
+[be, be, represent, do, welcome]	[2:42:00::]	2:36:02::;2:41:01::
+[complain, do, help, do, care]	[2:41:04::]	2:29:09::
+[go, see, do]	[2:41:04::]	2:29:09::
+[do, allow, carry_out, strengthen]	[2:41:04::]	2:29:09::
+[do, make]	[2:41:04::]	2:29:09::
+[attack, do, invoke]	[2:41:01::]	2:29:09::
+[huddle, decide, do, be, do]	[2:41:01::]	2:29:09::
+[purge, do, support]	[2:41:01::]	2:29:09::
+[prove, do]	[2:41:01::]	2:29:09::
+[have, do, finish, collect]	[2:41:04::]	2:29:09::
+[divide, do, supply, drive]	[2:36:01::]	2:29:09::
+[lay, do, pay, play, lay]	[2:41:04::]	2:29:09::
+[work, do, pay, play, work]	[2:41:04::]	2:29:09::
+[do]	[2:41:04::]	2:29:09::
+[get, know, do, give_up]	[2:41:02::]	2:29:09::
+[have, do, determine, get, walk]	[2:42:00::]	2:29:09::
+[make, be, make, do, fail, do]	[2:36:02::, 2:36:01::]	2:29:09::
+[do, puzzle_out, write]	[2:41:01::]	2:29:09::
+[be, prove, do]	[2:36:02::]	2:29:09::
+[do, be, be]	[2:41:04::]	2:36:02::;2:41:01::
+[confront, endure, do, have, depend_on, supplement]	[2:41:04::]	2:29:09::
+[do, have]	[2:41:01::]	2:29:09::
+[consider, do, compare, need, do, behoove, do]	[2:41:01::]	2:29:09::
+[do, improve, attract, raise]	[2:41:01::]	2:29:09::
+[operate, constitute, do]	[2:41:01::]	2:29:09::
+[be, acquiesce, do]	[2:41:01::]	2:29:09::
+[remain, do, prevent, become]	[2:41:01::]	2:29:09::
+[be, do, reach]	[2:41:04::]	2:29:09::
+[expect, do, point_out]	[2:41:04::]	2:29:09::
+[bay, think, do]	[2:36:01::]	2:29:09::
+[believe, make, list, lie, do, promote]	[2:41:01::]	2:29:09::
+[provide, need, get_rid_of, engage, put, need, do]	[2:36:01::]	2:29:09::
+[fall, be, do]	[2:41:01::]	2:29:09::
+[assure, have, do]	[2:42:00::]	2:29:09::
+[argue, be, be, do]	[2:41:04::]	2:36:02::;2:41:01::
+[go, do]	[2:41:02::]	2:29:09::
+[find, drive, do, bring_about, know, begin]	[2:41:01::]	2:29:09::
+[serve, do]	[2:41:01::]	2:29:09::
+[do, be]	[2:41:01::]	2:29:09::
+[begin, finish, go_out, grow, use, save, feed, ask, do]	[2:41:01::]	2:29:09::
+[echo, come, do]	[2:41:01::]	2:29:09::
+[do, seek, forgive, do]	[2:36:02::]	2:29:09::
+[pray, forgive, know, do]	[2:36:01::]	2:29:09::
+[do, reach, pursue, see, approach]	[2:42:00::]	2:29:09::
+[do]	[2:41:04::]	2:29:09::
+[do, like, lie, be]	[2:41:01::]	2:29:09::
+[be, accelerate, become, realize, be, have, do]	[2:41:01::]	2:29:09::
+[do, know]	[2:41:01::]	2:29:09::
+[do, be]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[expect, do, do]	[2:42:00::]	2:29:09::
+[be, be, do, do]	[2:42:00::]	2:29:09::
+[do, do]	[2:42:00::]	2:29:09::
+[have, do]	[2:42:00::]	2:29:09::
+[be, expect, do]	[2:42:00::]	2:29:09::
+[do, help, share, help]	[2:41:01::]	2:29:09::
+[want, do]	[2:41:01::]	2:29:09::
+[go_through, do]	[2:41:01::]	2:29:09::
+[do, be, try, bring]	[2:41:01::]	2:29:09::
+[use, do]	[2:41:01::]	2:29:09::
+[do, say, be]	[2:36:01::]	2:29:09::
+[do, vote, talk_about]	[2:36:02::]	2:29:09::
+[defeat, do]	[2:41:01::]	2:29:09::
+[attempt, do, be, achieve, maintain]	[2:36:01::]	2:29:09::
+[praise, do]	[2:41:01::]	2:29:09::
+[do]	[2:41:04::]	2:29:09::
+[try, do, be, protect, try, maintain, make]	[2:41:01::]	2:29:09::
+[instruct, do]	[2:36:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[be, do, do, do, show]	[2:36:01::]	2:29:09::
+[ask, do]	[2:41:01::]	2:29:09::
+[be, call, do]	[2:36:01::]	2:29:09::
+[create, suggest, know, do, give]	[2:41:01::]	2:29:09::
+[be, do, stop, grant]	[2:41:01::]	2:29:09::
+[donate, do, bring_in]	[2:36:01::]	2:29:09::
+[be, come, see, do]	[2:36:01::]	2:29:09::
+[be, accomplish, do]	[2:41:01::]	2:29:09::
+[do, shrink, be]	[2:41:01::]	2:29:09::
+[want, do]	[2:41:01::]	2:29:09::
+[remedy, seek, do]	[2:41:01::]	2:29:09::
+[comment, have, do]	[2:42:00::]	2:29:09::
+[come_about, do, demand]	[2:41:01::]	2:29:09::
+[be, grind, destroy, be, do]	[2:41:01::]	2:36:02::;2:41:01::
+[suggest, do, haul, sweep]	[2:41:01::]	2:29:09::
+[get, do, decide, start, push_up]	[2:41:01::]	2:29:09::
+[take_account, be, argue, be, do, be, be]	[2:36:01::]	2:36:02::;2:41:01::
+[be, allow, go, do]	[2:36:01::]	2:29:09::
+[make, do, explain, get, intend, economize, hope, do]	[2:41:01::, 2:36:01::]	2:29:09::
+[be, do, do]	[2:36:01::]	2:29:09::
+[propose, do, do]	[2:36:01::]	2:29:09::
+[do, leave, ordain]	[2:36:01::]	2:29:09::
+[try, do, be, succeed]	[2:36:01::]	2:29:09::
+[do, keep]	[2:36:01::]	2:29:09::
+[do, range]	[2:36:01::]	2:29:09::
+[be_born, do, be, remember, get, know]	[2:36:01::]	2:29:09::
+[be, spend, turn_out, do]	[2:41:01::]	2:29:09::
+[follow, find, seem, do]	[2:41:01::]	2:29:09::
+[wonder, have, do, provide, harp, include]	[2:42:00::]	2:29:09::
+[be, call, do]	[2:41:01::]	2:29:09::
+[have, do]	[2:42:00::]	2:29:09::
+[do, have]	[2:36:01::]	2:29:09::
+[do, threaten]	[2:36:01::]	2:29:09::
+[see, do, promote, occur]	[2:36:01::]	2:29:09::
+[know, propose, do, confront, hope, spread]	[2:36:01::]	2:29:09::
+[seem, come, start, experiment, report, do, be, learn, manipulate, serve]	[2:36:01::]	2:29:09::
+[mention, receive, understand, do, happen]	[2:41:01::]	2:29:09::
+[reveal, do]	[2:36:01::]	2:29:09::
+[be, plan, do]	[2:36:01::]	2:29:09::
+[be, have, do]	[2:42:00::]	2:29:09::
+[be, do]	[2:36:01::]	2:29:09::
+[show, do]	[2:36:01::]	2:29:09::
+[be, be, fail, do]	[2:41:01::]	2:36:02::;2:41:01::
+[be, do, be]	[2:36:01::]	2:36:02::;2:41:01::
+[infect, do, seem, generate]	[2:36:01::]	2:29:09::
+[have, take, try, see, do, seem, seem, happen, be, make, seem]	[2:36:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[help, have, do, be]	[2:41:01::]	2:29:09::
+[demonstrate, be, play, do, slap]	[2:36:01::]	2:29:09::
+[have, do, help]	[2:36:01::]	2:29:09::
+[be, hear, do, record]	[2:41:01::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[do, be, thrust]	[2:36:01::]	2:29:09::
+[tell, have, be, draw, do, stay]	[2:41:01::]	2:29:09::
+[be, do, owe]	[2:41:01::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[estimate, do]	[2:41:01::]	2:29:09::
+[do, prepare]	[2:41:04::]	2:29:09::
+[be, do]	[2:36:01::]	2:29:09::
+[decide, do, correct]	[2:36:01::]	2:29:09::
+[take_over, play, tell, murder, do, try, puzzle_out, expect, profit]	[2:41:01::]	2:29:09::
+[have, do]	[2:36:01::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[lay_to_rest, do, name]	[2:41:01::]	2:29:09::
+[do, tell, become, stand, cry, be]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[be, accept, accept, submit, accord, do, know, be, speak]	[2:41:01::]	2:36:02::;2:41:01::
+[look_at, do, escape, forget]	[2:36:01::]	2:29:09::
+[go, do]	[2:41:01::]	2:29:09::
+[do, build_up, lead]	[2:41:04::]	2:29:09::
+[turn_to, find, do]	[2:36:01::]	2:29:09::
+[do, do]	[2:41:01::]	2:29:09::
+[do, may, inspire, increase]	[2:41:01::]	2:29:09::
+[link, do, equate, take]	[2:41:01::]	2:29:09::
+[desire, do]	[2:36:01::]	2:29:09::
+[be, relate, do, insure, thwart, be]	[2:41:01::]	2:36:02::;2:41:01::
+[be, say, do, learn, recognize, be, cause, do, nurture, prevent]	[2:41:01::]	2:29:09::
+[balance, intend, do, do, be, allow]	[2:36:01::]	2:29:09::
+[talk_about, do, be, lead, do]	[2:36:01::]	2:29:09::
+[talk_about, cause, cause, will, intend, intend, intend, do, foreknow, be]	[2:36:01::]	2:29:09::
+[mean, do, know, do, do, intend]	[2:41:01::, 2:36:01::]	2:29:09::
+[must_not, be, do]	[2:41:01::]	2:29:09::
+[be, compensate, have, do, outweigh]	[2:36:01::]	2:29:09::
+[do, regard, cover, permit, explain]	[2:41:01::]	2:29:09::
+[begin, do, derive, do, find, drive, be, base]	[2:41:01::]	2:29:09::
+[deduce, be, formulate, do]	[2:36:01::]	2:29:09::
+[affirm, share, believe, be, think, do, take]	[2:36:01::]	2:29:09::
+[be, be, keep, draw_back, suffer, do, endure]	[2:36:01::]	2:36:02::;2:41:01::
+[pose, foreshorten, pass, say, do, accelerate]	[2:36:01::]	2:29:09::
+[know, be, know, do, be, be_born]	[2:36:01::]	2:36:02::;2:41:01::
+[be, be, baptize, attend, do, say, keep, have, be_born, be_born, be, head]	[2:36:01::]	2:29:09::
+[do, please]	[2:36:01::]	2:29:09::
+[do, be]	[2:36:01::]	2:29:09::
+[do, depend_on, do]	[2:36:00::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[do, ask]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[too, often, beginning, bodybuilder, do, training, secretly, parent, n't, want, sonny_boy, lift, all, barbell, thing, stunt, growth, childish, taunt, schoolmate, person, muscle, have, time]	[2:41:01::]	2:29:09::
+[see, so, many, illustration, read, so, many, testimonial, value, two, wonderworking, person, food, supplement, decide, try, see, do]	[2:41:01::]	2:29:09::
+[do, real, great]	[2:42:01::]	2:29:09::
+[of_course, do, exercising, crazy, water-skiing, swimming, vigorous, exercise, added, food, supplement, pack_on, pound, solid, muscle, skinny, frame]	[2:41:01::]	2:29:09::
+[just, n't, do, at_all]	[2:41:01::]	2:29:09::
+[time, person, entire, chest, back, lat, shoulder, area, be, pumped-up, almost, burst, point, person, take, time, do, a_bit, more, pectoral, front, deltoid, shaping, work]	[2:41:01::]	2:29:09::
+[have, person, do, four, six, set, incline_bench_press, note, high, incline]	[2:36:01::]	2:29:09::
+[need, fine, exercise, way, do]	[2:36:01::]	2:29:09::
+[seek_out, gardener, ask, do, produce, such, beauty, weather]	[2:41:01::]	2:29:09::
+[specialist, learn, do, great_deal, work, improve, size, health, plant, resulting, flower]	[2:41:01::]	2:29:09::
+[three, inch, porous, material, do, good, job, keep, weed, down, soil, moist, cool]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[hear, do, do]	[2:36:00::]	2:29:09::
+[step, be, want, do, want, do]	[2:36:01::]	2:29:09::
+[be, look, have, do, please]	[2:36:01::]	2:29:09::
+[settle, be, walk, keep, bench, do]	[2:36:01::]	2:29:09::
+[finance, do, extend]	[2:36:01::]	2:29:09::
+[be, relegate, be, may_not, do, do]	[2:36:01::, 2:41:01::]	2:29:09::
+[be, become, have, do, be, be, understand, apply]	[2:41:02::]	2:29:09::
+[be, use, do]	[2:41:01::]	2:29:09::
+[solve, involve, do, reduce]	[2:41:01::]	2:29:09::
+[do, be]	[2:41:01::]	2:29:09::
+[do, measure, rest]	[2:41:01::]	2:29:09::
+[work, equal, do]	[2:36:01::]	2:29:09::
+[see, seem, know, keep, try, ask, do]	[2:36:01::]	2:29:09::
+[do, ask]	[2:41:04::]	2:29:09::
+[be, do, ask]	[2:41:04::]	2:29:09::
+[be, want, trot, trot, force, do]	[2:36:01::]	2:29:09::
+[be, test, be, allow, hit, do, hold]	[2:41:01::]	2:36:02::;2:41:01::
+[do]	[2:42:01::]	2:29:09::
+[set_up, carve, watch, do]	[2:36:01::]	2:29:09::
+[walk, ride, do]	[2:42:01::]	2:29:09::
+[keep, do]	[2:42:00::]	2:29:09::
+[do]	[2:42:00::]	2:29:09::
+[do, give]	[2:38:00::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[vary, do, be, find_out, be]	[2:41:01::]	2:36:02::;2:41:01::
+[have, tilt, allow, do]	[2:41:01::]	2:29:09::
+[do, cut, have, sever, start]	[2:36:01::]	2:29:09::
+[drill, clamp, do, improve]	[2:41:01::]	2:29:09::
+[do, threaten, reach]	[2:41:01::]	2:29:09::
+[be, do]	[2:41:04::]	2:29:09::
+[be, do, have]	[2:36:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[cost, have, do]	[2:41:01::]	2:29:09::
+[be, let, estimate, need, try, do]	[2:41:01::]	2:29:09::
+[plan, buy, build, have, do, keep]	[2:41:04::]	2:29:09::
+[do]	[2:36:02::]	2:29:09::
+[be, do, award]	[2:41:01::]	2:29:09::
+[each, area, have, own, historical, interest, much, do]	[2:41:01::]	2:29:09::
+[look, physical, feature, land, determine, desirable, be, use, do, correct, fault, cost, make, area, meet, need, other, site]	[2:41:01::]	2:29:09::
+[be, certain, person, do, better, even, well, different, circumstance]	[2:42:00::]	2:29:09::
+[fellow, countryman, person, stravinsky, certainly, do, not]	[2:42:00::]	2:29:09::
+[mood, even, early, year, be, people, do, honor, music, honor, inspire]	[2:36:02::]	2:29:09::
+[be, thoroughly, convinced, most, watercolor, suffer, artist, expect, nature, do, composing, result, such, picture, be, only, literal, translation, artist, find, scene]	[2:41:01::]	2:36:02::;2:41:01::
+[after_all, do, pretty, well, other, area, olympics, competition]	[2:42:00::]	2:29:09::
+[be, important, do, improve]	[2:41:01::]	2:29:09::
+[have, dancing, do]	[2:42:00::]	2:29:09::
+[school_teacher, all_too, unprepared, job, do, need, demonstrator]	[2:41:04::]	2:29:09::
+[be, youngster, know, do, headstand, also, help, other, child, learn]	[2:41:01::]	2:29:09::
+[ask, group, ballerina, do, ten, pushup, three, chin-up, result, amount, physical, training, have, be, very, disappointing]	[2:41:04::]	2:29:09::
+[child, chin, tell, do, one, chin-up, time, pass]	[2:41:01::]	2:29:09::
+[parent, inform, system, encourage, do, same, whole, family, home]	[2:41:01::]	2:29:09::
+[do, exercise, six, time, class, period]	[2:36:01::]	2:29:09::
+[five, do, daily, about, week, develop, strength, one, pushup]	[2:41:01::]	2:29:09::
+[at_first, child, do, kick_up, so, teacher, determine, ready, work, alone, need, help]	[2:41:01::]	2:29:09::
+[instead, observer, eye, image_orthicon, television_camera, do, looking]	[2:41:01::]	2:29:09::
+[know, specifically, many, feed, additive, do, feed, make, highly, competitive, business, more, profitable, beef_man, dairyman, sheepman]	[2:36:02::]	2:29:09::
+[target, chart, quickly, briefly, tell, additive, do]	[2:36:02::]	2:29:09::
+[cost, study, make, phase, operation, determine, do, thing, get, worse]	[2:41:04::]	2:29:09::
+[mass, dealer, distributor, organization, grow, size, reason, expect, try, share_in, manufacturer, as_well, distributor, profits, be, in_effect, sale, private, brand, tend, do]	[2:41:04::]	2:29:09::
+[distribution_cost, be, almost, bind, increase, sixties, never, know, do, control, study, element, experiment, alternative, way, do, job]	[2:41:04::]	2:29:09::
+[much, fundamental, thinking, research, company, do, advertising, program]	[2:41:04::]	2:29:09::
+[many, company, do, fine, work, develop, sale, personnel, much, be, product, rather, sale, training]	[2:41:04::]	2:29:09::
+[work, vacuum, minimal, information, result, only, showpiece, look, good, exhibition, catalog, please, public_relations, department, have, little, do, essence, interior_design]	[2:42:00::]	2:29:09::
+[one, way, institute, society, do, disservice, school]	[2:36:02::]	2:29:09::
+[consider, restrict, additional, employee, benefit, pay, profit_sharing, money, such_as, do, union, contract, recently, sign, group]	[2:41:01::]	2:29:09::
+[sale, purchasing_department, do, curtail, order, shipment, receipt, vacation, shutdown, period]	[2:41:01::]	2:29:09::
+[do, story, house_organ, poster, special, publication, letter, worker, home, by_word_of_mouth, chain, command]	[2:41:01::]	2:29:09::
+[harassed, state, park, official, often, have, more, camper, know, do]	[2:41:03::]	2:29:09::
+[camping, couple, do, set, figure]	[2:41:04::]	2:29:09::
+[do, be, give, say, wish, be]	[2:41:01::]	2:36:02::;2:41:01::
+[do, be, give_away, communicate, involve]	[2:41:01::]	2:29:09::
+[have, use, grow, watch, decrease, hope, allow, do]	[2:42:00::]	2:29:09::
+[be, mean, have, do, fly]	[2:36:01::]	2:29:09::
+[do]	[2:41:02::]	2:29:09::
+[do]	[2:41:02::]	2:29:09::
+[be, do]	[2:36:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[seem, do, be, be, face_up, be]	[2:41:02::]	2:36:02::;2:41:01::
+[do]	[2:41:01::]	2:29:09::
+[say, do]	[2:41:02::]	2:29:09::
+[be, do]	[2:41:02::]	2:29:09::
+[find_out, like, do, give_it_a_whirl]	[2:41:02::]	2:29:09::
+[think_of, do, try]	[2:41:02::]	2:29:09::
+[do, try, see, do]	[2:36:01::]	2:29:09::
+[have, do, want, do]	[2:41:04::]	2:29:09::
+[stress, do, be]	[2:41:01::]	2:29:09::
+[tear, inflame, do]	[2:36:02::]	2:29:09::
+[be, arouse, wish, do]	[2:41:01::]	2:29:09::
+[too, many, husband, person, continue, worry, well, do, fear, success, depend_on, some, trick, technique, sexual, play]	[2:42:00::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[do, scream]	[2:41:01::]	2:29:09::
+[limit, afford, be, do]	[2:41:04::]	2:29:09::
+[do, charming, practice, buy_up, used, electric, blanket, 5, 10, survivor, patient, die, recondition, sell]	[2:41:01::]	2:29:09::
+[do, be, say]	[2:41:01::]	2:29:09::
+[do, grow]	[2:41:01::]	2:29:09::
+[be, see, do, help, know, do]	[2:41:01::]	2:29:09::
+[be, ask, insist, have, do]	[2:41:04::]	2:29:09::
+[help, prevent, arise, do]	[2:41:01::]	2:29:09::
+[rule_out, tap, do, separate]	[2:41:01::]	2:29:09::
+[do, be, seek, meet, represent]	[2:41:01::]	2:36:02::;2:41:01::
+[child, do, chore, adapt, age, ability]	[2:41:04::]	2:29:09::
+[have, year-round, full-time, job, n't, expect, grow, much, more, family, use, other, member, family, do, good_deal, work, hire, help]	[2:36:01::]	2:29:09::
+[probably, want, hire, do, plowing, however]	[2:41:04::]	2:29:09::
+[tractor, be, not, entirely, satisfactory, plow, particularly, heavy, soil, still, want, hire, do, plowing]	[2:41:04::]	2:29:09::
+[keep_down, machinery, investment, buy, good, secondhand, machinery, share, cost, upkeep, machinery, neighbor, hire, machinery, do, certain, job]	[2:41:04::]	2:29:09::
+[expensive, specialized, piece, machinery, need, such_as, spray, rig, combine, binder, be, better, pay, machine, do, work]	[2:41:04::]	2:29:09::
+[be, not, well, acquainted_with, area, locate, be, not, sure, family, like, make, success, farming, usually, do, better, rent, place, year, two, buy]	[2:42:00::]	2:36:02::;2:41:01::
+[do, set_up, plan, on_paper, operate, farm]	[2:41:01::]	2:29:09::
+[at_any_rate, substance, person, testimony, be, action, flow_from, membership, party, group, prosecutor, do, utmost, prove, actual, personal, hatred, jew, success, score, be, doubtful, anti-semitic, lesson, weakened, to_that_extent]	[2:41:01::]	2:36:02::;2:41:01::
+[not, do, away, all, doubt, sufficient, give, fairly, accurate, picture, event, voyage]	[2:41:01::]	2:29:09::
+[instead, quell, dissension, many, captain, era, do, person, lop_off, man, head, similar, circumstance, person, decide, be, reasonable]	[2:41:01::]	2:29:09::
+[mercenary, be, little, interested, farming, add, nothing, output, farm, plot, work, be, still, do, hoe, late]	[2:41:01::]	2:36:02::;2:41:01::
+[do, write, break_up, whole, unfortunate, establishment]	[2:41:04::]	2:29:09::
+[work, do, analyst, man, really, know, folklore, be, have, no_more, appeal, other, work, truly, scientific, sort, reach, limited, learned, audience]	[2:41:01::]	2:29:09::
+[undoubtedly, resident, realize, influence, town, have, american, military, history, deed, valor, do, name]	[2:36:02::;2:41:01::]	2:29:09::
+[much, say, question, remain, have, resource, job, do, defeat, communism, resource, use]	[2:41:01::]	2:29:09::
+[often, search, graphic, way, impress, superiority, have, doubt, think, person, do, well, new, book]	[2:36:01::]	2:29:09::
+[contention, formulate, much, greater, precision, ever, campaign, once, do, see, serious, student, world_affairs, quarrel]	[2:41:01::]	2:29:09::
+[thing, lose, sleep, be, people, conclude, be, weak, be, likely, do]	[2:41:01::]	2:36:02::;2:41:01::
+[be, hungarian, revolution, praise, mourn, do, nothing]	[2:41:01::]	2:29:09::
+[damage, do, battle, vientiane, fight, less_than, three, month, earlier, four, successive, government, rule, here, three, day, december, 9, 11]	[2:36:02::]	2:29:09::
+[together, probably, do, more, other, man, help, push, laos, 20th, century, constructively]	[2:41:04::]	2:29:09::
+[still, another, boy, assert, be, good, jew, be, do, no, wrong, be, be, good_person]	[2:41:01::]	2:36:02::;2:41:01::
+[be, significant, too, old, teenager, interview, believe, unlike, young, jewish, student, tend, do, better, academically, gentile, counterpart]	[2:42:00::]	2:29:09::
+[consequence, be, girl, group, outnumber, boy, do, somewhat, better, academically]	[2:42:00::]	2:29:09::
+[n't, like, do, away, home]	[2:41:01::]	2:29:09::
+[undoubtedly, far, more, do, lower, grade, regard, negro, school]	[2:41:01::]	2:29:09::
+[today, many, college, bound, student, try, take, course, personal, typing, feel, certain, degree, mastery, skill, be, almost, essential, propose, do, academic, work, college, professional, school]	[2:41:01::]	2:29:09::
+[talk, confidentially, director, vocational, high_school, realize, boy, just, say, want, be, plumber, then, do, good, work, find, job]	[2:41:01::]	2:29:09::
+[far, distant, part, united_states, talk, instructor, boy, twelfth, grade, do, special, work]	[2:41:01::]	2:29:09::
+[have_in_mind, do, graduate]	[2:41:02::]	2:29:09::
+[all, be, simple, enough, tell, story, person, do, two, important, thing, not, do, before]	[2:41:01::]	2:29:09::
+[do, more]	[2:41:01::]	2:29:09::
+[be, person, do]	[2:41:01::]	2:29:09::
+[not, not, be, attempt, mostly, european, do, exactly]	[2:41:01::]	2:29:09::
+[be, primarily, believe, fellowship, recruit, believer, all, social, economic, rank, most, congregation, new, protestantism, a_few, notable, exception, not, be, able, do]	[2:41:01::]	2:36:02::;2:41:01::
+[bourbon, racial, issue, have, less, do, remain, unreconstructed, other, factor]	[2:42:00::]	2:29:09::
+[become, be, remember, coin, make_up, do]	[2:41:01::]	2:29:09::
+[do, increase]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[operate, remove, do]	[2:36:02::]	2:29:09::
+[have, be, do]	[2:41:01::]	2:29:09::
+[dedicate, vow, do]	[2:36:01::]	2:29:09::
+[be, visit, fail, do, pay, consider]	[2:41:01::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[have, do]	[2:41:04::]	2:29:09::
+[do]	[2:36:01::]	2:29:09::
+[like, do]	[2:41:01::]	2:29:09::
+[take, conclude, do]	[2:41:01::]	2:29:09::
+[undergo, be, do, reflect, promote]	[2:41:01::]	2:29:09::
+[do, do, do]	[2:41:01::]	2:29:09::
+[culminate, do]	[2:41:01::]	2:29:09::
+[slap, do, sit_down, offer]	[2:41:01::]	2:29:09::
+[uphold, do, keep, make]	[2:41:01::]	2:29:09::
+[be, worried, people, do, crazy, fool, push, button]	[2:41:01::]	2:29:09::
+[understanding, solar_system, teach, replace, former, elaborate, ritual, appropriate, action, case, amount, do, nothing]	[2:41:01::]	2:29:09::
+[confront, drunk, insane, person, have, notion, do]	[2:41:01::]	2:29:09::
+[believe, do, have, effect, action, learn, in_a_way, commune, drunk, certainly, action, seem, resemble, more, nearly, performance, rain_dance, carry_out, experiment, physics]	[2:41:01::]	2:29:09::
+[one, day, dog, ireland, do, too, perhaps, also, pig]	[2:41:01::]	2:29:09::
+[be, perverse, do, so]	[2:41:01::]	2:29:09::
+[four, o'clock, four, thirty, coming, newsboy, mark, end, day, toss, paper, front_door, housewife, come, steps, pick_up, read, neighbor, do]	[2:41:01::]	2:29:09::
+[resemble, too, picture, person, person, do, look, at_first, be, solely, pictorial, prove, inspection, be, also, literary, representation, proverb, for_example, deadly_sin]	[2:36:01::]	2:36:02::;2:41:01::
+[right, superior, virtue, southerner, ask, people, north, do]	[2:41:01::]	2:29:09::
+[cowboy, person, run, cry, n't, do]	[2:41:04::]	2:29:09::
+[on_the_other_hand, fictional, detective, not, break, strike, handle, divorce, case, client, ever, think_of, ask, do, such, thing]	[2:41:04::]	2:29:09::
+[self-reliance, individualism, freedom, external, restraint, private_eye, be, perfect, embodiment, middle_class, conception, liberty, amount, do, please]	[2:41:01::]	2:29:09::
+[do, simplicity, command, bring, hidden, redundancy, misunderstanding, have, almost, zero, possibility]	[2:41:04::]	2:29:09::
+[be, here, do, be, report, gyration, struggle, struggle, amount, self, redefinition, see, predict, future, course]	[2:41:01::]	2:36:02::;2:41:01::
+[kind, create, american, culture, superior, world, industrial, technological, culture, penetrate, russia, do, almost, corner, earth, nickel, federal, treasury, single, governmental, specialist, contrive, directive, program, series, consultation, interested, agency]	[2:41:01::]	2:29:09::
+[corporation, have, disadvantage, socialist, form, organization, so, cumbersome, constructively, do, much, not, compatible, need, perpetuate, maintain, status_quo, unluckily, not, have, desirable, aspect, socialism, motivation, operate, benefit, society, as_a_whole]	[2:41:04::]	2:29:09::
+[avoid, runaway, technology, do, only, assure, humane, society, human_being, be, firmly, control, economics, society, rest]	[2:41:01::]	2:29:09::
+[certainly, external, force, not, apply, arbitrarily, mere, power, available, do, so]	[2:41:01::]	2:29:09::
+[own, company, in_effect, partnership, legally, corporation, be, able, do, many, thing, employee, normal, corporation, comparable, size, nature, be, unable, do]	[2:41:04::]	2:29:09::
+[combined, experience, foundation, very, average, assure, intelligence, background, help, do, thing, many, well-informed, people, bet, heavily]	[2:41:04::]	2:29:09::
+[do, clear, ground, erect, striking, new, structure, not, even, provide, architect, plan, new]	[2:41:01::]	2:29:09::
+[film, do, return, be, inconsequential, bit, nothing, titled, satire, person, bobbysoxer, craze]	[2:36:01::]	2:29:09::
+[person, person, do]	[2:36:01::]	2:29:09::
+[do, single, song, work_on, ambitious, voice, piano, song, film]	[2:36:01::]	2:29:09::
+[second, timely, part, sketch, literature, search, identity, have, do, difference, good, enduring, literary_work, ephemeral, mass_culture, product, today]	[2:42:00::]	2:29:09::
+[be, large, part, code_of_behavior, glossary, values, be, people, do, do, regard]	[2:41:01::]	2:29:09::
+[literature, do, be, certainly, not, clear, content, form, language, message, source, play, differentiated, part, give, mold, sense_of_purpose]	[2:41:01::]	2:29:09::
+[be, research, do, subtlety, skill, researchable, topic, research, be, missing]	[2:41:01::]	2:36:02::;2:41:01::
+[recent, year, come, increasingly, recognize, idea, have, history, not, least, important, chapter, history, have, do, thematic, conceptual, aspect, literature, art, aspect, study, history, philosophy, religion, science]	[2:42:00::]	2:29:09::
+[certainly, most, important, comment, spiritual, cultural, life, period, western, civilization, past, sixteen, seventeen, century, have, do, way, leaders, read, interpret, bible]	[2:42:00::]	2:29:09::
+[persuade, appraise, set, work, establish, do, do, help, depend, place]	[2:36:01::]	2:29:09::
+[be, do, respond]	[2:36:01::]	2:29:09::
+[ask, desire, do, extend, have, extend]	[2:41:01::]	2:29:09::
+[be, do, represent]	[2:29:09::]	2:36:02::;2:41:01::
+[do, seek_out, neglect, ignore]	[2:41:01::]	2:29:09::
+[be, like, do, do]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[take, picture, tank, do, job]	[2:41:01::]	2:29:09::
+[once, condition, international_law, meet, country, try, run, blockade, do, so, own, risk]	[2:36:01::]	2:29:09::
+[covered, container, such_as, kitchen, garbage, pail, do, toilet]	[2:42:01::]	2:29:09::
+[administrative, approval, reclassification, order, report, induction, june, 11th, fail, do]	[2:41:04::]	2:29:09::
+[ground, recommendation, be, petitioner, claim, local, board, august, 17th, evidence, memorandum, file, date, devote, 100, hour, month, actual, preaching, headquarters, group, report, no_longer, do, on_the_contrary, relinquish, position]	[2:41:01::]	2:29:09::
+[return, file, local, board, petitioner, again, order, report, induction, prosecution, follow, failure, do]	[2:41:01::]	2:29:09::
+[fail, do, assert, not, know, be, file]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[enlarged, role, mind, make, a_few, suggestion, united_states, do, not, do, make, very, large, difference, happen, rest, world]	[2:41:01::]	2:29:09::
+[be, do, executive_branch, government, speed_up, process, come_to, decision, matter, act, promptly, be, major, contribution, conduct, affairs]	[2:41:01::]	2:36:02::;2:41:01::
+[suggest, be, delay, fail, act, do, so, intentionally, not, inadvertence, bureaucratic, procedural, difficulty]	[2:41:01::]	2:29:09::
+[also, hope, do, reduce, idea, bureaucracy]	[2:41:01::]	2:29:09::
+[sometimes, know, be, too, far, down, line, be, able, do]	[2:41:01::]	2:36:02::;2:41:01::
+[hope, create, recognition, department, overseas, come_across, little, thing, go_wrong, have, responsibility, bring, attention, do]	[2:41:01::]	2:29:09::
+[try, do, so, call, attention, problem, senior, departmental, policy, officer, face]	[2:41:01::]	2:29:09::
+[already, begin, box, compass, alternative, line, action, include, do, nothing]	[2:41:01::]	2:29:09::
+[american, people, do, turn_on, large, degree, leadership]	[2:41:01::]	2:29:09::
+[additional, modern, bomber, replace, old, medium, bomber, one, b-52, do, work, several, replace]	[2:41:04::]	2:29:09::
+[justify, thermodynamically, case, do, separate, paper, prepare]	[2:41:01::]	2:29:09::
+[in_other_words, ideal_gas, compress, keep, constant, temperature, work, do, compress, completely, convert, heat, transfer, surrounding, heat_sink]	[2:41:04::]	2:29:09::
+[energy, isothermal, work, do, perfect_gas, come, thermal, energy, surroundings]	[2:41:04::]	2:29:09::
+[indeed, proper, inorganic, constituent, employ, practically, any, wetting, surface-active_agent, do, reasonably, good, job, present, sufficient, amount, hard, surface, cleaning, formulation]	[2:41:04::]	2:29:09::
+[experiment, do]	[2:41:01::]	2:29:09::
+[chromatography, do, 6, c, use, gradient, elution, essentially, person, person]	[2:41:01::]	2:29:09::
+[now, thing, do, be, find, a_couple_of, wonderful, flowering, currant, red, ribes_sanguineum, location, otherwise, good, sloe, tree, perhaps, nice, pussy_willow, bloom, preferably, male, staminate, catkin]	[2:41:01::]	2:29:09::
+[still, andrena, do, reasonably, good, job, so, animal, full, pollen, load, look_like, gay, little, piece, yellow, down, float, wind]	[2:41:01::]	2:29:09::
+[person, note, difference, pleural, blood, supply, exist, animal, nowhere, published, work, find, do, comparative, study, intrapulmonary, feature, various, mammalian, lung, other_than, dog, cat, person]	[2:41:01::]	2:29:09::
+[in_addition, little, work, do, comparative, basis, regard_to, normal, existence, bronchial_artery, pulmonary_artery, anastomosis]	[2:41:01::]	2:29:09::
+[one, approach, do, figure, 3, 4, construct, mean, age, individual, onset, completion, age, boy, girl, 2]	[2:41:01::]	2:29:09::
+[do, characteristic, value, vector, certain, special, case, i.e., minimal, polynomial, factor, scalar_field, product, distinct, monic_polynomial, degree, 1]	[2:41:01::]	2:29:09::
+[do, general]	[2:41:01::]	2:29:09::
+[experimentally, expect, independence, trial, have, nothing, do]	[2:42:00::]	2:29:09::
+[do, show, meet, meet]	[2:41:04::]	2:29:09::
+[do, discourage, conclusion, offer, assistance, domestic, need, react, firmly, irresponsible, action, world, scene]	[2:41:01::]	2:29:09::
+[have, do]	[2:42:00::]	2:29:09::
+[be, find, attend, encourage, get, provide, do]	[2:41:01::]	2:29:09::
+[feel, want, go_up, prevent, do]	[2:41:01::]	2:29:09::
+[have, rise, test, describe, feel, go_up, be, be, do, think, be, happen]	[2:41:01::]	2:29:09::
+[see, too, contrast, level, compulsivity, structured, school, high, compulsive, child, do, better]	[2:42:00::]	2:29:09::
+[high, anxiety, child, achieve, significantly, less, well, unstructured, school, low, anxiety, child, appear, do, at_least, as, well, average, structured, classroom]	[2:42:00::]	2:29:09::
+[analysis, roleplaying, usually, do, purpose, understand, strong_point, weak_point, individual, process, eliminate, weak_part, strengthen, good_part]	[2:41:01::]	2:29:09::
+[roleplaying, do, quite, different, purpose, evaluate, procedure, regardless, individual]	[2:41:01::]	2:29:09::
+[somewhat, surprise, find, one, girl, never, consider, job, appear, somewhat, mousy, also, be, office, relatively, short, time, do, most, outstanding, job, play, role, receptionist, show, wit, sparkle, aplomb]	[2:41:04::]	2:29:09::
+[play, number, typical, situation, observer, other, supervisor, keep, note, then, explain, in_detail, do, think, be, wrong]	[2:41:04::]	2:29:09::
+[life, learn, play, role, freeze, pattern, become, so, habitual, be, not, really, aware, do]	[2:41:01::]	2:29:09::
+[learn, do, be, first_step, improvement]	[2:41:01::]	2:29:09::
+[much, less, full, extent, hebephrenic, person, belching, flatus, have, comparable, communicative, function, work, patient, therapist, eventually, do, some, at_least, private, mull, possible, meaning, belch, passage, flatus, not_only, be, reduced, lack, else, analyze, also, learn, even, animal, like, sound, constitute, form, communication, from_time_to_time, quite, different, thing, say, long, patient, become, sufficiently, aware, distinct, feeling, concept, say, words]	[2:41:01::]	2:29:09::
+[entry, summarize, only_when, do, so, amount, information, retain, dictionary, reduce, time, require, dictionary, operation, decrease]	[2:41:01::]	2:29:09::
+[have, thing, do, word, thing, make, little, real, contribution, meaning, have, weak, stress, do]	[2:41:01::]	2:29:09::
+[paint, garage, strong, stress, indicate, job, do, be, not, real, painting, simply, effort, painting]	[2:41:01::]	2:29:09::
+[many, syllable, intonation, safely, ignore, much, tonal, analysis, do, study, intonation]	[2:36:01::]	2:29:09::
+[tonal, morphophonemics, common, case, do, nothing, raise, lower, tone]	[2:41:04::]	2:29:09::
+[do, so, find, necessary, examine, relevant, part, phonology, thoroughly, in_detail]	[2:41:04::]	2:29:09::
+[elephant, fox, swan, coco_palm, banana, possess, unusually, high, degree, quality, obvious, commonsense, indubitable, identity, do, eye, tooth, nail]	[2:42:01::]	2:29:09::
+[more, conservative, group, strong, backing, wealthy, businessmen, group, generally, favor, more, progressive, labor, based, group, new, party, campaign, heavily, old, more, confident, party, expect, moroccan, merchant, small_businessman, support, do, many, year]	[2:41:01::]	2:29:09::
+[do, acquiescence, latter, amount, acceptance, law, entirety, possibility, misconstruction]	[2:41:01::]	2:29:09::
+[law, become, conscious, process, more, simply, do, justice, look_to, local, custom, common, morality, applicable, norm]	[2:36:02::]	2:29:09::
+[free, factor, production, be, major, objective, rise, bourgeoisie, objective, require, governmental, authority, administrative_official, judge, limit, precisely, explicitly, possible, old, custom, inhibit, trade, abrogate, business, be, free, governmental, supervision, notion, morality, clog, automatic, adjustment, free, market, obligation, status, be, inconsistent, new, politics, new, economics, do, away]	[2:41:01::]	2:36:02::;2:41:01::
+[do, then, awkward, judgment, value]	[2:41:01::]	2:29:09::
+[theory, put, so, clearly, precisely, deserve, criticism, same, kind, do, best, supply]	[2:41:01::]	2:29:09::
+[argue, mean, do, just]	[2:41:01::]	2:29:09::
+[come_upon, rabbit, make, remark, suffering, be, bad, thing, presumably, make, feeling, positivist, be, plainly, right, say, such, remark, do, usually, express, feeling]	[2:41:01::]	2:36:02::;2:41:01::
+[do, first, find, answer, original, question, then, perhaps, be, position, provide, complete, answer, question, at_hand]	[2:41:01::]	2:29:09::
+[therefore, only, recourse, be, learn, shape, all_over, again, new, visual, experience, same, individual, object, type, object, do, only, go_over, mass, tracing, procedure]	[2:41:01::]	2:29:09::
+[ninth, century, be, artistic, work, spiritually, free, most, self-sufficient, past, future, loving, skill, spend, artist, product, be, testimonial, sense, do, be, important, be, appreciated]	[2:41:01::]	2:36:02::;2:41:01::
+[november, surveying, do, person, east, mountain, ascertain, be, possible, get, sufficient, water, fall, operate, electric, power_plant]	[2:41:01::]	2:29:09::
+[have, do, elite, physical, intellectual, athlete, apostolic, monastic, community, elite, spiritual, religious, athlete]	[2:42:00::]	2:29:09::
+[greater, corporeal, presence, greater, extraneousness, affixed, paper, cloth, serve, seeming, moment, push, else, more, vivid, idea, depth, simulated, printing, simulated, texture, ever, do]	[2:42:00::]	2:29:09::
+[very, first, collage, person, person, draw, paint, affixed, paper, cloth, principal, feature, subject, depict, seem, thrust_out, real, bas_relief, space, do, rest, subject, remain, imbed, flat, surface]	[2:41:01::]	2:29:09::
+[chain_reaction, other, reason, that_is, growing, independence, planar, unit, collage, shape, identity, depicted_object, at_least, part, re-emerge, person, person, continue, remain, more, conspicuous, only, flattened, silhouette, painting, do, wholly, oil, end]	[2:36:00::]	2:29:09::
+[appeal, suburb, be, particularly, strong, heavy, industry, move, bulky, object, lengthy, assembly_line, want, enough, land_area, do, entire, job, one, floor]	[2:41:04::]	2:29:09::
+[hurt, most, be, damage, automobile, do, central_city, retailing, especially, city, public_transit, be, feeble]	[2:36:02::]	2:36:02::;2:41:01::
+[suburban, shopping_center, branch, not, even, hudson, vast, northland, outside, detroit, do, unit, volume, business, carry, variety, merchandise, find, home, store]	[2:41:01::]	2:29:09::
+[distant, patron, suburban, branch, frighten_away, downtown, traffic, problem, however, city, store, only, pressure, politician, do, highway, await, completion, federal, highway, program]	[2:41:04::]	2:29:09::
+[parent, talk, seriously, lengthily, own, doctor, specialist, group, person, be, entitled, discount, member, family, decide, be, best, take_off, remainder, term, spend, time, bed, rest, do, pretty_much, choose, of_course, choose, do, nothing, too, exciting, too, debilitating]	[2:41:01::]	2:29:09::
+[say, do, think, miss, school]	[2:42:00::]	2:29:09::
+[do, find_out]	[2:41:01::]	2:29:09::
+[secretary, do, not, tell, cost, loneliness, learn, thing]	[2:41:01::]	2:29:09::
+[do, business, kind]	[2:41:01::]	2:29:09::
+[have_got, quarter, a_million, german, state, krauthead, tune_in, person, every_night, tell, go_out, piss, public_square, do]	[2:41:01::]	2:29:09::
+[literally, be, nothing, else, do]	[2:41:01::]	2:29:09::
+[preach, short, sermon, try, talk, man-to-man, audience, tell, be, location, birmingham, propose, do, here]	[2:41:01::]	2:29:09::
+[be, sure, do, better, go_to, location, get, deal, finance]	[2:42:00::]	2:29:09::
+[time, perhaps, better, do]	[2:41:01::]	2:29:09::
+[person, do, not, notice]	[2:41:01::]	2:29:09::
+[only, watch, sort, gentle, dismay, body, do, quick, appalling, efficient, thing]	[2:41:04::]	2:29:09::
+[knife, do]	[2:42:01::]	2:29:09::
+[be, sure, do, tell, n't]	[2:41:01::]	2:29:09::
+[stage, be, empty, person, do, star, monologue]	[2:36:01::]	2:29:09::
+[be, ever, see, always, expect, do]	[2:41:01::]	2:29:09::
+[papa, go_out, do, god, work, person, often, accompany, buggy, draw, new, black, mare]	[2:41:04::]	2:29:09::
+[person, do, please]	[2:41:04::]	2:29:09::
+[be, do]	[2:41:01::]	2:29:09::
+[do, stay, alive, person]	[2:41:01::]	2:29:09::
+[no_doubt, have, do, log]	[2:42:00::]	2:29:09::
+[university, do, study, ask]	[2:36:01::]	2:29:09::
+[else, do]	[2:36:01::]	2:29:09::
+[person, admit, n't, agree, public, performance, indeed, just, own, private, satisfaction, dearly, love, know, work, sound, do, professional, musician, trained, voice]	[2:36:01::]	2:29:09::
+[let, do, submit, group, suggest]	[2:36:01::]	2:29:09::
+[else, do]	[2:36:01::]	2:29:09::
+[do, here, hour]	[2:41:01::]	2:29:09::
+[carry, wood, carry, water, do, cooking, cleaning, mend, occasionally, get, kick_in_the_butt, pains]	[2:41:01::]	2:29:09::
+[do, wash]	[2:41:01::]	2:29:09::
+[let, do]	[2:41:01::]	2:29:09::
+[petit_dejeuner, person, say, accent, do, credit, person, high_school, french_teacher]	[2:36:02::]	2:29:09::
+[leave, apartment, knock, door, ask, be, do]	[2:41:01::]	2:29:09::
+[wait, be, elevator, then, say, now, do]	[2:41:01::]	2:29:09::
+[n't, know, do]	[2:41:01::]	2:29:09::
+[god, not, do, person, think, stubbornly]	[2:41:01::]	2:29:09::
+[discipline, daily, do, do]	[2:41:01::]	2:29:09::
+[now, be, more, do]	[2:41:01::]	2:29:09::
+[no_doubt, person, do, well, now, war, be, smuggler, heaven]	[2:42:00::]	2:29:09::
+[do, exactly, instruct]	[2:41:01::]	2:29:09::
+[good, really, do]	[2:36:02::]	2:29:09::
+[let, german, do]	[2:41:01::]	2:29:09::
+[deliver, gem, be, nothing, do, order, another, drink]	[2:41:01::]	2:29:09::
+[never, life, feel, so, remorseful, do, spend, night, own, wife]	[2:41:01::]	2:29:09::
+[do, be, write, pleasant, little, note, be, beautiful, last, now, life, part, way, good-bye, forever]	[2:41:01::]	2:36:02::;2:41:01::
+[say, sure, be, want, do, pay_attention, no, attention]	[2:41:01::]	2:29:09::
+[place, clean, meal, serve, person, do, work]	[2:41:04::]	2:29:09::
+[n't, know, do, person, n't, come, town]	[2:41:01::]	2:29:09::
+[thing, man, do, woman]	[2:41:01::]	2:29:09::
+[altercation, coffeehouse, do, dampen, spirit, be, still, a_little, wary, person, not_yet, discuss, incident]	[2:36:02::]	2:29:09::
+[do, person, go_back, desk, occupy, monthly, report, three, o'clock]	[2:41:01::]	2:29:09::
+[tell, behave, do, please]	[2:41:01::]	2:29:09::
+[declaim, sonorous, measure, person, do, restrain, burst_out, dramatic, tidings]	[2:41:01::]	2:29:09::
+[do, crouch, timbered, pit, wrong, bank, river]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[say, n't, want, begin, day, often, wonder, dead, do]	[2:41:01::]	2:29:09::
+[person, tuberculosis, person, mother, person, cancer, person, do, kidney]	[2:41:02::]	2:29:09::
+[do, list, person, person]	[2:41:04::]	2:29:09::
+[want, get_in, kit, tomorrow, morning, mind, do, cook, dinner]	[2:41:04::]	2:29:09::
+[never, do, before, say, later, arrange, leave]	[2:41:04::]	2:29:09::
+[never, do, before, always, say, shake, dress, down, white, shoulder]	[2:41:01::]	2:29:09::
+[never, do, before, always, say, wait, elevator, hotel, corridor]	[2:41:01::]	2:29:09::
+[never, do, before, always, say, pour, whiskey]	[2:41:01::]	2:29:09::
+[never, do, before, always, say, put_on, stocking]	[2:41:01::]	2:29:09::
+[ship, at_sea, railroad_train, summer, hotel, mountain, view, always, say, never, do]	[2:41:01::]	2:29:09::
+[then, get_back, bed, think_of, unashamedly, person, plan, next, meet, do]	[2:41:01::]	2:29:09::
+[go_to, do]	[2:41:01::]	2:29:09::
+[do, n't, care]	[2:41:01::]	2:29:09::
+[be, awful, angry, think, ma, do, big, heroic, even, especially]	[2:41:01::]	2:29:09::
+[sometimes, n't, seem, hide, so, well, n't, find, look, do, n't, find, figure, n't, hide, after_all, drink_up]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[no_longer, build, private, residence, pennsylvania, county, church, brazil, be, obvious, do, here_and_there, again, develop, same, airy, technique, be, such, fanciful, sometimes, even, playful, building, public, feel, assured, sense, recognition, time, quality, authentic, uniqueness, once, establish, artist, private, vision, be, no_longer, disputable, other, value]	[2:41:01::]	2:36:02::;2:41:01::
+[sometimes, grunt, softly, invisible, onlooker, sometimes, look, stern, moralistic, pencil, do, disapprove]	[2:41:01::]	2:29:09::
+[laugh, be, all, do]	[2:41:01::]	2:29:09::
+[do, now, comfortably, aware, mist, run, window, silence, outside, dark, afternoon, get_to, be]	[2:41:01::]	2:29:09::
+[be, still, not, person, do]	[2:41:01::]	2:29:09::
+[do, all, thing, promise, do, not, think_of]	[2:41:01::]	2:29:09::
+[be, reason, ask, do]	[2:41:01::]	2:29:09::
+[be, not, do, there, be, be, be]	[2:41:01::]	2:36:02::;2:41:01::
+[tell, person, mistaken, be, bring, cousin, home, supper, do, be, talk_about, antelope]	[2:41:01::]	2:36:02::;2:41:01::
+[person, tell, n't, do, grandma, die, say, eat, n't, n't, die]	[2:41:01::]	2:29:09::
+[open, crack, do, make_noise, as_much_as_possible, shuffling, coughing, scraping, noise, possible, drown, emanation, hen, begin, protest]	[2:41:01::]	2:29:09::
+[be, person, fille_de_chambre, come, clean, room, stand, ear, prick_up, regard, curiosity, explain, errand, person, see, corner, eye, doctor, do, calm, displeased, bird]	[2:41:01::]	2:29:09::
+[anyhow, come_back, five, minute, do, room]	[2:41:02::]	2:29:09::
+[seem, willing, male, just, flop, day, bashful, boy, take, person, barn, and_then, n't, know, do, people, zoo, n't, get, vulture, chick, show, trouble]	[2:41:01::]	2:29:09::
+[go, downstairs, tray, person, wish, give_in, person, know, better, do, say, have, little, girl, look]	[2:41:01::]	2:29:09::
+[n't, know, think, do, clothes, say]	[2:41:01::]	2:29:09::
+[letter, take, source, stream, imagination, transform, young_man, not, bunkmate, person, porch, steps, anecdote, smoke, cigarette, perform, tango, wear, fifty, dollar, suit, sneak_off, dark, girl, do, unimaginable, thing]	[2:41:01::]	2:29:09::
+[kiss, outrage, friend, do, meanwhile, release, all, remote, exciting, premonition, lust, all, mysterious, sensation, imagined, truly, consummated, kiss, convey]	[2:41:04::]	2:29:09::
+[be, be, do, say, do]	[2:41:01::]	2:29:09::
+[die, do]	[2:41:02::]	2:29:09::
+[know, do]	[2:41:01::]	2:29:09::
+[have, show, be, do]	[2:41:01::]	2:29:09::
+[occur, like, be, have, decide, do]	[2:41:01::]	2:29:09::
+[recognize, say, do]	[2:41:01::]	2:29:09::
+[say, do, go]	[2:36:01::]	2:29:09::
+[be, try, do, point]	[2:36:01::]	2:29:09::
+[have, call, do, let, go, go, be, see, writhe, be]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[care, do]	[2:41:01::]	2:29:09::
+[be, do]	[2:41:01::]	2:29:09::
+[be, do, release]	[2:41:04::]	2:29:09::
+[turn, do, be, think_about]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[do, walk]	[2:36:01::]	2:29:09::
+[do, jump]	[2:36:01::]	2:29:09::
+[know, have, do, want, see, take]	[2:42:00::]	2:29:09::
+[do]	[2:41:04::]	2:29:09::
+[slide, ask, do]	[2:41:01::]	2:29:09::
+[pause, wait, try, think_out, do]	[2:41:01::]	2:29:09::
+[seem, pass, decide, do]	[2:41:01::]	2:29:09::
+[do, favor, big, favor, not, so, long, back, n't, be, right, here, take_on, person, leave_off]	[2:41:04::]	2:29:09::
+[big, favor, do]	[2:41:04::]	2:29:09::
+[appreciate, do]	[2:41:01::]	2:29:09::
+[all, plan, do]	[2:36:01::]	2:29:09::
+[n't, get, hour, or_so, person, leave, do, daily, shopping]	[2:36:01::]	2:29:09::
+[n't, mind, work, hard, not, figure, do, wrong, live, easy, soft, want, be, chance, n't, mark, be]	[2:36:01::]	2:36:02::;2:41:01::
+[pretty, do, hair, way, smart, wear, different, kind, clothes, be, person, just, sound]	[2:29:04::]	2:29:09::
+[be, pity, spoil, girlish, figure, kitten, do, anyway, think, raise, just, have, vet, fix, so, n't, be, more]	[2:36:01::]	2:29:09::
+[do, find]	[2:41:01::]	2:29:09::
+[n't, do]	[2:41:01::]	2:29:09::
+[n't, know, do, person]	[2:41:01::]	2:29:09::
+[person, have, cool, ruthlessness, do, make_up_one's_mind, do]	[2:41:01::]	2:29:09::
+[person, say, first, thing, do, get, location, again, be, get, yankee]	[2:41:01::]	2:29:09::
+[now, do]	[2:41:01::]	2:29:09::
+[always, predict, person, do, first, meet]	[2:41:01::]	2:29:09::
+[nothing, say, do, seem, so, natural, work, look_forward, eventual, proposal]	[2:41:01::]	2:29:09::
+[refuse, have, doctor, insist, nothing, doctor, do]	[2:41:01::]	2:29:09::
+[demonstrate, play, imaginary, piano, do, staccato, passage, broadly, exaggerated, attack]	[2:36:01::]	2:29:09::
+[fly, place, make, adjustment, be, obvious, do, be, fruit, long, experience]	[2:41:01::]	2:36:02::;2:41:01::
+[ask, be, do]	[2:41:01::]	2:29:09::
+[n't, stop, do, think, be, right]	[2:41:01::]	2:29:09::
+[sing, well, badly, have, nothing, do]	[2:42:00::]	2:29:09::
+[do, part]	[2:41:04::]	2:29:09::
+[n't, do, even, be, home]	[2:41:01::]	2:29:09::
+[think, do]	[2:41:01::]	2:29:09::
+[be, person, mind, want, there, spy, cop, do]	[2:41:01::]	2:29:09::
+[think, do]	[2:41:01::]	2:29:09::
+[even, conviction, truth, roar, shatter, last, hope, safety, reach, release, hand_brake, head, road, home, do, bidding]	[2:41:01::]	2:29:09::
+[be, n't, person, want, do, though]	[2:41:01::]	2:29:09::
+[once, abandon, very, worst, once, quiet, dragon, worry, suspense, n't, very, much, person, do]	[2:41:01::]	2:29:09::
+[man, blow, dust, object, room, seventeenth, floor, location, blow, again, do, same, tiny, almost, airless, room, tenement, location]	[2:36:01::]	2:29:09::
+[person, do]	[2:41:01::]	2:29:09::
+[do, n't, person]	[2:41:01::]	2:29:09::
+[do, professional, decorator, person, think, somehow, impersonal, unremarkable, occupant]	[2:36:00::]	2:29:09::
+[be, do, wreck, wreck, wreck]	[2:41:01::]	2:29:09::
+[know, do]	[2:36:01::]	2:29:09::
+[way, person, be, tell, say, do]	[2:41:04::]	2:29:09::
+[do, on_his_own]	[2:36:01::]	2:29:09::
+[person, plan, set_up, prime_minister, person, do, next, few, minute]	[2:41:01::]	2:29:09::
+[do, now]	[2:41:01::]	2:29:09::
+[ask, n't, do, tomorrow, seem, muse, work, good, tonight, afraid, let_it_go]	[2:36:00::]	2:29:09::
+[only, child, do, thing, young_man, bear, money, social, position, father, double_cross, die, broke]	[2:41:01::]	2:29:09::
+[hear, person, say, picture, take, afternoon, still, take, few, second, remember, job, do, person]	[2:41:04::]	2:29:09::
+[do, person, say]	[2:36:02::]	2:29:09::
+[do, be]	[2:36:01::]	2:29:09::
+[telephone, do, favor, past]	[2:36:01::]	2:29:09::
+[do, n't, bother, person, answer]	[2:42:00::]	2:29:09::
+[do, mars]	[2:41:01::]	2:29:09::
+[afterwards, do, well, enough]	[2:41:01::]	2:29:09::
+[now, person, be, person, do, all_right, n't]	[2:42:00::]	2:29:09::
+[now, be, work, do, lots]	[2:41:04::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[ask, do, be, reexamine, make, give, govern]	[2:41:01::]	2:29:09::
+[be, do, take]	[2:41:01::]	2:29:09::
+[do, call, make]	[2:41:01::]	2:29:09::
+[tell, do]	[2:41:01::]	2:29:09::
+[do]	[2:41:04::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[have, do, be, ask, retort]	[2:41:01::]	2:29:09::
+[be, feel_like, do]	[2:41:01::]	2:29:09::
+[say, do]	[2:36:01::]	2:29:09::
+[know, do, gesture, cradle, know, ask]	[2:41:01::]	2:29:09::
+[have, do]	[2:41:04::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[have, do]	[2:41:01::]	2:29:09::
+[do, find, be]	[2:36:01::]	2:29:09::
+[remember, ask, do, bring]	[2:36:01::]	2:29:09::
+[turn, be, do, break]	[2:36:01::]	2:29:09::
+[say, do]	[2:41:01::]	2:29:09::
+[be, do, say]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[get, do]	[2:41:01::]	2:29:09::
+[tell, do]	[2:36:01::]	2:29:09::
+[think, do, say]	[2:41:01::]	2:29:09::
+[be, do]	[2:41:01::]	2:29:09::
+[bigger, be, n't, see, do, harm]	[2:36:02::]	2:29:09::
+[let, go_back, do, dish, now]	[2:29:04::]	2:29:09::
+[quirt, use, do, most, good]	[2:36:02::]	2:29:09::
+[n't, sleep, of_course, think, do, favor, pretend]	[2:36:02::]	2:29:09::
+[better, thing, do, listen]	[2:41:01::]	2:29:09::
+[have, do, wait, process, give, concern]	[2:41:04::]	2:29:09::
+[know, be, do, tell]	[2:41:01::]	2:29:09::
+[expect, insist, do, further]	[2:41:01::]	2:29:09::
+[ask, do, surprise, refer]	[2:41:01::]	2:29:09::
+[lower, wonder, have, do]	[2:42:00::]	2:29:09::
+[say, do]	[2:41:01::]	2:29:09::
+[want, do, kiss]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[say, do]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[do]	[2:42:02::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[be, expect, do]	[2:41:01::]	2:29:09::
+[regard, near, seek, be, do]	[2:41:01::]	2:29:09::
+[pause, consider, do, fail, direct, achieve]	[2:41:01::]	2:29:09::
+[move, very, quickly, know, seldom, find, occasion, do, so, be, more, wiry, truly, strong]	[2:36:01::]	2:29:09::
+[fail, do, tell, instantly, take_out, permit, return, gun, car, play, person, hand]	[2:41:04::]	2:29:09::
+[be, honest, man, do, hard, job, implication, be, else, be, unbearable]	[2:41:04::]	2:36:02::;2:41:01::
+[think, group, swindle, help, do]	[2:41:01::]	2:29:09::
+[just, do]	[2:41:04::]	2:29:09::
+[do, take_out, permit, right, now]	[2:41:04::]	2:29:09::
+[person, n't, do, of_course]	[2:41:04::]	2:29:09::
+[do, so, make, job, well-nigh, impossible]	[2:36:01::]	2:29:09::
+[just, do, job, just, follow, order, kill]	[2:41:04::]	2:29:09::
+[person, cite, wrong, person, go, scot_free, officer, only, do, duty, perhaps, too, energetically]	[2:41:04::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[tell, person, person, wife, refusal, come_with, now, intend, do]	[2:41:01::]	2:29:09::
+[do, place]	[2:41:01::]	2:29:09::
+[do, rustling, openly, boast]	[2:41:01::]	2:29:09::
+[inquest, hold, good_deal, testimony, anonymous, note, county, coroner, estimate, shooting, do, distance, yard]	[2:36:01::]	2:29:09::
+[blood, chilling, ring, terror, very, sound, name, be, tool, need, job, promise, do]	[2:41:01::]	2:29:09::
+[even, very, area, shooting, do, cattle, still, disappear]	[2:41:01::]	2:29:09::
+[location, location, county, other, man, do, same]	[2:41:01::]	2:29:09::
+[be, sure, n't, mind, do, small, favor]	[2:41:01::]	2:29:09::
+[do, person]	[2:41:01::]	2:29:09::
+[little, talk, do, person]	[2:41:01::]	2:29:09::
+[tell, do]	[2:36:01::]	2:29:09::
+[do, way, then, say, harshly]	[2:41:04::]	2:29:09::
+[do, same]	[2:41:01::]	2:29:09::
+[altitude, barrel_roll, do]	[2:41:01::]	2:29:09::
+[rapid, rate, closure, approach, below, side, ahead, only, moment, damage, do]	[2:36:01::]	2:29:09::
+[do, several, filmed, commercial]	[2:41:04::]	2:29:09::
+[last, do]	[2:36:01::]	2:29:09::
+[depend_on, do]	[2:41:04::]	2:29:09::
+[lovely, caller, person, be, name, previously, do, three, filmed, commercial, this_evening, fourth, super, production, film, home, person]	[2:36:01::]	2:29:09::
+[person, want, do, go_to, person, house, do, detective, do, get, clothes, handbag, contain, identification]	[2:36:01::]	2:29:09::
+[commercial, just, be, money, n't, be, real, incentive, do, have, chance, act]	[2:36:01::]	2:29:09::
+[show, do]	[2:36:01::]	2:29:09::
+[be, concerned, already, dandily, show, do]	[2:36:01::]	2:29:09::
+[only, do]	[2:41:01::]	2:29:09::
+[however, job, do, monstrosity, grim, determination, like, think]	[2:41:01::]	2:29:09::
+[do, here]	[2:41:01::]	2:29:09::
+[cheerfully, say, guess, do, little, drink]	[2:41:03::]	2:29:09::
+[do, be, man]	[2:41:01::]	2:29:09::
+[boy, finger, mouth, operate, skilled, unity, bagpipe, player, press, pull, delight, do]	[2:41:01::]	2:29:09::
+[fill, throb, have, bear, do, quench]	[2:41:01::]	2:29:09::
+[seem, get, catch_up_with, have, do, coax, lug, lug, insist, participate]	[2:41:01::]	2:29:09::
+[have, do, lay_off, have, go_back, sit, take, hand_out]	[2:42:00::]	2:29:09::
+[think, find, do, make, watch, do]	[2:41:04::]	2:29:09::
+[seem, have, do, say]	[2:41:04::]	2:29:09::
+[have, do, say]	[2:41:01::]	2:29:09::
+[be, do, say]	[2:41:04::]	2:29:09::
+[go_back, think, do]	[2:36:01::]	2:29:09::
+[do, waste]	[2:36:01::]	2:29:09::
+[shiver, talk, argue, have, pay, call_for, have, do]	[2:36:01::]	2:29:09::
+[have, do, be]	[2:36:01::]	2:29:09::
+[have, do]	[2:36:01::]	2:29:09::
+[have, do, make, stretch, keep, keep, meet, come_up]	[2:36:01::]	2:29:09::
+[have, do, consort, see, understand]	[2:42:00::]	2:29:09::
+[laugh, say, feel, do, please]	[2:41:01::]	2:29:09::
+[do, die]	[2:36:01::]	2:29:09::
+[get, do]	[2:41:04::]	2:29:09::
+[do, be, apply]	[2:36:02::]	2:29:09::
+[be, do, admit, be, feel]	[2:41:01::]	2:36:02::;2:41:01::
+[do, take]	[2:42:02::]	2:29:09::
+[want, do, inspect, dig, visit]	[2:41:01::]	2:29:09::
+[know, admit, suppose, have, resent, come_in, tell, do, do]	[2:41:01::]	2:29:09::
+[do, note, be]	[2:41:01::]	2:29:09::
+[do, understand, want, help]	[2:41:01::]	2:29:09::
+[see, do, consultation, person]	[2:36:01::]	2:29:09::
+[do, not, think, man, might, choose, black_flag, here_and_now]	[2:36:01::]	2:29:09::
+[do, so, any, moment, as_it_is]	[2:36:01::]	2:29:09::
+[be, alone, again, cabin, person, lower, head, arm, weep, know, full, well, must, do, in_the_end, would, do]	[2:41:01::]	2:29:09::
+[do, best, fortune, be, reward]	[2:36:01::]	2:29:09::
+[do, best, fortune, eighteen, year, old, boy, murder, heart, sail, ship]	[2:36:01::]	2:29:09::
+[be, do]	[2:41:01::]	2:29:09::
+[say, do]	[2:41:01::]	2:29:09::
+[be, do, want]	[2:41:01::]	2:29:09::
+[help, meet, do, want]	[2:41:01::]	2:29:09::
+[do, throw, know, be, imprison]	[2:41:01::]	2:29:09::
+[most, be, not, have, only, man, love, drive, bread, truck, deliver, mail, check, berry, crate, shed, own, seventeen, oil_well, six, diamond, mine, be, be, do, make, difference, be]	[2:41:02::]	2:36:02::;2:41:01::
+[be, good, know, do, do, united_states, someday]	[2:36:01::]	2:29:09::
+[person, do, wonderful, complicated, pen-and-ink, drawing, medieval, miniature, hundred, delicate, detail, cram, eight, ten, sheet, look, be, jeweler's_glass]	[2:36:01::]	2:29:09::
+[do, book_jacket, cover, paperback, reprint, naked, girl, huddle, corner, dingy, furnished, rooms, doorway, dare, cop, take, be, guy, shirtsleeves, clutch, revolver]	[2:36:01::]	2:29:09::
+[remember, once, do, jacket, group, book, be, fine, historical, novel, person, do, week, research, get, detail, just_right, fifteenth, century, armor, furnishings, clothes]	[2:36:01::, 2:41:01::]	2:29:09::
+[in_the_end, do, same, old, picture, naked, girl, guy, doorway, only, put, person, shirt, guy, give, sword, instead, pistol, paint, furniture, still, costume, movie]	[2:36:01::]	2:29:09::
+[n't, do, serious, picture, almost, year]	[2:36:00::]	2:29:09::
+[be, kind, work, do, quality, ambition, awake, keep_from, painting]	[2:36:01::]	2:29:09::
+[be, artisan, man, study, trade, develop, craftsmanship, way, goldsmith, woodcarver, do]	[2:41:01::]	2:29:09::
+[think, be, call, convivial, man, be, be, alone, studio, do, work, really, feel, alive]	[2:41:04::]	2:36:02::;2:41:01::
+[cleansing, tissue, use, fall, floor, get_up, pick_up, then, hope, notice, do]	[2:41:01::]	2:29:09::
+[wait, say, do, person]	[2:41:04::]	2:29:09::
+[so, little, do]	[2:41:04::]	2:29:09::
+[person, do, be, slide, fall_away, instead, ram, catcher]	[2:41:01::]	2:29:09::
+[be, rotten, thing, do]	[2:41:01::]	2:29:09::
+[wise_guy, think, do, fighting, ball_club, crazy]	[2:41:01::]	2:29:09::
+[do, favor, person, say, quickly]	[2:41:01::]	2:29:09::
+[best, thing, do, person, say, be, go_home]	[2:41:01::]	2:29:09::
+[tell, necessary, hurt, win, n't, do]	[2:41:01::]	2:29:09::
+[do, know, each, guy, put, out_of_commission, one, less, take_away, job, later_on]	[2:41:01::]	2:29:09::
+[then, person, say, do]	[2:41:01::]	2:29:09::
+[do, person]	[2:41:01::]	2:29:09::
+[do, person]	[2:41:01::]	2:29:09::
+[do]	[2:41:01::]	2:29:09::
+[be, get, have, tell, be, know, get, be, do]	[2:41:04::]	2:29:09::
+[admire, do, escape, do]	[2:41:01::]	2:29:09::
+[set_up, be, color, paint, play, do]	[2:41:01::]	2:29:09::
+[be, do]	[2:41:01::]	2:29:09::
+[make, do, make, paint]	[2:41:04::]	2:29:09::
+[fight, appeal, do, go, attempt, pack, defeat]	[2:41:04::]	2:29:09::
+[have, throw, play, expect, do]	[2:41:04::]	2:29:09::
+[avail, do, play, inherit, fill, occupy]	[2:36:01::]	2:29:09::
+[dog, do, ego]	[2:41:01::]	2:29:09::
+[world, do, dog, leave, town, monday, afternoon]	[2:41:04::]	2:29:09::
+[then_again, perhaps, reason, n't, find, time, do, thing, plan, do, retirement, read, roam, garden, lie, back, watch, cloud, go_by, be, n't, want, do]	[2:41:01::, 2:41:04::;2:41:01::]	2:29:09::
+[busy, life, only, do, thing, do]	[2:41:04::;2:41:01::]	2:29:09::
+[habit, become, so, fixed, year, seem, futile, do, wait]	[2:41:04::;2:41:01::]	2:29:09::
+[perhaps, be, first, thing, do]	[2:41:01::]	2:29:09::
+[person, do, figure, scrap, paper, give, various, kind, board, two-by-four, properly, handle, assure, turn_into, workbench]	[2:41:01::]	2:29:09::
+[know, do, assortment]	[2:41:01::]	2:29:09::
+[be, n't, too, bad, light_company, so, busy, n't, ever, get, do]	[2:41:01::]	2:29:09::
+[just, say, be, ready, now, else, want, do]	[2:41:04::]	2:29:09::
+[have, a_thousand, thing, do]	[2:41:04::]	2:29:09::
+[be, thing, do, now, be, set_up]	[2:41:04::]	2:36:02::;2:41:01::
+[gourmet, insist, do, way, at_the_most, fashionable, dinner, girl, reluctantly, agree]	[2:41:01::]	2:29:09::
+[one, thing, never, do, say, promptly]	[2:41:01::]	2:29:09::
+[know, much, more, fun, do, little, lawn]	[2:41:04::]	2:29:09::
+[time, person, say, even, keep_on, wiggle, a_bit, little, just, talk, tell, be, do]	[2:36:01::]	2:29:09::
+[then, say, person, jump, horse, head, do, somersault]	[2:36:01::]	2:29:09::
+[tell, person, do, day, mother, advise, child, ceremonially]	[2:36:01::]	2:29:09::
+[usually, do, attention, divert, someone, else, long, boring, story]	[2:41:01::]	2:29:09::
+[tell, do, park, ask]	[2:41:01::]	2:29:09::
+[do, modern, style, confession, person, tell, exquisite, detail, know, more, important, love, mother, pet, salamander, person]	[2:36:02::]	2:29:09::
+[hell, own, amount, chaulmoogra_oil, do, nothing, alleviate, torment, expire, indescribable, fantods, implore, person, forgive, desecration]	[2:41:01::]	2:29:09::
