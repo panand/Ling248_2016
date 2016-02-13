@@ -1,0 +1,6 @@
+{
+    "modelType": "MLE",
+    "words": ["make", "do", "work"],
+    "test": "103.train.pkl",
+    "train": "103.train.pkl"
+}
