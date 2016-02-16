@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 have elite physical intellectual athlete apostolic monastic community elite spiritual religious athlete	2:42:00::	2:41:01::	0
 be worried people crazy fool push button	2:41:01::	2:41:01::	1
 understanding solar_system teach replace former elaborate ritual appropriate action case amount nothing	2:41:01::	2:41:01::	1

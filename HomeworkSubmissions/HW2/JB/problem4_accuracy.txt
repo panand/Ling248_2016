@@ -1,4 +1,4 @@
-word	devset	num. train files	p3 accuracy
+word	devset	num. train files	p4accuracy
 do	1	839289	0.612903225806
 make	1	839289	0.295081967213
 work	1	839289	0.310344827586

@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 with_respect_to view two point be worth	2:41:00::	2:41:00::	1
 question answer be simple two word utopian communism	2:41:00::	2:41:00::	1
 find common way_of_life pleasing christ still in_use true society christian that_is good monastery easy convert utopian christianity	2:30:00::	2:41:00::	0

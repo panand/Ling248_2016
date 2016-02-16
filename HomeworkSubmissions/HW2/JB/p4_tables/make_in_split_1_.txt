@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 person location sponsor bill say failure enact amount gift taxpayer pocket bank insurance_company pipeline_company	2:30:00::	2:41:00::	0
 opponent generally argue ballot n't give enough information tax proposal voter intelligent choice	2:41:00::	2:41:00::	1
 other recommendation committee be	2:41:00::	2:41:00::	1

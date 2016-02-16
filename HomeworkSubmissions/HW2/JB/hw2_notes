@@ -1,0 +1,40 @@
+build the classifer 
+	get the co-occurrence counts (p4_counts)
+	divide them by the relevant sense-counts (use: p2_counts_by_dev[devset_num][word])
+		p2_counts_by_dev[devset_num][word]: Counter from senses of w to counts in the devset
+		
+	--> return the classifier, a function that takes a word and a list of co-words and returns the most likely sense for that word
+		by calculating the probability of each sense (by multiplying the co-occurrence probabilities of each co-word)
+		and yielding the sense that is most probable (argmax)
+	
+run the classifer
+
+
+
+===============================================================================================
+
+** Modularize! and just import your files as if they were libraries **
+
+SemCor --> 	useable format --> 	train model 	--> test model --> 	output results
+			-?format			-ds: data item		-ds:results		-ds:confusion matrix
+								-alg: train model	-alg:run model	
+								
+==> Pranav made each model into an object with attributes:
+	- metadata: where did it come from?
+	- lemma/value
+	- lexsn
+	- experimental results
+		* features
+		* result (prediction)
+	
+==> in general: think about building a representation that can carry you all the way through the task
+
+================================================================================================
+
+One way to check if things are going right: "train on test"
+	i.e. run the training and the testing both on the same dataset and see if results improve
+	
+MLE hard to beat - esp. with "dumb" features --> need to...
+	- use smarter features like what's to the left vs right
+	- look at the senses and see if some should be collapsed together
+

@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 threshold mass derive momentum threshold assumption mean impact velocity u.s. ussr work	1:06:00::	2:41:02::	0
 threshold mass derive momentum threshold assumption mean impact velocity u.s. work ussr	1:06:00::	2:41:02::	0
 write utopia treat learned diversion learned world phantasy person amuse holiday spontaneous overflow intellectual high_spirits revel debate paradox comedy invention	1:06:00::	2:41:02::	0

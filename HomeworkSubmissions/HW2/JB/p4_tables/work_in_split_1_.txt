@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 normal year college be 30 semester_hour	1:04:01::	1:04:00::	0
 hard tuesday wednesday thursday person say probably have good scrimmage friday	2:41:02::	1:04:00::	0
 work_out hour saturday then monday tuesday next week then taper_off	2:29:00::	1:04:00::	0

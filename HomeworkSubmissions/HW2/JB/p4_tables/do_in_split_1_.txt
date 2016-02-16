@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 destroy confidence bank economy say	2:41:01::	2:41:01::	1
 in_fact whole defensive unit good job	2:41:01::	2:41:01::	1
 go_along little damage then hit a_couple_of pass touchdown put in_trouble	2:36:02::	2:41:01::	0

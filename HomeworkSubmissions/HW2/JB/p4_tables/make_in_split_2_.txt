@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 last two century scientific revolution independence physical environment most rapid stride	2:41:00::	2:41:00::	1
 most effective political invention seem maximum use natural harbor be aware restrain breakwater play only minor part whole scheme	2:41:00::	2:41:00::	1
 often fear persist even most rigid ritual be never quite free uneasy feeling mistake previous execution be unaware really decisive act	2:41:00::	2:41:00::	1

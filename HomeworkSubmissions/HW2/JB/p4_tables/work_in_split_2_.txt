@@ -1,7 +1,4 @@
-cowords
-actual sense
-predicted sense
-correct
+cowords	actual sense	predicted sense	correct
 normal year college be 30 semester_hour	1:04:01::	1:04:00::	0
 n't entrust person better hands know muscle sternocleido_mastoideus neck right down tibialis_anticus leg better still know just exercise best person principle combine fast fast muscle growth	2:35:02::	1:04:00::	0
 person always have shapely leg swim water_ski really n't very_much	2:29:00::	1:04:00::	0
