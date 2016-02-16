@@ -1,0 +1,35 @@
+cowords
+actual sense
+predicted sense
+correct
+destroy confidence bank economy say	2:41:01::	2:41:01::	1
+in_fact whole defensive unit good job	2:41:01::	2:41:01::	1
+go_along little damage then hit a_couple_of pass touchdown put in_trouble	2:36:02::	2:41:01::	0
+scripture everywhere remind god have need creature church a_fortiori ill afford talent world god providence present	2:42:00::	2:41:01::	0
+be sufficient point_out principle in_terms_of alternative conceive be exclude more_than two then question third possibility be meaningless question	2:41:04::	2:41:01::	0
+failure continue place disproportionate burden location taxpayer	2:41:01::	2:41:01::	1
+person say sunday night be research quickie vote increase repeal outright notice first give reconsideration action seek	2:41:01::	2:41:01::	1
+know be often a_little more think do	2:41:01::	2:41:01::	1
+know do be often a_little more think	2:41:01::	2:41:01::	1
+person admire person spirit persuade husband boy help team	2:41:01::	2:41:01::	1
+week injury suffer st._louis victory final game kentucky tournament person sit group bench help person	2:41:01::	2:41:01::	1
+open july new production stage person all opera time conduct person	2:36:01::	2:41:01::	0
+local caller retired brigadier apparently left_over kipling tale india not approve way person get bird	2:36:00::	2:41:01::	0
+truly odd ironic most handsome impressive film yet make person don_quixote be brilliant russian spectacle wide-screen color open yesterday location group	2:36:02::	2:41:01::	0
+person person person mound chore club down location play game pay customer location	2:41:04::	2:41:01::	0
+think better job glove now know hitter league a_little better say	2:41:01::	2:41:01::	1
+contemporary context be precisely	2:41:01::	2:41:01::	1
+come england last summer research unpublished letter person	2:41:01::	2:41:01::	1
+be many letter strong protest portrait anglican clergyman indeed portray man not particularly concerned religious matter really very_much clergyman	2:41:01::	2:41:01::	1
+be first time english primate 14th century	2:41:01::	2:41:01::	1
+be conceivable better job ordinary brushing especially not brush tooth properly	2:41:01::	2:41:01::	1
+ordinary hot bath shower same	2:41:04::	2:41:01::	0
+be great relief big brain show turn_out be fraud phony irreparable damage ego editor many_another intelligent well-informed american	2:36:02::	2:41:01::	0
+investor breathe more freely learn acrobatic dancer turn magician only best_seller book make some dough	2:36:01::	2:41:01::	0
+own inner voice tell not not develop	2:41:01::	2:41:01::	1
+mother then prevent misbehavior	2:41:01::	2:41:01::	1
+such fascinating novelty score fugal treatment handle splendidly think person band tuneful ward-heeler make even better new_york cast all words clever lyric come_through perfect clarity	2:36:01::	2:41:01::	0
+hero sterling upright fellow be rich group senior two person cast virtual rapist suppose disqualify sit judgment nothing sort	2:41:01::	2:41:01::	1
+instead not just prove objectivity hasten report highly amusing film probably fairly accurate job report easter vacation shenanigan collegian down location seem come_to_grips quite honestly moral problem most commonly vex youngster age_group that_is_to_say sex	2:41:01::	2:41:01::	1
+same time person tv series popular art prove again give jazz ample breathing_space be most sensible thing producer	2:41:01::	2:41:01::	1
+vague adherence basic storyline i.e. person remain person finally wind_up person film version have little bible	2:42:00::	2:41:01::	0

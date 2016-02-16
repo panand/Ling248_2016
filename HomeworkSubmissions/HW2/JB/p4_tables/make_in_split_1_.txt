@@ -1,0 +1,65 @@
+cowords
+actual sense
+predicted sense
+correct
+person location sponsor bill say failure enact amount gift taxpayer pocket bank insurance_company pipeline_company	2:30:00::	2:41:00::	0
+opponent generally argue ballot n't give enough information tax proposal voter intelligent choice	2:41:00::	2:41:00::	1
+other recommendation committee be	2:41:00::	2:41:00::	1
+kick about extra_points try three year high_school say 26 one time	2:40:02::	2:41:00::	0
+first three game group have ball time score 16 time 40 percent total passing yardage three game 30 completion attempt be only 22 yard short total passing yardage completion try	2:40:02::	2:41:00::	0
+person only one second_half appearance season be group game four play return kickoff 30 yard gain five yard line and_then uncork yard touchdown run retire bench	2:41:00::	2:41:00::	1
+knock_down interference key stop time	2:41:00::	2:41:00::	1
+group comforting break opening kickoff denver person jar loose ball person speedy halfback hit guard person claim dallas	2:36:00::	2:41:00::	0
+early group football leader group group group big dent statistic last week	2:36:00::	2:41:00::	0
+absence truly adequate conceptuality gospel express unavoidable need demythologize use resource be at_hand usually mean various form folk religion current situation	2:41:00::	2:41:00::	1
+yet be exactly risk run assume too often continue preach gospel form seem incredible irrelevant cultured man	2:30:00::	2:41:00::	0
+long diverse tradition essentially one be belong_to be profoundly in_earnest be modern man distinctively modern_world	2:30:00::	2:41:00::	0
+implication position clear possible develop argument greater length	2:30:00::	2:41:00::	0
+person spectacular play person grounder hole fourth person come_up some good stop show strong arm third_base	2:41:00::	2:41:00::	1
+person person group group person person group person group person then group history on_the_road	2:36:00::	2:41:00::	0
+tv_audience be privileged see person four home_run thank new arrangement person game not be black_out group play at_home	2:41:00::	2:41:00::	1
+group triumph person only third man lead team pennant world_series victory first year manager	2:30:00::	2:41:00::	0
+crowd ask want wait one more term race vote no be dissent	2:36:08::	2:41:00::	0
+largest hurdle republican face be state law say first race one two alternative course take	2:41:00::	2:41:00::	1
+adjournment monday afternoon senate expect approve study number legislator allot rural_area urban_area determine adjustment	2:41:00::	2:41:00::	1
+person expect traditional visit chamber work adjournment	2:41:00::	2:41:00::	1
+department apparently intend group revolving_fund new bond issue every time portion old pay_off tax authorities	2:30:00::	2:41:00::	0
+person wife person home location location	2:36:00::	2:41:00::	0
+human	2:30:00::	2:41:00::	0
+then last season group tumble low may recover race total victory	2:30:00::	2:41:00::	0
+only group club get_off_the_ground hot start runaway race be group team	2:30:00::	2:41:00::	0
+later person office dec nice long booking full repertory	2:30:00::	2:41:00::	0
+a_couple_of day later balletomane tell telephone group ticket information tell newspaper mistake	2:36:08::	2:41:00::	0
+start call own	2:41:00::	2:41:00::	1
+n't really need immense sum_of_money probably convert american gold group pay	2:36:15::	2:41:00::	0
+truly odd ironic most handsome impressive film yet person don_quixote be brilliant russian spectacle do wide-screen color open yesterday location group	2:36:09::	2:41:00::	0
+god not say scripture man be man earth	2:36:01::	2:41:00::	0
+thus image god be man man not oyster similitude god contrast be make man child god not merely rational creature	2:30:00::	2:41:00::	0
+thus image god be make man man not oyster similitude god contrast be man child god not merely rational creature	2:30:00::	2:41:00::	0
+recent research person however evident not consistently maintain distinction	2:30:00::	2:41:00::	0
+even have indeed husband adam be nevertheless as_yet virgin become disobedient cause death entire human_race so also mary have man betrothed be nevertheless virgin yield obedience become cause salvation whole human_race	2:30:00::	2:41:00::	0
+result still use distinction be much confusion meaning basic term employ	2:41:00::	2:41:00::	1
+particular form conceptualization popular imagination response experience spirit be undoubtedly defective raw experience lead such excess remain vividly ever	2:31:00::	2:41:00::	0
+not see charge stay here apparently be still in_the_air	2:41:00::	2:41:00::	1
+be so much interest show present-day venture continue group comment equally anglican parson group minister catholic priest	2:41:00::	2:41:00::	1
+time ago however person decide bigger bomb soviet_union make	2:36:01::	2:41:00::	0
+time ago however person decide bigger bomb make soviet_union	2:36:01::	2:41:00::	0
+capacity not fail see enemy disastrous miscalculation	2:41:00::	2:41:00::	1
+imitate opponent mistake life be new high statesmanlike folly	2:36:08::	2:41:00::	0
+person government will let_go_of be dead year even soviet mortician not look presentable	2:30:00::	2:41:00::	0
+other_than clean_out pore sweat_gland work hard	2:32:00::	2:41:00::	0
+write hand numb sewing	2:30:00::	2:41:00::	0
+poetry never get_around_to read group possible poet hear read own work	2:30:00::	2:41:00::	0
+every man dabble_in market a_little easy_money on_the_side suffer losses time hardly face wife wonder husband be so dumb	2:40:01::	2:41:00::	0
+investor breathe more freely learn acrobatic dancer turn magician only do best_seller book some dough	2:40:01::	2:41:00::	0
+toy have act_as substitute family temptation such_as refrigerator gas_stove	2:32:00::	2:41:00::	0
+not person not most role	2:30:00::	2:41:00::	0
+word say person broadway youngster adopted son life miserable nearly person particular	2:30:00::	2:41:00::	0
+mad world not	2:36:00::	2:41:00::	0
+be greatly person credit no attempt outdo person	2:41:00::	2:41:00::	1
+sparrow size person sparkling blue eye cheerful smile suitably perky person person real aunt be positively monumental very best gibson_girl manner	2:42:00::	2:41:00::	0
+person person first wife manage short role impressive	2:30:00::	2:41:00::	0
+such fascinating novelty score fugal treatment handle splendidly think person band tuneful ward-heeler even better do new_york cast all words clever lyric come_through perfect clarity	2:41:00::	2:41:00::	1
+a_couple_of male good comedy too person person	2:36:00::	2:41:00::	0
+furthermore person ideal master_of_ceremonies	2:42:00::	2:41:00::	0
+reference possibility record other_than popular_music manner not seem lend well serious_music	2:41:00::	2:41:00::	1
