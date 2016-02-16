@@ -1,0 +1,33 @@
+cowords
+actual sense
+predicted sense
+correct
+normal year college be 30 semester_hour	1:04:01::	1:04:00::	0
+hard tuesday wednesday thursday person say probably have good scrimmage friday	2:41:02::	1:04:00::	0
+work_out hour saturday then monday tuesday next week then taper_off	2:29:00::	1:04:00::	0
+on_the_contrary even heart bible_belt attest call industrial_revolution technological_revolution long be underway together corresponding change man picture world	2:41:00::	1:04:00::	0
+be ancient venerable tradition church derive however heritage greek rather bible god be completely independent creation have need man accomplish world	1:04:00::	1:04:00::	1
+finally also mention several member self-consciously neoliberal movement develop group be heavily indebted philosophically creative person	1:06:00::	1:04:00::	0
+location legislator city official pass enabling_legislation permit establishment fair equitable pension plan city employee	2:41:06::	1:04:00::	0
+person group public_relations director resign tuesday person campaign	2:41:00::	1:04:00::	0
+person expect make traditional visit chamber adjournment	2:41:02::	1:04:00::	0
+bond issue go state court friendly test_suit test validity act and_then sale begin contract let repair georgia most heavily traveled highway	1:04:00::	1:04:00::	1
+group source say also be plan there issue some 3 million 4 million worth group bond rural road construction	1:04:00::	1:04:00::	1
+person end	2:41:06::	1:04:00::	0
+name person three year ago head committee include person person person person relentlessly	2:41:02::	1:04:00::	0
+play basketball there law_degree	2:41:02::	1:04:00::	0
+person perform right group field possibly strong team spring person base_on_balls	2:36:09::	1:04:00::	0
+person walk first batter face person romp around person blast person next toss foot scoreboard right center	2:36:09::	1:04:00::	0
+become most evident description christ second adam indeed come destroy sin culminate achievement immortality	1:04:00::	1:04:00::	1
+speak christ bestowal incorruptibility mean not mean deliverance time history	1:04:00::	1:04:00::	1
+christianity teach not_only salvation history salvation history christ such interpretation death require drastic revision christian understanding christ	1:04:00::	1:04:00::	1
+ask play be come_upon community such terrible power be better answer give spirit	2:41:06::	1:04:00::	0
+leave so fast president location issue appeal week factory_worker west volunteer six month front_line factory location	1:04:00::	1:04:00::	1
+doctrine never not work now	2:41:03::	1:04:00::	0
+doctrine never work not now	2:41:03::	1:04:00::	0
+other_than clean_out pore make sweat_gland hard	2:41:01::	1:04:00::	0
+poetry never get_around_to read group make possible poet hear read own	1:06:00::	1:04:00::	0
+hero person person be chap embitter more lack beer jam_session	1:06:00::	1:04:00::	0
+not altogether successful play overcome sheer vitality power lesser be crippling	1:06:00::	1:04:00::	0
+ballet be especially opening number group group fiery sultry brazilian fantasia later	1:04:00::	1:04:00::	1
+camera stare soloist face extreme closeup then considerately pull_back full view ensemble	1:04:00::	1:04:00::	1

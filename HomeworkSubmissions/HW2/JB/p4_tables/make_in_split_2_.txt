@@ -1,0 +1,127 @@
+cowords
+actual sense
+predicted sense
+correct
+last two century scientific revolution independence physical environment most rapid stride	2:41:00::	2:41:00::	1
+most effective political invention seem maximum use natural harbor be aware restrain breakwater play only minor part whole scheme	2:41:00::	2:41:00::	1
+often fear persist even most rigid ritual be never quite free uneasy feeling mistake previous execution be unaware really decisive act	2:41:00::	2:41:00::	1
+be naive say use such word	2:41:00::	2:41:00::	1
+attach little importance personal liberty not known world	2:36:00::	2:41:00::	0
+appear be one intense dislike little effort conceal even presence southern friend	2:41:00::	2:41:00::	1
+person location sponsor bill say failure enact amount gift taxpayer pocket bank insurance_company pipeline_company	2:30:00::	2:41:00::	0
+opponent generally argue ballot n't give enough information tax proposal voter intelligent choice	2:41:00::	2:41:00::	1
+other recommendation committee be	2:41:00::	2:41:00::	1
+improve overall balance control bodybuilder help squat more easily more correctly perform	2:30:00::	2:41:00::	0
+have a_couple_of training partner stand_by first experiment just safety	2:41:00::	2:41:00::	1
+suggest hold bar back neck reason n't experiment bar hold neck	2:41:00::	2:41:00::	1
+lifter leg split lifter benefit enormously practice variation remember alternate set left right leg front	2:41:00::	2:41:00::	1
+kick about extra_points try three year high_school say 26 one time	2:40:02::	2:41:00::	0
+first three game group have ball time score 16 time 40 percent total passing yardage three game 30 completion attempt be only 22 yard short total passing yardage completion try	2:40:02::	2:41:00::	0
+person only one second_half appearance season be group game four play return kickoff 30 yard gain five yard line and_then uncork yard touchdown run retire bench	2:41:00::	2:41:00::	1
+knock_down interference key stop time	2:41:00::	2:41:00::	1
+group comforting break opening kickoff denver person jar loose ball person speedy halfback hit guard person claim dallas	2:36:00::	2:41:00::	0
+early group football leader group group group big dent statistic last week	2:36:00::	2:41:00::	0
+addition endurance training later body be mature enough benefit danger injury provide final quality top athlete soldier citizen	2:36:00::	2:41:00::	0
+dance teacher america business prepare young charge gymnastics come someday school be really responsible be that_much ahead	2:36:08::	2:41:00::	0
+arch back upwards bridge	2:36:00::	2:41:00::	0
+theory possible event eternity be continuously available moment consciousness	2:30:00::	2:41:00::	0
+absence truly adequate conceptuality gospel express unavoidable need demythologize use resource be at_hand usually mean various form folk religion current situation	2:41:00::	2:41:00::	1
+yet be exactly risk run assume too often continue preach gospel form seem incredible irrelevant cultured man	2:30:00::	2:41:00::	0
+long diverse tradition essentially one be belong_to be profoundly in_earnest be modern man distinctively modern_world	2:30:00::	2:41:00::	0
+implication position clear possible develop argument greater length	2:30:00::	2:41:00::	0
+like seedbed right open many people start successfully cold_frame	2:36:00::	2:41:00::	0
+cold_frame be morale_builder mass bright bloom set border snow spirit rise time look	2:32:00::	2:41:00::	0
+treat right showing every_month year frigid	2:41:00::	2:41:00::	1
+delightful tropical fruit become well-known past thirty year modern transportation method possible ship avocado anywhere united_states	2:30:00::	2:41:00::	0
+have great many asset recommend n't avocado part diet yet really	2:30:00::	2:41:00::	0
+sometimes take several eating avocado catch delightful quality taste such favorite throughout world	2:30:00::	2:41:00::	0
+today refrigerated carrier shipping avocado possible any place world	2:30:00::	2:41:00::	0
+person spectacular play person grounder hole fourth person come_up some good stop show strong arm third_base	2:41:00::	2:41:00::	1
+person person group group person person group person group person then group history on_the_road	2:36:00::	2:41:00::	0
+tv_audience be privileged see person four home_run thank new arrangement person game not be black_out group play at_home	2:41:00::	2:41:00::	1
+group triumph person only third man lead team pennant world_series victory first year manager	2:30:00::	2:41:00::	0
+lyric beauty person elemental rhythm infectious melody source pure pleasure almost all music listener	2:30:00::	2:41:00::	0
+accumulation distortion fit fractional bit total reach threshold awareness record sound record	2:30:00::	2:41:00::	0
+group new person be major effort record sound real orchestra rather copy	2:36:00::	2:41:00::	0
+sort experience concept high_fidelity real musical significance home music listener	2:30:00::	2:41:00::	0
+worth dwell detail crisis story bring_together number characteristic element curious riddle compound obscurely centrally significant person work	2:30:00::	2:41:00::	0
+artistic interest then lie_in encounter represent power central significance draw detail relevance meaningfulness	2:32:00::	2:41:00::	0
+claim belong_to great mighty earth	2:41:00::	2:41:00::	1
+person person protest quite in_vain rejection not fatal be ridiculous humiliating simply throw_out shop porter	2:41:00::	2:41:00::	1
+crowd ask want wait one more term race vote no be dissent	2:36:08::	2:41:00::	0
+largest hurdle republican face be state law say first race one two alternative course take	2:41:00::	2:41:00::	1
+adjournment monday afternoon senate expect approve study number legislator allot rural_area urban_area determine adjustment	2:41:00::	2:41:00::	1
+person expect traditional visit chamber work adjournment	2:41:00::	2:41:00::	1
+department apparently intend group revolving_fund new bond issue every time portion old pay_off tax authorities	2:30:00::	2:41:00::	0
+person wife person home location location	2:36:00::	2:41:00::	0
+human	2:30:00::	2:41:00::	0
+then last season group tumble low may recover race total victory	2:30:00::	2:41:00::	0
+only group club get_off_the_ground hot start runaway race be group team	2:30:00::	2:41:00::	0
+naturally such scholarly fact be little concern man try money fan patriotism means folklore	2:40:01::	2:41:00::	0
+be primarily concerned use material collector find	2:41:00::	2:41:00::	1
+second place large_number writer more direct claim person be folk_writer one sort clearly make distinction genuine bogus material	2:41:00::	2:41:00::	1
+second place large_number writer make more direct claim person be folk_writer one sort clearly distinction genuine bogus material	2:31:00::	2:41:00::	0
+later person office dec nice long booking full repertory	2:30:00::	2:41:00::	0
+a_couple_of day later balletomane tell telephone group ticket information tell newspaper mistake	2:36:08::	2:41:00::	0
+start call own	2:41:00::	2:41:00::	1
+n't really need immense sum_of_money probably convert american gold group pay	2:36:15::	2:41:00::	0
+truly odd ironic most handsome impressive film yet person don_quixote be brilliant russian spectacle do wide-screen color open yesterday location group	2:36:09::	2:41:00::	0
+reason inform lord sky blue	2:36:05::	2:41:00::	0
+then sell mineral cure kidney ailment can sage look_like girl again application plain mud take_away wrinkle	2:30:00::	2:41:00::	0
+machine quack person device odds_and_ends metal wire radio part	2:36:01::	2:41:00::	0
+drawing plan room show placement furniture floor_covering wall decoration determine color_scheme	2:36:00::	2:41:00::	0
+necessary purchase place supervise construction installation finishing placement furniture fixture other correlated furnishings follow_through completion project	2:41:00::	2:41:00::	1
+god not say scripture man be man earth	2:36:01::	2:41:00::	0
+thus image god be man man not oyster similitude god contrast be make man child god not merely rational creature	2:30:00::	2:41:00::	0
+thus image god be make man man not oyster similitude god contrast be man child god not merely rational creature	2:30:00::	2:41:00::	0
+recent research person however evident not consistently maintain distinction	2:30:00::	2:41:00::	0
+even have indeed husband adam be nevertheless as_yet virgin become disobedient cause death entire human_race so also mary have man betrothed be nevertheless virgin yield obedience become cause salvation whole human_race	2:30:00::	2:41:00::	0
+result still use distinction be much confusion meaning basic term employ	2:41:00::	2:41:00::	1
+particular form conceptualization popular imagination response experience spirit be undoubtedly defective raw experience lead such excess remain vividly ever	2:31:00::	2:41:00::	0
+economic information available businessman economist promptly monthly weekly supplement	2:30:00::	2:41:00::	0
+problem frequently arise firm item government not directly line normal civilian business government specification require operation firm not understand undertake contract	2:36:01::	2:41:00::	0
+section 8 amend authorize complete inventory productive facility small business_concern	2:41:00::	2:41:00::	1
+complete facility inventory small business_concern labor surplus area budgetary staff limitation	2:41:00::	2:41:00::	1
+direct_loan be alone	2:36:08::	2:41:00::	0
+maximum loan one borrower be	2:36:08::	2:41:00::	0
+three distinct class loan available farmer cooperative group	2:30:00::	2:41:00::	0
+not see charge stay here apparently be still in_the_air	2:41:00::	2:41:00::	1
+be so much interest show present-day venture continue group comment equally anglican parson group minister catholic priest	2:41:00::	2:41:00::	1
+discovery movie be form fiction early year century make chiefly two man french magician person american employee person person	2:41:00::	2:41:00::	1
+discovery movie be form fiction make early year century chiefly two man french magician person american employee person person	2:41:00::	2:41:00::	1
+two person be justly better_known go far vital finding fiction film take first_step fashion language film motion_picture intricate efficient time_machine remain even most inept hands	2:30:00::	2:41:00::	0
+person however professional instinct magician discover use number illusionary technique remain part vocabulary film	2:41:00::	2:41:00::	1
+dissolve possible visually smooth transition scene scene	2:36:00::	2:41:00::	0
+posse form pursue robber escape whoop_it_up wild wild woman honky-tonk hideout	2:41:00::	2:41:00::	1
+change at_first_sight seem minor recall take italian painter about two hundred year analogous change italian painter universal consent be most brilliant group genius art see	2:41:00::	2:41:00::	1
+still remain need one great film artist explore full potential new form art	2:30:15::	2:41:00::	0
+in_general european effort art entertainment ignore slowly emerge language film	2:30:00::	2:41:00::	0
+phonograph today all high_fidelity stereophonic sound be precisely early art purveyor movie wish camera	2:30:00::	2:41:00::	0
+time ago however person decide bigger bomb soviet_union make	2:36:01::	2:41:00::	0
+time ago however person decide bigger bomb make soviet_union	2:36:01::	2:41:00::	0
+capacity not fail see enemy disastrous miscalculation	2:41:00::	2:41:00::	1
+imitate opponent mistake life be new high statesmanlike folly	2:36:08::	2:41:00::	0
+person government will let_go_of be dead year even soviet mortician not look presentable	2:30:00::	2:41:00::	0
+other_than clean_out pore sweat_gland work hard	2:32:00::	2:41:00::	0
+write hand numb sewing	2:30:00::	2:41:00::	0
+poetry never get_around_to read group possible poet hear read own work	2:30:00::	2:41:00::	0
+every man dabble_in market a_little easy_money on_the_side suffer losses time hardly face wife wonder husband be so dumb	2:40:01::	2:41:00::	0
+investor breathe more freely learn acrobatic dancer turn magician only do best_seller book some dough	2:40:01::	2:41:00::	0
+toy have act_as substitute family temptation such_as refrigerator gas_stove	2:32:00::	2:41:00::	0
+not person not most role	2:30:00::	2:41:00::	0
+word say person broadway youngster adopted son life miserable nearly person particular	2:30:00::	2:41:00::	0
+mad world not	2:36:00::	2:41:00::	0
+be greatly person credit no attempt outdo person	2:41:00::	2:41:00::	1
+sparrow size person sparkling blue eye cheerful smile suitably perky person person real aunt be positively monumental very best gibson_girl manner	2:42:00::	2:41:00::	0
+person person first wife manage short role impressive	2:30:00::	2:41:00::	0
+such fascinating novelty score fugal treatment handle splendidly think person band tuneful ward-heeler even better do new_york cast all words clever lyric come_through perfect clarity	2:41:00::	2:41:00::	1
+a_couple_of male good comedy too person person	2:36:00::	2:41:00::	0
+such program constructive selection best site available	2:41:00::	2:41:00::	1
+new_edition topographical map federal_government be excellent orient natural feature site	2:36:01::	2:41:00::	0
+be usually helpful sketch_map field show size location feature interest take photograph site	2:36:00::	2:41:00::	0
+however be also much gain use ability local people be available interest recreation	2:41:00::	2:41:00::	1
+be too easy inexperienced_person quick judgment a_few value area base decision alone	2:31:00::	2:41:00::	0
+look physical feature land determine desirable be use do correct fault cost area meet need other site	2:32:00::	2:41:00::	0
+lack rainfall extreme temperature call_for development shade irrigation site useable	2:30:00::	2:41:00::	0
+furthermore person ideal master_of_ceremonies	2:42:00::	2:41:00::	0
+reference possibility record other_than popular_music manner not seem lend well serious_music	2:41:00::	2:41:00::	1
