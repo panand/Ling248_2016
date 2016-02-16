@@ -1,103 +1,103 @@
 cowords	actual sense	predicted sense	correct
 have elite physical intellectual athlete apostolic monastic community elite spiritual religious athlete	2:42:00::	2:41:01::	0
-be worried people crazy fool push button	2:41:01::	2:41:01::	1
-understanding solar_system teach replace former elaborate ritual appropriate action case amount nothing	2:41:01::	2:41:01::	1
-confront drunk insane person have notion	2:41:01::	2:41:01::	1
-believe have effect action learn in_a_way commune drunk certainly action seem resemble more nearly performance rain_dance carry_out experiment physics	2:41:01::	2:41:01::	1
-bourbon racial issue have less remain unreconstructed other factor	2:42:00::	2:41:01::	0
-destroy confidence bank economy say	2:41:01::	2:41:01::	1
-person note difference pleural blood supply exist animal nowhere published work find comparative study intrapulmonary feature various mammalian lung other_than dog cat person	2:41:01::	2:41:01::	1
-in_addition little work comparative basis regard_to normal existence bronchial_artery pulmonary_artery anastomosis	2:41:01::	2:41:01::	1
-too often beginning bodybuilder training secretly parent n't want sonny_boy lift all barbell thing stunt growth childish taunt schoolmate person muscle have time	2:41:01::	2:41:01::	1
-see so many illustration read so many testimonial value two wonderworking person food supplement decide try see	2:41:01::	2:41:01::	1
-real great	2:42:01::	2:41:01::	0
-of_course exercising crazy water-skiing swimming vigorous exercise added food supplement pack_on pound solid muscle skinny frame	2:41:01::	2:41:01::	1
-just n't at_all	2:41:01::	2:41:01::	1
-time person entire chest back lat shoulder area be pumped-up almost burst point person take time a_bit more pectoral front deltoid shaping work	2:41:01::	2:41:01::	1
-have person four six set incline_bench_press note high incline	2:36:01::	2:41:01::	0
-need fine exercise way	2:36:01::	2:41:01::	0
-in_fact whole defensive unit good job	2:41:01::	2:41:01::	1
-go_along little damage then hit a_couple_of pass touchdown put in_trouble	2:36:02::	2:41:01::	0
-after_all pretty well other area olympics competition	2:42:00::	2:41:01::	0
-be important improve	2:41:01::	2:41:01::	1
+be worried people crazy fool push button	2:41:01::	2:36:01::	0
+understanding solar_system teach replace former elaborate ritual appropriate action case amount nothing	2:41:01::	2:36:02::	0
+confront drunk insane person have notion	2:41:01::	2:36:02::	0
+believe have effect action learn in_a_way commune drunk certainly action seem resemble more nearly performance rain_dance carry_out experiment physics	2:41:01::	2:42:01::	0
+bourbon racial issue have less remain unreconstructed other factor	2:42:00::	2:36:02::	0
+destroy confidence bank economy say	2:41:01::	2:41:04::	0
+person note difference pleural blood supply exist animal nowhere published work find comparative study intrapulmonary feature various mammalian lung other_than dog cat person	2:41:01::	2:42:01::	0
+in_addition little work comparative basis regard_to normal existence bronchial_artery pulmonary_artery anastomosis	2:41:01::	2:42:00::	0
+too often beginning bodybuilder training secretly parent n't want sonny_boy lift all barbell thing stunt growth childish taunt schoolmate person muscle have time	2:41:01::	2:42:01::	0
+see so many illustration read so many testimonial value two wonderworking person food supplement decide try see	2:41:01::	2:42:01::	0
+real great	2:42:01::	2:41:04::	0
+of_course exercising crazy water-skiing swimming vigorous exercise added food supplement pack_on pound solid muscle skinny frame	2:41:01::	2:36:01::	0
+just n't at_all	2:41:01::	2:41:02::	0
+time person entire chest back lat shoulder area be pumped-up almost burst point person take time a_bit more pectoral front deltoid shaping work	2:41:01::	2:42:01::	0
+have person four six set incline_bench_press note high incline	2:36:01::	2:41:04::;2:41:01::	0
+need fine exercise way	2:36:01::	2:36:02::	0
+in_fact whole defensive unit good job	2:41:01::	2:41:02::	0
+go_along little damage then hit a_couple_of pass touchdown put in_trouble	2:36:02::	2:42:00::	0
+after_all pretty well other area olympics competition	2:42:00::	2:36:02::	0
+be important improve	2:41:01::	2:36:01::	0
 have dancing	2:42:00::	2:41:01::	0
-school_teacher all_too unprepared job need demonstrator	2:41:04::	2:41:01::	0
-be youngster know headstand also help other child learn	2:41:01::	2:41:01::	1
-ask group ballerina ten pushup three chin-up result amount physical training have be very disappointing	2:41:04::	2:41:01::	0
-child chin tell one chin-up time pass	2:41:01::	2:41:01::	1
-parent inform system encourage same whole family home	2:41:01::	2:41:01::	1
-exercise six time class period	2:36:01::	2:41:01::	0
-five daily about week develop strength one pushup	2:41:01::	2:41:01::	1
-at_first child kick_up so teacher determine ready work alone need help	2:41:01::	2:41:01::	1
-one approach figure 3 4 construct mean age individual onset completion age boy girl 2	2:41:01::	2:41:01::	1
-indeed proper inorganic constituent employ practically any wetting surface-active_agent reasonably good job present sufficient amount hard surface cleaning formulation	2:41:04::	2:41:01::	0
-scripture everywhere remind god have need creature church a_fortiori ill afford talent world god providence present	2:42:00::	2:41:01::	0
-be sufficient point_out principle in_terms_of alternative conceive be exclude more_than two then question third possibility be meaningless question	2:41:04::	2:41:01::	0
-seek_out gardener ask produce such beauty weather	2:41:01::	2:41:01::	1
-specialist learn great_deal work improve size health plant resulting flower	2:41:01::	2:41:01::	1
-three inch porous material good job keep weed down soil moist cool	2:41:01::	2:41:01::	1
-ninth century be artistic work spiritually free most self-sufficient past future loving skill spend artist product be testimonial sense be important be appreciated	2:41:01::	2:41:01::	1
-november surveying person east mountain ascertain be possible get sufficient water fall operate electric power_plant	2:41:01::	2:41:01::	1
-now thing be find a_couple_of wonderful flowering currant red ribes_sanguineum location otherwise good sloe tree perhaps nice pussy_willow bloom preferably male staminate catkin	2:41:01::	2:41:01::	1
-still andrena reasonably good job so animal full pollen load look_like gay little piece yellow down float wind	2:41:01::	2:41:01::	1
-resemble too picture person person look at_first be solely pictorial prove inspection be also literary representation proverb for_example deadly_sin	2:36:01::	2:41:01::	0
-first find answer original question then perhaps be position provide complete answer question at_hand	2:41:01::	2:41:01::	1
-therefore only recourse be learn shape all_over again new visual experience same individual object type object only go_over mass tracing procedure	2:41:01::	2:41:01::	1
-justify thermodynamically case separate paper prepare	2:41:01::	2:41:01::	1
-in_other_words ideal_gas compress keep constant temperature work compress completely convert heat transfer surrounding heat_sink	2:41:04::	2:41:01::	0
-energy isothermal work perfect_gas come thermal energy surroundings	2:41:04::	2:41:01::	0
-failure continue place disproportionate burden location taxpayer	2:41:01::	2:41:01::	1
-person say sunday night be research quickie vote increase repeal outright notice first give reconsideration action seek	2:41:01::	2:41:01::	1
-chromatography 6 c use gradient elution essentially person person	2:41:01::	2:41:01::	1
-then awkward judgment value	2:41:01::	2:41:01::	1
-theory put so clearly precisely deserve criticism same kind best supply	2:41:01::	2:41:01::	1
-argue mean just	2:41:01::	2:41:01::	1
-come_upon rabbit make remark suffering be bad thing presumably make feeling positivist be plainly right say such remark usually express feeling	2:41:01::	2:41:01::	1
-more conservative group strong backing wealthy businessmen group generally favor more progressive labor based group new party campaign heavily old more confident party expect moroccan merchant small_businessman support many year	2:41:01::	2:41:01::	1
-know be often a_little more think do	2:41:01::	2:41:01::	1
-know do be often a_little more think	2:41:01::	2:41:01::	1
-person admire person spirit persuade husband boy help team	2:41:01::	2:41:01::	1
-week injury suffer st._louis victory final game kentucky tournament person sit group bench help person	2:41:01::	2:41:01::	1
-work analyst man really know folklore be have no_more appeal other work truly scientific sort reach limited learned audience	2:41:01::	2:41:01::	1
-characteristic value vector certain special case i.e. minimal polynomial factor scalar_field product distinct monic_polynomial degree 1	2:41:01::	2:41:01::	1
+school_teacher all_too unprepared job need demonstrator	2:41:04::	2:42:00::	0
+be youngster know headstand also help other child learn	2:41:01::	2:36:00::	0
+ask group ballerina ten pushup three chin-up result amount physical training have be very disappointing	2:41:04::	2:42:01::	0
+child chin tell one chin-up time pass	2:41:01::	2:41:02::	0
+parent inform system encourage same whole family home	2:41:01::	2:36:02::	0
+exercise six time class period	2:36:01::	2:36:02::	0
+five daily about week develop strength one pushup	2:41:01::	2:42:00::	0
+at_first child kick_up so teacher determine ready work alone need help	2:41:01::	2:36:02::	0
+one approach figure 3 4 construct mean age individual onset completion age boy girl 2	2:41:01::	2:36:02::	0
+indeed proper inorganic constituent employ practically any wetting surface-active_agent reasonably good job present sufficient amount hard surface cleaning formulation	2:41:04::	2:41:02::	0
+scripture everywhere remind god have need creature church a_fortiori ill afford talent world god providence present	2:42:00::	2:42:00::	1
+be sufficient point_out principle in_terms_of alternative conceive be exclude more_than two then question third possibility be meaningless question	2:41:04::	2:41:02::	0
+seek_out gardener ask produce such beauty weather	2:41:01::	2:42:00::	0
+specialist learn great_deal work improve size health plant resulting flower	2:41:01::	2:42:00::	0
+three inch porous material good job keep weed down soil moist cool	2:41:01::	2:41:02::	0
+ninth century be artistic work spiritually free most self-sufficient past future loving skill spend artist product be testimonial sense be important be appreciated	2:41:01::	2:42:01::	0
+november surveying person east mountain ascertain be possible get sufficient water fall operate electric power_plant	2:41:01::	2:42:01::	0
+now thing be find a_couple_of wonderful flowering currant red ribes_sanguineum location otherwise good sloe tree perhaps nice pussy_willow bloom preferably male staminate catkin	2:41:01::	2:41:02::	0
+still andrena reasonably good job so animal full pollen load look_like gay little piece yellow down float wind	2:41:01::	2:41:02::	0
+resemble too picture person person look at_first be solely pictorial prove inspection be also literary representation proverb for_example deadly_sin	2:36:01::	2:42:01::	0
+first find answer original question then perhaps be position provide complete answer question at_hand	2:41:01::	2:41:02::	0
+therefore only recourse be learn shape all_over again new visual experience same individual object type object only go_over mass tracing procedure	2:41:01::	2:42:00::	0
+justify thermodynamically case separate paper prepare	2:41:01::	2:36:01::	0
+in_other_words ideal_gas compress keep constant temperature work compress completely convert heat transfer surrounding heat_sink	2:41:04::	2:36:02::	0
+energy isothermal work perfect_gas come thermal energy surroundings	2:41:04::	2:36:02::	0
+failure continue place disproportionate burden location taxpayer	2:41:01::	2:36:02::	0
+person say sunday night be research quickie vote increase repeal outright notice first give reconsideration action seek	2:41:01::	2:42:01::	0
+chromatography 6 c use gradient elution essentially person person	2:41:01::	2:42:01::	0
+then awkward judgment value	2:41:01::	2:42:00::	0
+theory put so clearly precisely deserve criticism same kind best supply	2:41:01::	2:42:00::	0
+argue mean just	2:41:01::	2:42:00::	0
+come_upon rabbit make remark suffering be bad thing presumably make feeling positivist be plainly right say such remark usually express feeling	2:41:01::	2:36:00::	0
+more conservative group strong backing wealthy businessmen group generally favor more progressive labor based group new party campaign heavily old more confident party expect moroccan merchant small_businessman support many year	2:41:01::	2:41:02::	0
+know be often a_little more think do	2:41:01::	2:42:01::	0
+know do be often a_little more think	2:41:01::	2:42:01::	0
+person admire person spirit persuade husband boy help team	2:41:01::	2:42:01::	0
+week injury suffer st._louis victory final game kentucky tournament person sit group bench help person	2:41:01::	2:42:01::	0
+work analyst man really know folklore be have no_more appeal other work truly scientific sort reach limited learned audience	2:41:01::	2:42:01::	0
+characteristic value vector certain special case i.e. minimal polynomial factor scalar_field product distinct monic_polynomial degree 1	2:41:01::	2:36:01::	0
 general	2:41:01::	2:41:01::	1
-open july new production stage person all opera time conduct person	2:36:01::	2:41:01::	0
-local caller retired brigadier apparently left_over kipling tale india not approve way person get bird	2:36:00::	2:41:01::	0
-truly odd ironic most handsome impressive film yet make person don_quixote be brilliant russian spectacle wide-screen color open yesterday location group	2:36:02::	2:41:01::	0
-charming practice buy_up used electric blanket 5 10 survivor patient die recondition sell	2:41:01::	2:41:01::	1
-person person person mound chore club down location play game pay customer location	2:41:04::	2:41:01::	0
-think better job glove now know hitter league a_little better say	2:41:01::	2:41:01::	1
-work vacuum minimal information result only showpiece look good exhibition catalog please public_relations department have little essence interior_design	2:42:00::	2:41:01::	0
-one way institute society disservice school	2:36:02::	2:41:01::	0
-experimentally expect independence trial have nothing	2:42:00::	2:41:01::	0
-contemporary context be precisely	2:41:01::	2:41:01::	1
-discourage conclusion offer assistance domestic need react firmly irresponsible action world scene	2:41:01::	2:41:01::	1
-appeal suburb be particularly strong heavy industry move bulky object lengthy assembly_line want enough land_area entire job one floor	2:41:04::	2:41:01::	0
-hurt most be damage automobile central_city retailing especially city public_transit be feeble	2:36:02::	2:41:01::	0
-suburban shopping_center branch not even hudson vast northland outside detroit unit volume business carry variety merchandise find home store	2:41:01::	2:41:01::	1
-distant patron suburban branch frighten_away downtown traffic problem however city store only pressure politician highway await completion federal highway program	2:41:04::	2:41:01::	0
-come england last summer research unpublished letter person	2:41:01::	2:41:01::	1
-be many letter strong protest portrait anglican clergyman indeed portray man not particularly concerned religious matter really very_much clergyman	2:41:01::	2:41:01::	1
-be first time english primate 14th century	2:41:01::	2:41:01::	1
-all be simple enough tell story person two important thing not do before	2:41:01::	2:41:01::	1
-all be simple enough tell story person do two important thing not before	2:41:01::	2:41:01::	1
-more	2:41:01::	2:41:01::	1
+open july new production stage person all opera time conduct person	2:36:01::	2:42:01::	0
+local caller retired brigadier apparently left_over kipling tale india not approve way person get bird	2:36:00::	2:42:01::	0
+truly odd ironic most handsome impressive film yet make person don_quixote be brilliant russian spectacle wide-screen color open yesterday location group	2:36:02::	2:42:01::	0
+charming practice buy_up used electric blanket 5 10 survivor patient die recondition sell	2:41:01::	2:41:04::	0
+person person person mound chore club down location play game pay customer location	2:41:04::	2:42:01::	0
+think better job glove now know hitter league a_little better say	2:41:01::	2:42:01::	0
+work vacuum minimal information result only showpiece look good exhibition catalog please public_relations department have little essence interior_design	2:42:00::	2:42:01::	0
+one way institute society disservice school	2:36:02::	2:36:02::	1
+experimentally expect independence trial have nothing	2:42:00::	2:36:02::	0
+contemporary context be precisely	2:41:01::	2:36:01::	0
+discourage conclusion offer assistance domestic need react firmly irresponsible action world scene	2:41:01::	2:42:00::	0
+appeal suburb be particularly strong heavy industry move bulky object lengthy assembly_line want enough land_area entire job one floor	2:41:04::	2:41:02::	0
+hurt most be damage automobile central_city retailing especially city public_transit be feeble	2:36:02::	2:36:00::	0
+suburban shopping_center branch not even hudson vast northland outside detroit unit volume business carry variety merchandise find home store	2:41:01::	2:36:00::	0
+distant patron suburban branch frighten_away downtown traffic problem however city store only pressure politician highway await completion federal highway program	2:41:04::	2:42:00::	0
+come england last summer research unpublished letter person	2:41:01::	2:36:02::	0
+be many letter strong protest portrait anglican clergyman indeed portray man not particularly concerned religious matter really very_much clergyman	2:41:01::	2:36:00::	0
+be first time english primate 14th century	2:41:01::	2:41:02::	0
+all be simple enough tell story person two important thing not do before	2:41:01::	2:42:01::	0
+all be simple enough tell story person do two important thing not before	2:41:01::	2:42:01::	0
+more	2:41:01::	2:42:00::	0
 be person	2:41:01::	2:41:01::	1
-not not be attempt mostly european exactly	2:41:01::	2:41:01::	1
-be conceivable better job ordinary brushing especially not brush tooth properly	2:41:01::	2:41:01::	1
-ordinary hot bath shower same	2:41:04::	2:41:01::	0
-be great relief big brain show turn_out be fraud phony irreparable damage ego editor many_another intelligent well-informed american	2:36:02::	2:41:01::	0
-investor breathe more freely learn acrobatic dancer turn magician only best_seller book make some dough	2:36:01::	2:41:01::	0
-own inner voice tell not not develop	2:41:01::	2:41:01::	1
-mother then prevent misbehavior	2:41:01::	2:41:01::	1
-such fascinating novelty score fugal treatment handle splendidly think person band tuneful ward-heeler make even better new_york cast all words clever lyric come_through perfect clarity	2:36:01::	2:41:01::	0
-hero sterling upright fellow be rich group senior two person cast virtual rapist suppose disqualify sit judgment nothing sort	2:41:01::	2:41:01::	1
-instead not just prove objectivity hasten report highly amusing film probably fairly accurate job report easter vacation shenanigan collegian down location seem come_to_grips quite honestly moral problem most commonly vex youngster age_group that_is_to_say sex	2:41:01::	2:41:01::	1
-greater corporeal presence greater extraneousness affixed paper cloth serve seeming moment push else more vivid idea depth simulated printing simulated texture ever	2:42:00::	2:41:01::	0
-very first collage person person draw paint affixed paper cloth principal feature subject depict seem thrust_out real bas_relief space rest subject remain imbed flat surface	2:41:01::	2:41:01::	1
-chain_reaction other reason that_is growing independence planar unit collage shape identity depicted_object at_least part re-emerge person person continue remain more conspicuous only flattened silhouette painting wholly oil end	2:36:00::	2:41:01::	0
+not not be attempt mostly european exactly	2:41:01::	2:36:02::	0
+be conceivable better job ordinary brushing especially not brush tooth properly	2:41:01::	2:36:02::	0
+ordinary hot bath shower same	2:41:04::	2:41:04::	1
+be great relief big brain show turn_out be fraud phony irreparable damage ego editor many_another intelligent well-informed american	2:36:02::	2:41:02::	0
+investor breathe more freely learn acrobatic dancer turn magician only best_seller book make some dough	2:36:01::	2:36:00::	0
+own inner voice tell not not develop	2:41:01::	2:36:00::	0
+mother then prevent misbehavior	2:41:01::	2:42:00::	0
+such fascinating novelty score fugal treatment handle splendidly think person band tuneful ward-heeler make even better new_york cast all words clever lyric come_through perfect clarity	2:36:01::	2:42:01::	0
+hero sterling upright fellow be rich group senior two person cast virtual rapist suppose disqualify sit judgment nothing sort	2:41:01::	2:42:01::	0
+instead not just prove objectivity hasten report highly amusing film probably fairly accurate job report easter vacation shenanigan collegian down location seem come_to_grips quite honestly moral problem most commonly vex youngster age_group that_is_to_say sex	2:41:01::	2:42:01::	0
+greater corporeal presence greater extraneousness affixed paper cloth serve seeming moment push else more vivid idea depth simulated printing simulated texture ever	2:42:00::	2:41:02::	0
+very first collage person person draw paint affixed paper cloth principal feature subject depict seem thrust_out real bas_relief space rest subject remain imbed flat surface	2:41:01::	2:42:01::	0
+chain_reaction other reason that_is growing independence planar unit collage shape identity depicted_object at_least part re-emerge person person continue remain more conspicuous only flattened silhouette painting wholly oil end	2:36:00::	2:42:02::	0
 experiment	2:41:01::	2:41:01::	1
-each area have own historical interest much	2:41:01::	2:41:01::	1
-look physical feature land determine desirable be use correct fault cost make area meet need other site	2:41:01::	2:41:01::	1
-same time person tv series popular art prove again give jazz ample breathing_space be most sensible thing producer	2:41:01::	2:41:01::	1
-vague adherence basic storyline i.e. person remain person finally wind_up person film version have little bible	2:42:00::	2:41:01::	0
+each area have own historical interest much	2:41:01::	2:36:02::	0
+look physical feature land determine desirable be use correct fault cost make area meet need other site	2:41:01::	2:36:00::	0
+same time person tv series popular art prove again give jazz ample breathing_space be most sensible thing producer	2:41:01::	2:42:01::	0
+vague adherence basic storyline i.e. person remain person finally wind_up person film version have little bible	2:42:00::	2:42:01::	0
