@@ -1,0 +1,7 @@
+{
+    "modelType": "NaiveBayes",
+    "words": ["make", "do", "work"],
+    "test": "63.test.pkl",
+    "train": "63.train.pkl",
+    "smoothing": "allwords.pkl"
+}

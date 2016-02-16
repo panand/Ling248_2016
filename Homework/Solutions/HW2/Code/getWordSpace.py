@@ -7,20 +7,13 @@ import pdb
 from experiment import *
 import pickle
 
+from collections import Counter
+
 repairRE = re.compile(r'=([^>\s]+)')
 
-def checkItem(setup, word):
-    try:
-        if not word.lexsn: #there are elements that are not tagged still
-            return False
-        else:
-            return word.value in setup["words"] or setup["words"] == "*" or not "words" in setup
-    except AttributeError:
-        return False
-
-
-def extractData(dirname, setup, outfile):
-    datapoints = []
+def extractData(dirname, outfile):
+    wordSpace = Counter()
+    
     def replMatch(m):
         return '="%s"' % m.groups()[0]
         
@@ -43,15 +36,8 @@ def extractData(dirname, setup, outfile):
                 sentNum = sent.attrib['snum']
                 words = sent.getchildren()
                 tokens = [Token(word.attrib, word.text) for word in words]
-                for i in range(len(tokens)):
-                    tok = tokens[i]
-                    if checkItem(setup, tok):
-                        allElse = tokens[0:i]
-                        allElse.extend(tokens[i+1:])
-                        dp = Datapoint(tok)
-                        dp.setContext(allElse)
-                        dp.setMetadata(fname, sentNum)
-                        datapoints.append(dp)
+                tokenVals = [t.value for t in tokens]
+                wordSpace.update(tokenVals)
         except KeyError:
             print fname
             fo = open(fname, "w")
@@ -61,7 +47,7 @@ def extractData(dirname, setup, outfile):
         fd.close()
     try:
         fout = open(outfile, "w")
-        pickle.dump(datapoints, fout, protocol=2)
+        pickle.dump(wordSpace, fout, protocol=2)
         fout.close()
     except:
         print "Error saving"
@@ -70,22 +56,15 @@ def extractData(dirname, setup, outfile):
 if __name__ == '__main__':
     import argparse
     
-    parser = argparse.ArgumentParser(description='Take a directory of semcor files and spit out a pickled representation of each token as its own Datapoint object, with context.')
+    parser = argparse.ArgumentParser(description='Take a directory of semcor files and spit out a pickled unigram distribution.')
     parser.add_argument('dirname', metavar='d', type=str, 
                        help='the directory with the files')
-
-    parser.add_argument('experimentfile', metavar='e', type=str, 
-                       help='the json specifying the parameters of the experiment')
         
     parser.add_argument('outfile', metavar='o', type=str, 
                        help='the location of the pickled object')
                        
     args = parser.parse_args()
-
-    import json                       
     
-    expSetup = json.load(open(args.experimentfile))
-    
-    extractData(args.dirname, expSetup, args.outfile)
+    extractData(args.dirname, args.outfile)
     print args.dirname
     

@@ -20,9 +20,6 @@ def carve(setup, type):
     dataFile = setup[type]
     df = open(dataFile, "r")
     allData = pickle.load(df)
-    for dp in allData:
-        if checkItem(setup, dp):
-            pdb.set_trace()
             
     return [dp for dp in allData if checkItem(setup, dp)]
 
@@ -37,13 +34,15 @@ if __name__ == '__main__':
                                           help='output filename')
     
     args = parser.parse_args()
-    import json                       
     
+    import json
     expSetup = json.load(open(args.experimentfile))
 
     data = carve(expSetup, "test")
-    pdb.set_trace()
     fout = open(args.outfile, "w")
-    json.dump(data, fout)
+    try:
+        pickle.dump(data, fout, protocol=2)
+    except Exception as e:
+        pdb.set_trace()
     fout.close()
     

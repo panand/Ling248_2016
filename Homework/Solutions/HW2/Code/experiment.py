@@ -5,19 +5,19 @@ class Token:
         for a in attribs:
             try:
                 setattr(self,a,attrib[a])
-            except KeyError:
+            except:
                 setattr(self,a, None)
+        
+        if "lemma" in attrib:
+            self.value = self.lemma
+        else:
+            self.value = self.text
 
 class Datapoint:
     def __init__(self, token):
         self.token = token
         self.word = token.text
-        if(token.lemma):
-            self.lemma = token.lemma
-            self.value = self.lemma
-        else:
-            self.lemma = None
-            self.value = self.word
+        self.value = token.value
             
         if(token.lexsn):
             self.lexsn = token.lexsn
@@ -25,10 +25,15 @@ class Datapoint:
             self.lexsn = None
             
         self.result = ExpRun()
+        self.result.recordTruth(self.lexsn)
             
     
     def setContext(self, context):
         self.context = context
+        
+    def setMetadata(self, fname, sentNum):
+        self.fname = fname
+        self.sentNum = sentNum
 
 class ExpRun:
     def __init__(self):
@@ -40,7 +45,7 @@ class ExpRun:
     def recordTruth(self, truth):
         self.truth = truth
     
-    def recordResult(result):
+    def recordResult(self, result):
         self.result = result
         if self.result == self.truth:
             self.correct = True
@@ -51,7 +56,8 @@ class ExpRun:
         return (self.truth, self.result)
 
 class ConfusionMatrix:
-    def __init__(self, labels):
+    def __init__(self, labels, itemType):
+        self.itemType = itemType
         self.labels = labels
         self.vals = {}
         
@@ -86,7 +92,11 @@ class ConfusionMatrix:
         self.total = 0.0
     
     def addItem(self, true, predicted):
-        self.vals[true][predicted] += 1
+        try:
+            self.vals[true][predicted] += 1
+        except Exception as e:
+            import pdb
+            pdb.set_trace()
         self.total +=1
         
         self.true[true] += 1
@@ -96,7 +106,7 @@ class ConfusionMatrix:
             self.correct += 1
             self.correctByLabel[true] += 1
     
-    def computeMatrics(self):
+    def computeMetrics(self):
         self.accuracy = self.correct / self.total
         labels = self.labels
         numLabels = len(labels)
@@ -106,36 +116,63 @@ class ConfusionMatrix:
                 self.precisions[l] = self.correctByLabel[l] / self.predicted[l]
             except ZeroDivisionError:
                 self.precisions[l] = 1 #if you call nothing l, then you can't be imprecise
-                
-            self.recalls[l] = self.correctByLabel[l] / self.true[l]
+            try:
+                self.recalls[l] = self.correctByLabel[l] / self.true[l]
+            except ZeroDivisionError:
+                self.recalls[l] = 1 #in this case, it is something in the training set never found in the test set
             
             try:
-                self.fscore[l] = 2/( 1/self.precisions[l] + 1/self.recalls[l])
+                self.fscores[l] = 2/( 1/self.precisions[l] + 1/self.recalls[l])
             except ZeroDivisionError:
-                self.fscore[l] = 0 #if either of the above is zero, then F-score is 0
+                self.fscores[l] = 0 #if either of the above is zero, then F-score is 0
         
-            self.avgPrecision += self.precisions[l] / numLabels
-            self.avgRecall += self.recalls[l] / numLabels
+            self.avgPrec += self.precisions[l] / numLabels
+            self.avgRec += self.recalls[l] / numLabels
             self.avgFScore += self.fscores[l] / numLabels
             
     def display(self):
         
-        def getHeader(labels):
-            return "\t" + '\t'.join(labels) + '\n'
+        def maxWidth(ls):
+            return max([len(x) for x in ls])
         
-        def getRow(label, labels, vals):
-            rowVals = [str(int(vals[label][x])) for x in labels]
-            rowText = '\t'.join(rowVals)
-            return "%s\t%s\n" % (label, rowVals)
+        def getHeader(labels, width):
             
+            strCode = "%" + str(width) + "s"
+            formatStr = strCode * (len(labels) + 1)
+            l = [""]
+            l.extend(labels)
+            return formatStr % tuple(l) + '\n'
+
+        def getFooter(labels, width):
+            
+            intCode = "%" + str(width) + "d"
+            strCode = "%" + str(width) + "s"
+            formatStr = intCode * (len(labels)+1)
+            rowVals = [self.true[x] for x in labels]
+            rowVals.append(self.total)
+            valText = formatStr % tuple(rowVals)
+            return strCode % "" + valText + "\n"
+
+        
+        def getRow(label, labels, vals, width):
+            intCode = "%" + str(width) + "d"
+            strCode = "%" + str(width) + "s"
+            formatStr = intCode * (len(labels)+1)
+            rowVals = [vals[x][label] for x in labels]
+            rowVals.append(self.predicted[label])
+            valText = formatStr % tuple(rowVals)
+            return strCode % label + valText + "\n"
+        
         strOut = ""
         labels = self.labels
         vals = self.vals
+        width = maxWidth(labels) + 3   
         
-        strOut += getHeader(labels)
+        strOut += getHeader(labels, width)
         
         for l in labels:
-            strOut += getRow(l, labels, vals)
+            strOut += getRow(l, labels, vals, width)
         
+        strOut += getFooter(labels, width)
         return strOut
             

@@ -8,6 +8,7 @@ from math import log10 as log
 from sets import Set
 
 import pdb
+import sys
 
 class MLE:
     def __init__(self, setup, data):
@@ -16,22 +17,34 @@ class MLE:
             self.counts[dp.value][dp.lexsn] += 1
         
         self.model = {}
-        for i in self.counts.items:
-            index, element = max(enumerate(distrib), key=itemgetter(1))
-            self.model[element] = i[index]
+        for i in self.counts.items():
+            word, valDistrib = i
+            val, num = max(valDistrib.items(), key=itemgetter(1))
+            self.model[word] = val
+            print word, val
                             
     def run(self, setup, dp):
         return self.model[dp.value]
                 
 class NaiveBayes:
     def __init__(self, setup, data):
-        self.senseCounts = defaultdict(lambda: defaultdict(int))
-        self.conditionalCounts = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
+        self.senseCounts = defaultdict(lambda: defaultdict(float))
+        self.conditionalCounts = defaultdict(lambda: defaultdict(lambda: defaultdict(float)))
         for dp in data:
-            self.counts[dp.value][dp.lexsn] += 1
+            self.senseCounts[dp.value][dp.lexsn] += 1
 
-            for w in dp.results.features:
-                self.conditionalCounts[dp.value][dp.lexsn][w] +=1        
+            for w in dp.result.features:
+                self.conditionalCounts[dp.value][dp.lexsn][w] +=1.0        
+        
+        if "smoothing" in setup: #we will only smooth the conditionalCounts (where the dimensionality is high)
+            fd = open(setup["smoothing"], "r")
+            unig = pickle.load(fd)
+            alpha = 0.000005
+            
+            for tok in unig:
+                for word, senseDict in self.conditionalCounts.items():
+                    for sense, condCounts in senseDict.items():
+                        condCounts[tok] += alpha
                 
     def run(self, setup, dp):
         counts = self.senseCounts[dp.value]
@@ -44,7 +57,7 @@ class NaiveBayes:
             spaceVals[sense] = log(counts[sense])
             
         for sense in space:
-            for w in dp.results.features:
+            for w in dp.result.features:
                 if w in condCounts[sense]:
                     spaceVals[sense] += log(condCounts[sense][w]) #multiply by joint count of w and sense 
                     spaceVals[sense] -= log(counts[sense]) # divide by marginal count of sense
@@ -57,8 +70,7 @@ def extractFeatures(data):
     for dp in data:
         wds = [w.value for w in dp.context]
         dp.result.features = Counter()
-        for w in wds:
-            dp.result.features.add(w)
+        dp.result.features.update(wds)
 
 def trainModel(setup, data):
     modelType = setup["modelType"]
@@ -68,11 +80,14 @@ def trainModel(setup, data):
     
 def runModel(setup, model, data):
     for item in data:
-        item.result.recordResult(model.run(setup, item.features))
+        item.result.recordResult(model.run(setup, item))
 
 def checkItem(setup, dp):
     try:
-        return dp.value in setup["words"] or setup["words"] == "*" or not "words" in setup
+        if not dp.lexsn: #there are elements that are not tagged still
+            return False
+        else:
+            return dp.value in setup["words"] or setup["words"] == "*" or not "words" in setup
     except AttributeError:
         return False
 
@@ -84,14 +99,13 @@ def loadData(setup, type):
 
 def updateValueSpace(vs, data):
     allposs = [(dp.value,dp.lexsn) for dp in data]
-    terms = Set([x[0] for x in allpos])
+    terms = Set([x[0] for x in allposs])
     for term in terms:
-        possVals = Set([x[1] for x in allpos if x[0]==term])
+        possVals = Set([x[1] for x in allposs if x[0]==term])
         vs[term].update(possVals)
 
 def runExperiment(setup):
     
-    pdb.set_trace()
     trainData = loadData(setup, "train")
     testData = loadData(setup, "test")
     
@@ -103,8 +117,8 @@ def runExperiment(setup):
     extractFeatures(trainData)
     extractFeatures(testData)
     
-    trainModel(setup, trainData)
-    runModel(setup, testData)
+    model = trainModel(setup, trainData)
+    runModel(setup, model, testData)
     
     return testData, valueSpace
 
@@ -115,14 +129,24 @@ def analyzeExperiment(valueSpace, results):
     
     for dp in results:
         resByWord[dp.value].append(dp)
-        
+     
+    grandTotal = 0.0 
+    avgAcc = 0.0  
     for item in valueSpace.keys():
-        cf = ConfusionMatrix(valueSpace[item])
+        cf = ConfusionMatrix(valueSpace[item], item)
         for dp in resByWord[item]:
             cf.addItem(*dp.result.getResults())
             
-    cf.computeMatrics()
-    print cf.accuracy
+        cf.computeMetrics()
+        acc = cf.accuracy
+        grandTotal += cf.total
+        avgAcc += acc* cf.total
+
+        print item, acc
+        print cf.display()
+        print
+    
+    print "AVERAGE ACCURACY: %f" % (avgAcc/grandTotal)
 
 if __name__ == '__main__':
     import argparse
