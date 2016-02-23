@@ -213,7 +213,7 @@ def run_p3_classifer(ds_num, w):
 ## For each dev/test split for the words [do,make,work], report the specified classifer's accuracy in that test set (plus some info about the test set).
 def classify_and_report_4splits(classifer_results, problem_num):
 	## Header for the output table
-	acc_table = [['word','devset','num. train files','p3 accuracy']]
+	acc_table = [['word','devset','num. train files','p'+str(problem_num)+'accuracy']]
 	
 	for dt in dev_texts:
 		ds_num = dev_texts.index(dt)
@@ -225,9 +225,8 @@ def classify_and_report_4splits(classifer_results, problem_num):
 		
 	print_table(acc_table, 'problem'+str(problem_num)+'_accuracy.txt')
 	
-# I should change this to have 2 functions: [???]
-# build_classifier(ds_num, w) --> return a function: classify(context, w) 
-# classify(context, w) --> return a predicted sense given the word	
+
+
 
 ## Now run the various problem 3 classifers and output their accuracies to this file.
 classify_and_report_4splits(run_p3_classifer, 3)
@@ -301,21 +300,26 @@ def get_p4_counts(ds_num,w):
 ## Given a word, a sense, a list of co-words, return the probability of that sense occurring in a sentence with those cowords based on the probabilities in prob_dict
 ## sense: the sense whose probability we're evaluating
 ## sense_count: the number of times this sense occurred in the training set
-## prob_dict is a dictionary (for this sense) from co-occurring words to probabilities that they'll co-occur in this dictionary
-def get_sense_probability(sense, sense_count, prob_dict, cowords):
-	sense_prob = sense_count
+## prob_dict: a dictionary (for this sense) from co-occurring words to probabilities that they'll co-occur with this sense in this dictionary
+def get_sense_probability(sense, sense_count, sense_dict, cowords):
+	sense_prob = sense_count*1.0
+	
 	for word in cowords:
-		if word in prob_dict:
-			cond_prob = prob_dict[word]
+		if word in sense_dict:
+			cond_prob = sense_dict[word] 
 		# If we haven't seen this co-word appear with this sense at all, then just ignore it (multiply by 1 instead of by a real count or probability)
-		else: cond_prob = 1
+		else: 
+			#print word+" didn't co-occur with "+sense+" in training data"
+			cond_prob = 1
+		
 		sense_prob = sense_prob * cond_prob
+		
 	return sense_prob
 
 
 ## Utility: Take a list of lists and print it as a table
 def print_table2(table, path):
-	rows = ['cowords','actual sense','predicted sense','correct']
+	rows = ['\t'.join(['cowords','actual sense','predicted sense','correct'])]
 	for row in table:
 		srow = copy.deepcopy(row)
 		for i in range(0,len(srow)):
@@ -365,16 +369,20 @@ def run_p4_classifer(prob_dict, ts_num, w):
 				winning_sense = ''
 				for sense in prob_dict:
 					sense_count = p2_counts_by_dev[ts_num][w][sense]
-					score = get_sense_probability(sense, sense_count, prob_dict, wi_cowords)
+					score = get_sense_probability(sense, sense_count, prob_dict[sense], wi_cowords)
 					if score > winning_score:
 						winning_score = score
 						winning_sense = sense
+						
+				#print winning_sense
 				correct = 0
 				if winning_sense == actual_sense:
 					correct = 1
 				
 				# Add a row to the table representing the context and sense for this instance of w
-				w_table.append([wi_cowords, actual_sense, winning_sense, correct])
+				w_row = [wi_cowords, actual_sense, winning_sense, correct]
+				#print w_row
+				w_table.append(w_row)
 				
 			
 			#Now reset the list of words to be empty & the w-flag to false, since we'll be starting a new sentence.
@@ -413,8 +421,9 @@ def run_p4_classifer(prob_dict, ts_num, w):
 	return w_table
 			
 
-## Take a dataset and a word to classify in the set
-## Return a dictionary of dictionaries from senses to co-occurring words to probabilities
+## Take a dataset and a word to classify in the set.
+## Return a dictionary of dictionaries from senses to co-occurring words to probabilities.
+## Relies on p2_counts_by_dev and get_p4_counts(ds_num,w).
 def p4_probability_table(ds_num, w):
 	sense_counts = p2_counts_by_dev[devset_num][w]
 	wxcoword_probs = get_p4_counts(ds_num,w)
@@ -425,15 +434,17 @@ def p4_probability_table(ds_num, w):
 		# convert the Counters to dictionaries so they can hold non-integers
 		wxcoword_probs[sense] = dict(wxcoword_probs[sense])
 		prob_dict = wxcoword_probs[sense]
+		
 		for coword in prob_dict:
 			# problem: in one dev/test set, <make 2:29:00::> has 0 appearances in training and then does show up in testing... Solution: round dividing by 0 up to 1.
 			
 			# Convert the counts to probabilities
 			if sense_count > 0:
 				prob_dict[coword] = float(prob_dict[coword])/sense_count
+				#print "probability of sense + coword "+sense+" is: "+str(prob_dict[coword])
 			else:
-				print ' '.join([str(ds_num+1), w, sense, str(sense_count)]) 
-				print sense_counts
+				#print ' '.join([str(ds_num+1), w, sense, str(sense_count)]) 
+				#print sense_counts
 				prob_dict[coword] = 1
 	
 	return wxcoword_probs
@@ -447,10 +458,15 @@ def p4_probability_table(ds_num, w):
 ## * run it on the appropriate test set
 ## * Return the accuracy for this classifier/word combination 	
 def score_p4_classifer(ds_num, w):
+	# create a dictionary of probabilities for senses of w in this dataset
 	prob_dict = p4_probability_table(ds_num, w)
+	
+	# get a table of the actual vs predicted sense (+ cowords) for each instance of w in the test set
 	classifer_results = run_p4_classifer(prob_dict, ds_num, w)
+	
+	#accuracy to report to classify_and_report_4splits(classifer, problem_num)
 	accuracy = float(sum(x[3] for x in classifer_results))/len(classifer_results)
 	classifer_score = [w,str(ds_num+1),str(len(dev_texts[ds_num][0])),str(accuracy)]	
-	return classifer_score		#accuracy to report to classify_and_report_4splits(classifer, problem_num)
+	return classifer_score
 	
 classify_and_report_4splits(score_p4_classifer, 4)

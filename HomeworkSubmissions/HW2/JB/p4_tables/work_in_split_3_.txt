@@ -1,112 +1,109 @@
-cowords
-actual sense
-predicted sense
-correct
-threshold mass derive momentum threshold assumption mean impact velocity u.s. ussr work	1:06:00::	2:41:02::	0
-threshold mass derive momentum threshold assumption mean impact velocity u.s. work ussr	1:06:00::	2:41:02::	0
-write utopia treat learned diversion learned world phantasy person amuse holiday spontaneous overflow intellectual high_spirits revel debate paradox comedy invention	1:06:00::	2:41:02::	0
-person writing wholly limited such exercise almost dimly remember dozen or_so other author live time works tenuously survive mind few hundred scholar decade pursuit very specialized occasions read	1:06:00::	2:41:02::	0
-only one other contemporary person evoke so immediate direct response only one other contemporary person	1:06:00::	2:41:02::	0
-notice person horse long log building assume friend slip inside be able put_up good fight begin way ditch join	2:38:00::	2:41:02::	0
-normal year college be 30 semester_hour	1:04:01::	2:41:02::	0
-opposition point_of_view have staunch support person	1:06:00::	2:41:02::	0
-person note difference pleural blood supply exist animal nowhere published find do comparative study intrapulmonary feature various mammalian lung other_than dog cat person	1:06:00::	2:41:02::	0
-in_addition little do comparative basis regard_to normal existence bronchial_artery pulmonary_artery anastomosis	1:09:00::	2:41:02::	0
-n't entrust person better hands know muscle sternocleido_mastoideus neck right down tibialis_anticus leg better still know just exercise best person principle combine fast fast muscle growth	2:35:02::	2:41:02::	0
-person always have shapely leg swim water_ski really n't very_much	2:29:00::	2:41:02::	0
-person be specialist torso development long favor now famous technique one exercise be pressing pushing movement accent one sector muscle group specific way follow pulling exercise opposing sector same muscle group	2:29:00::	2:41:02::	0
-strongly upper lat serratus fine exercise pinpoint concentration force dumbbell variation afford	2:29:00::	2:41:02::	0
-time person entire chest back lat shoulder area be pumped-up almost burst point person take time do a_bit more pectoral front deltoid shaping	1:04:00::	2:41:02::	0
-come not alone training certain definition specialization exercise champion select knowledge exactly best	2:41:03::	2:41:02::	0
-often exercise well bodybuilder less spectacularly	2:41:03::	2:41:02::	0
-ever forget even moment say perfectly no_matter have short long thighbone length	2:41:03::	2:41:02::	0
-indeed light weight much better greater more extensive split	2:35:02::	2:41:02::	0
-hard tuesday wednesday thursday person say probably have good scrimmage friday	2:41:02::	2:41:02::	1
-work_out hour saturday then monday tuesday next week then taper_off	2:29:00::	2:41:02::	0
-make_up tumbling say start somersault run_through such stunt headstand handstand cartwheel backbend culminate nearly impossible combination aerial flip twist apparatus	1:04:00::	2:41:02::	0
-certainly be less anxiety fewer accident be clumsy child sustain worst injury high scholastic average alert child better	2:41:06::	2:41:02::	0
-dance teacher respond person request not_only regular dance also kind basic gymnastic work make_for strength flexibility	1:04:00::	2:41:02::	0
-dance teacher respond person request not_only regular dance work also kind basic gymnastic make_for strength flexibility	1:04:00::	2:41:02::	0
-at_first child do kick_up so teacher determine ready alone need help	2:41:02::	2:41:02::	1
-bare foot be better such form slipper	1:04:00::	2:41:02::	0
-on_the_contrary even heart bible_belt attest call industrial_revolution technological_revolution long be underway together corresponding change man picture world	2:41:00::	2:41:02::	0
-be ancient venerable tradition church derive however heritage greek rather bible god be completely independent creation have need man accomplish world	1:04:00::	2:41:02::	0
-finally also mention several member self-consciously neoliberal movement develop group be heavily indebted philosophically creative person	1:06:00::	2:41:02::	0
-specialist learn do great_deal improve size health plant resulting flower	1:09:00::	2:41:02::	0
-be best buy fresh dealer improve	2:41:02::	2:41:02::	1
-done be accomplished ignore plant	1:04:00::	2:41:02::	0
-person experiment therapeutic lie_in area	1:04:00::	2:41:02::	0
-student musical form would-be classifier present problem	1:06:00::	2:41:02::	0
-turn_to more modern version person london offer most sophisticated keyboard	1:04:00::	2:41:02::	0
-person be very_much akin person sound disc be dated have hard_time locate copy	1:06:00::	2:41:02::	0
-too many record seem reduce symphonic complexity melody accompaniment	1:06:00::	2:41:02::	0
-late ninth century calm severe serenity display	1:06:00::	2:41:02::	0
-ninth century be artistic spiritually free most self-sufficient past future loving skill spend artist product be testimonial sense do be important be appreciated	1:06:00::	2:41:02::	0
-vase embody basic aesthetic logical characteristic greek civilization at_first hesitantly protogeometric and_then more confidently initial stage geometric style	1:06:00::	2:41:02::	0
-plate illustrate four example be common spirit different school	1:06:00::	2:41:02::	0
-end august give satisfactory service	2:35:02::	2:41:02::	0
-worth dwell detail crisis story bring_together number characteristic element make curious riddle compound obscurely centrally significant person	1:06:00::	2:41:02::	0
-artist suppose find one more moment strike student absolutely decisive ultimately emblematic be not less strikingly so be mysterious deeply hidden constatation thought encipher single image single moment	1:06:00::	2:41:02::	0
-horrifying humor specifically sexual embarrassment joke go_wrong monstrous image fat man dress_up whore dress_up baby epiphany quivering flesh bring_together secret liaison indolent mindless sensuality sharp shrewd talent cleverness occasional touch genius however not know attack problem suffering miraculous way music revelation death associate single instant seem triumph art rather desperate art also evoke numerous distant resonance entire body person	1:06:00::	2:41:02::	0
-go so much detail so small be also so typical work represent germinal form conflict remain essential person writing	1:06:00::	2:41:02::	0
-go so much detail so small work be also so typical represent germinal form conflict remain essential person writing	1:06:00::	2:41:02::	0
-monk person bring renaissance place background munich turn_of_the_century protest luxurious display art shop person particular person portray voluptuous style model gossip painter mistress	1:06:00::	2:41:02::	0
-author conclude conduct patient everyday life even more_than foregoing fact mention leave positively room doubt sense_of_touch ordinary sense word be unaffected put same thing physiological term performance capacity tactual apparatus periphery up tactual center brain that_is one end other be unimpaired	1:04:01::	2:41:02::	0
+cowords	actual sense	predicted sense	correct
+threshold mass derive momentum threshold assumption mean impact velocity u.s. ussr work	1:06:00::	2:41:03::	0
+threshold mass derive momentum threshold assumption mean impact velocity u.s. work ussr	1:06:00::	2:41:03::	0
+write utopia treat learned diversion learned world phantasy person amuse holiday spontaneous overflow intellectual high_spirits revel debate paradox comedy invention	1:06:00::	2:41:03::	0
+person writing wholly limited such exercise almost dimly remember dozen or_so other author live time works tenuously survive mind few hundred scholar decade pursuit very specialized occasions read	1:06:00::	2:41:03::	0
+only one other contemporary person evoke so immediate direct response only one other contemporary person	1:06:00::	2:41:03::	0
+notice person horse long log building assume friend slip inside be able put_up good fight begin way ditch join	2:38:00::	2:41:03::	0
+normal year college be 30 semester_hour	1:04:01::	1:04:01::	1
+opposition point_of_view have staunch support person	1:06:00::	1:06:00::	1
+person note difference pleural blood supply exist animal nowhere published find do comparative study intrapulmonary feature various mammalian lung other_than dog cat person	1:06:00::	2:29:00::	0
+in_addition little do comparative basis regard_to normal existence bronchial_artery pulmonary_artery anastomosis	1:09:00::	2:41:03::	0
+n't entrust person better hands know muscle sternocleido_mastoideus neck right down tibialis_anticus leg better still know just exercise best person principle combine fast fast muscle growth	2:35:02::	2:29:00::	0
+person always have shapely leg swim water_ski really n't very_much	2:29:00::	2:41:03::	0
+person be specialist torso development long favor now famous technique one exercise be pressing pushing movement accent one sector muscle group specific way follow pulling exercise opposing sector same muscle group	2:29:00::	1:09:00::	0
+strongly upper lat serratus fine exercise pinpoint concentration force dumbbell variation afford	2:29:00::	2:41:00::	0
+time person entire chest back lat shoulder area be pumped-up almost burst point person take time do a_bit more pectoral front deltoid shaping	1:04:00::	2:41:03::	0
+come not alone training certain definition specialization exercise champion select knowledge exactly best	2:41:03::	2:41:03::	1
+often exercise well bodybuilder less spectacularly	2:41:03::	2:41:00::	0
+ever forget even moment say perfectly no_matter have short long thighbone length	2:41:03::	2:29:00::	0
+indeed light weight much better greater more extensive split	2:35:02::	2:35:02::	1
+hard tuesday wednesday thursday person say probably have good scrimmage friday	2:41:02::	1:06:00::	0
+work_out hour saturday then monday tuesday next week then taper_off	2:29:00::	2:41:00::	0
+make_up tumbling say start somersault run_through such stunt headstand handstand cartwheel backbend culminate nearly impossible combination aerial flip twist apparatus	1:04:00::	2:35:02::	0
+certainly be less anxiety fewer accident be clumsy child sustain worst injury high scholastic average alert child better	2:41:06::	1:04:01::	0
+dance teacher respond person request not_only regular dance also kind basic gymnastic work make_for strength flexibility	1:04:00::	2:41:03::	0
+dance teacher respond person request not_only regular dance work also kind basic gymnastic make_for strength flexibility	1:04:00::	2:41:03::	0
+at_first child do kick_up so teacher determine ready alone need help	2:41:02::	2:41:03::	0
+bare foot be better such form slipper	1:04:00::	2:41:00::	0
+on_the_contrary even heart bible_belt attest call industrial_revolution technological_revolution long be underway together corresponding change man picture world	2:41:00::	2:41:03::	0
+be ancient venerable tradition church derive however heritage greek rather bible god be completely independent creation have need man accomplish world	1:04:00::	2:41:03::	0
+finally also mention several member self-consciously neoliberal movement develop group be heavily indebted philosophically creative person	1:06:00::	2:41:03::	0
+specialist learn do great_deal improve size health plant resulting flower	1:09:00::	2:36:00::	0
+be best buy fresh dealer improve	2:41:02::	1:06:00::	0
+done be accomplished ignore plant	1:04:00::	1:06:00::	0
+person experiment therapeutic lie_in area	1:04:00::	1:06:00::	0
+student musical form would-be classifier present problem	1:06:00::	2:41:06::	0
+turn_to more modern version person london offer most sophisticated keyboard	1:04:00::	2:29:00::	0
+person be very_much akin person sound disc be dated have hard_time locate copy	1:06:00::	2:41:03::	0
+too many record seem reduce symphonic complexity melody accompaniment	1:06:00::	2:36:00::	0
+late ninth century calm severe serenity display	1:06:00::	2:41:00::	0
+ninth century be artistic spiritually free most self-sufficient past future loving skill spend artist product be testimonial sense do be important be appreciated	1:06:00::	2:29:00::	0
+vase embody basic aesthetic logical characteristic greek civilization at_first hesitantly protogeometric and_then more confidently initial stage geometric style	1:06:00::	2:41:03::	0
+plate illustrate four example be common spirit different school	1:06:00::	2:41:06::	0
+end august give satisfactory service	2:35:02::	2:41:00::	0
+worth dwell detail crisis story bring_together number characteristic element make curious riddle compound obscurely centrally significant person	1:06:00::	1:06:00::	1
+artist suppose find one more moment strike student absolutely decisive ultimately emblematic be not less strikingly so be mysterious deeply hidden constatation thought encipher single image single moment	1:06:00::	2:29:00::	0
+horrifying humor specifically sexual embarrassment joke go_wrong monstrous image fat man dress_up whore dress_up baby epiphany quivering flesh bring_together secret liaison indolent mindless sensuality sharp shrewd talent cleverness occasional touch genius however not know attack problem suffering miraculous way music revelation death associate single instant seem triumph art rather desperate art also evoke numerous distant resonance entire body person	1:06:00::	2:29:00::	0
+go so much detail so small be also so typical work represent germinal form conflict remain essential person writing	1:06:00::	2:29:00::	0
+go so much detail so small work be also so typical represent germinal form conflict remain essential person writing	1:06:00::	2:29:00::	0
+monk person bring renaissance place background munich turn_of_the_century protest luxurious display art shop person particular person portray voluptuous style model gossip painter mistress	1:06:00::	2:41:03::	0
+author conclude conduct patient everyday life even more_than foregoing fact mention leave positively room doubt sense_of_touch ordinary sense word be unaffected put same thing physiological term performance capacity tactual apparatus periphery up tactual center brain that_is one end other be unimpaired	1:04:01::	2:29:00::	0
 instrument use be slight modification previously describe	1:04:00::	2:41:02::	0
 be necessary fill manometer column reference height	1:19:00::	2:41:02::	0
-in_other_words ideal_gas compress keep constant temperature do compress completely convert heat transfer surrounding heat_sink	1:19:00::	2:41:02::	0
-mean equal in_turn equal	1:19:00::	2:41:02::	0
-energy isothermal do perfect_gas come thermal energy surroundings	1:19:00::	2:41:02::	0
-location legislator city official pass enabling_legislation permit establishment fair equitable pension plan city employee	2:41:06::	2:41:02::	0
-person group public_relations director resign tuesday person campaign	2:41:00::	2:41:02::	0
-person expect make traditional visit chamber adjournment	2:41:02::	2:41:02::	1
-bond issue go state court friendly test_suit test validity act and_then sale begin contract let repair georgia most heavily traveled highway	1:04:00::	2:41:02::	0
-group source say also be plan there issue some 3 million 4 million worth group bond rural road construction	1:04:00::	2:41:02::	0
-present whole serum fractionate chromatography deae_cellulose use single gradient similar describe person person certain chemical serological property fraction contain antibody abo rh system describe	1:06:00::	2:41:02::	0
-person end	2:41:06::	2:41:02::	0
-name person three year ago head committee include person person person person relentlessly	2:41:02::	2:41:02::	1
+in_other_words ideal_gas compress keep constant temperature do compress completely convert heat transfer surrounding heat_sink	1:19:00::	2:41:03::	0
+mean equal in_turn equal	1:19:00::	1:06:00::	0
+energy isothermal do perfect_gas come thermal energy surroundings	1:19:00::	2:41:03::	0
+location legislator city official pass enabling_legislation permit establishment fair equitable pension plan city employee	2:41:06::	2:35:02::	0
+person group public_relations director resign tuesday person campaign	2:41:00::	2:41:03::	0
+person expect make traditional visit chamber adjournment	2:41:02::	2:29:00::	0
+bond issue go state court friendly test_suit test validity act and_then sale begin contract let repair georgia most heavily traveled highway	1:04:00::	2:41:06::	0
+group source say also be plan there issue some 3 million 4 million worth group bond rural road construction	1:04:00::	1:09:00::	0
+present whole serum fractionate chromatography deae_cellulose use single gradient similar describe person person certain chemical serological property fraction contain antibody abo rh system describe	1:06:00::	2:41:03::	0
+person end	2:41:06::	2:41:03::	0
+name person three year ago head committee include person person person person relentlessly	2:41:02::	2:41:03::	0
 play basketball there law_degree	2:41:02::	2:41:02::	1
-do analyst man really know folklore be have no_more appeal other work truly scientific sort reach limited learned audience	1:06:00::	2:41:02::	0
-work do analyst man really know folklore be have no_more appeal other truly scientific sort reach limited learned audience	1:06:00::	2:41:02::	0
-wish discuss literary figure use folklore first thing realize be literary figure be probably part ignorant american public	1:06:00::	2:41:02::	0
-last two writer introduce strong political bias not union leaders discuss soon see folklore reservoir protest downtrodden publicly silenced mass	1:06:00::	2:41:02::	0
-theorem prove be more general describe primary decomposition minimal polynomial not prime enter be all first degree	2:35:02::	2:41:02::	0
-person perform right group field possibly strong team spring person base_on_balls	2:36:09::	2:41:02::	0
-person walk first batter face person romp around person blast person next toss foot scoreboard right center	2:36:09::	2:41:02::	0
-vacuum minimal information result only showpiece look good exhibition catalog please public_relations department have little do essence interior_design	2:41:02::	2:41:02::	1
-early year training certain phase cover synthetic problem have use	1:09:00::	2:41:02::	0
-consultation architect client real_estate man fabric house furniture company be essential proper development class problem just actual	1:04:01::	2:41:02::	0
-professional organization group group group various trade association aid greatly	1:04:00::	2:41:02::	0
-certainly educator involve interior_design be member active organization	1:04:00::	2:41:02::	0
+do analyst man really know folklore be have no_more appeal other work truly scientific sort reach limited learned audience	1:06:00::	2:29:00::	0
+work do analyst man really know folklore be have no_more appeal other truly scientific sort reach limited learned audience	1:06:00::	2:29:00::	0
+wish discuss literary figure use folklore first thing realize be literary figure be probably part ignorant american public	1:06:00::	2:41:06::	0
+last two writer introduce strong political bias not union leaders discuss soon see folklore reservoir protest downtrodden publicly silenced mass	1:06:00::	2:36:00::	0
+theorem prove be more general describe primary decomposition minimal polynomial not prime enter be all first degree	2:35:02::	2:41:03::	0
+person perform right group field possibly strong team spring person base_on_balls	2:36:09::	2:41:03::	0
+person walk first batter face person romp around person blast person next toss foot scoreboard right center	2:36:09::	2:41:03::	0
+vacuum minimal information result only showpiece look good exhibition catalog please public_relations department have little do essence interior_design	2:41:02::	2:36:00::	0
+early year training certain phase cover synthetic problem have use	1:09:00::	2:41:03::	0
+consultation architect client real_estate man fabric house furniture company be essential proper development class problem just actual	1:04:01::	2:41:03::	0
+professional organization group group group various trade association aid greatly	1:04:00::	1:04:01::	0
+certainly educator involve interior_design be member active organization	1:04:00::	2:41:06::	0
 be almost no school country offer graduate interior_design rule at_present observe	1:09:00::	2:41:02::	0
-become most evident description christ second adam indeed come destroy sin culminate achievement immortality	1:04:00::	2:41:02::	0
-speak christ bestowal incorruptibility mean not mean deliverance time history	1:04:00::	2:41:02::	0
-christianity teach not_only salvation history salvation history christ such interpretation death require drastic revision christian understanding christ	1:04:00::	2:41:02::	0
-word binomial mean two name two term usage apply first name two outcome binomial trial second term represent probability success failure	1:06:00::	2:41:02::	0
-ask play be come_upon community such terrible power be better answer give spirit	2:41:06::	2:41:02::	0
-colonial period generally leave people believe government wish provide manner service independence freeman not realize benefit modern life	2:41:00::	2:41:02::	0
-effort such_as group location demonstrate transitional society balanced national development	2:41:02::	2:41:02::	1
-american usually live group segregate national origin religious_belief like shop noise vitality downtown	2:41:00::	2:41:02::	0
-closely principal property disposal installation federal_government review proposed sale program identify type property small business_concern be most likely be interested purchase	2:41:06::	2:41:02::	0
-government contract eligible applicant pay one-half cost approved exploration progress	1:04:00::	2:41:02::	0
-applicant pay rest cost own time spend charge use equipment own apply share cost	1:04:00::	2:41:02::	0
-not surprisingly approach not	2:41:03::	2:41:02::	0
-much old experimental respiratory infection accomplish very artificial procedure	1:09:00::	2:41:02::	0
-leave so fast president location issue appeal week factory_worker west volunteer six month front_line factory location	1:04:00::	2:41:02::	0
-doctrine never not work now	2:41:03::	2:41:02::	0
-doctrine never work not now	2:41:03::	2:41:02::	0
-other_than clean_out pore make sweat_gland hard	2:41:01::	2:41:02::	0
-poetry never get_around_to read group make possible poet hear read own	1:06:00::	2:41:02::	0
-be hard understand conclude most snake not grow appreciably attain maturity species location perhaps some tropical snake be unusual respect	2:41:06::	2:41:02::	0
-best procedure remove substance cause nonspecific staining obtain specific conjugate pass_through conjugate deae_cellulose column some case absorb first second milliliter fraction sweet_clover tissue powder	1:04:00::	2:41:02::	0
-hero person person be chap embitter more lack beer jam_session	1:06:00::	2:41:02::	0
-not altogether successful play overcome sheer vitality power lesser be crippling	1:06:00::	2:41:02::	0
-ballet be especially opening number group group fiery sultry brazilian fantasia later	1:04:00::	2:41:02::	0
-later collage master variety extraneous material use sometimes same almost always every other eye-deceiving device think_of	1:06:00::	2:41:02::	0
-heat_of_condensation function kinetic_energy electron impinge_on anode	1:19:00::	2:41:02::	0
+become most evident description christ second adam indeed come destroy sin culminate achievement immortality	1:04:00::	2:36:00::	0
+speak christ bestowal incorruptibility mean not mean deliverance time history	1:04:00::	2:41:03::	0
+christianity teach not_only salvation history salvation history christ such interpretation death require drastic revision christian understanding christ	1:04:00::	2:41:03::	0
+word binomial mean two name two term usage apply first name two outcome binomial trial second term represent probability success failure	1:06:00::	2:41:03::	0
+ask play be come_upon community such terrible power be better answer give spirit	2:41:06::	1:09:00::	0
+colonial period generally leave people believe government wish provide manner service independence freeman not realize benefit modern life	2:41:00::	2:41:03::	0
+effort such_as group location demonstrate transitional society balanced national development	2:41:02::	2:35:02::	0
+american usually live group segregate national origin religious_belief like shop noise vitality downtown	2:41:00::	2:41:03::	0
+closely principal property disposal installation federal_government review proposed sale program identify type property small business_concern be most likely be interested purchase	2:41:06::	2:41:00::	0
+government contract eligible applicant pay one-half cost approved exploration progress	1:04:00::	1:06:00::	0
+applicant pay rest cost own time spend charge use equipment own apply share cost	1:04:00::	2:41:03::	0
+not surprisingly approach not	2:41:03::	2:41:03::	1
+much old experimental respiratory infection accomplish very artificial procedure	1:09:00::	2:41:03::	0
+leave so fast president location issue appeal week factory_worker west volunteer six month front_line factory location	1:04:00::	2:41:03::	0
+doctrine never not work now	2:41:03::	2:29:00::	0
+doctrine never work not now	2:41:03::	2:29:00::	0
+other_than clean_out pore make sweat_gland hard	2:41:01::	1:06:00::	0
+poetry never get_around_to read group make possible poet hear read own	1:06:00::	1:04:01::	0
+be hard understand conclude most snake not grow appreciably attain maturity species location perhaps some tropical snake be unusual respect	2:41:06::	2:29:00::	0
+best procedure remove substance cause nonspecific staining obtain specific conjugate pass_through conjugate deae_cellulose column some case absorb first second milliliter fraction sweet_clover tissue powder	1:04:00::	2:41:03::	0
+hero person person be chap embitter more lack beer jam_session	1:06:00::	2:41:03::	0
+not altogether successful play overcome sheer vitality power lesser be crippling	1:06:00::	2:41:06::	0
+ballet be especially opening number group group fiery sultry brazilian fantasia later	1:04:00::	1:04:00::	1
+later collage master variety extraneous material use sometimes same almost always every other eye-deceiving device think_of	1:06:00::	2:41:03::	0
+heat_of_condensation function kinetic_energy electron impinge_on anode	1:19:00::	1:04:00::	0
 most recreation call_for good_deal pre planning	1:04:00::	2:41:02::	0
-become more_and_more available county other government agency	1:04:00::	2:41:02::	0
-site planning be best have qualified experienced park planner carry_through study	1:04:00::	2:41:02::	0
+become more_and_more available county other government agency	1:04:00::	2:41:03::	0
+site planning be best have qualified experienced park planner carry_through study	1:04:00::	2:41:06::	0
 other investigator apply salt fractionation technique problem fractionation organic solvent such_as acetone	1:06:00::	2:41:02::	0
-much review person person	1:09:00::	2:41:02::	0
-camera stare soloist face extreme closeup then considerately pull_back full view ensemble	1:04:00::	2:41:02::	0
+much review person person	1:09:00::	1:06:00::	0
+camera stare soloist face extreme closeup then considerately pull_back full view ensemble	1:04:00::	2:41:03::	0
