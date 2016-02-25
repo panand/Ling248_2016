@@ -48,8 +48,106 @@ def viterbi(time, state, obss, model, store):
     
     pass
 
+def computeBestPathViterbi(model):
+    pi, a, b = model
+
+    states = a.keys()
+    terms = set()
+    for d in b.values():
+        terms.update(set(d.keys()))
+
+    try:
+        while 1:
+            inp = raw_input("What is your string?")
+            inp = inp.lower()
+            inputTerms = inp.split(' ')
+
+            uniqTerms = set(inputTerms)
+            diff = uniqTerms - terms
+            if diff != set(): #there are some illegal terms
+                print diff
+                print "These aren't legal words for this model."
+            else:
+                o = inputTerms
+                length = len(o)
+                totalProb = 0.0
+                #sSeq = [states[0]] * length
+
+                maxProb = 0.0
+                bestSeq = None
+                for sSeq in product(states, repeat=length):
+
+
+                    stateHistory = sSeq[:-1]
+                    obsHistory = o[:-1]
+                    histProb = lookup(stateHistory, obsHistory)
+                    
+                    thisObsProd = b[sSeq[-1]][o[-1]]
+                    thisTransProb = a[sSeq[-2]][sSeq[-1]]
+
+                    total = histProb * thisObsProd * thisTransProb
+
+                    if total > maxProb:
+                        maxProb = total
+                        bestSeq = sSeq
+
+                print maxProb, ' '.join(bestSeq)
+    except EOFError:
+        return
+
+
 def computeBestPath(model):
-    pass
+    pi, a, b = model
+    
+    states = a.keys()
+    terms = set()
+    for d in b.values():
+        terms.update(set(d.keys()))
+    
+    try:
+        while 1:
+            inp = raw_input("What is your string?")
+            inp = inp.lower()
+            inputTerms = inp.split(' ')
+
+            uniqTerms = set(inputTerms)
+            diff = uniqTerms - terms
+            if diff != set(): #there are some illegal terms
+                print diff
+                print "These aren't legal words for this model."
+            else:
+                o = inputTerms
+                length = len(o)
+                totalProb = 0.0
+                #sSeq = [states[0]] * length
+                
+                maxProb = 0.0
+                bestSeq = None
+                for sSeq in product(states, repeat=length):
+
+                    print sSeq
+                    start = sSeq[0]
+                    startProb = pi[start]
+                
+                    transProd = 1.0
+                
+                    for i in range(0,len(sSeq)-1): 
+                        transProd *= a[sSeq[i]][sSeq[i+1]]
+                
+                    obsProd = 1.0
+                    for i in range(0,len(sSeq)):
+                        obsProd *= b[sSeq[i]][o[i]]
+                    
+                    total = startProb * transProd * obsProd
+                    
+                    if total > maxProb:
+                        maxProb = total
+                        bestSeq = sSeq
+                        
+                print maxProb, ' '.join(bestSeq)
+    except EOFError:
+        return
+
     
 def alpha(time, state, obss, model, store):
     pass
@@ -150,4 +248,4 @@ if __name__ == '__main__':
     model = (pi, a, b)
     
     #computeObsProbAlpha(model)
-    computeBestPath(model)
+    computeBestPathViterbi(model)
