@@ -75,23 +75,41 @@ def computeBestPathViterbi(model):
 
                 maxProb = 0.0
                 bestSeq = None
-                for sSeq in product(states, repeat=length):
+                
+                bestPathTo = {}
 
-
-                    stateHistory = sSeq[:-1]
-                    obsHistory = o[:-1]
-                    histProb = lookup(stateHistory, obsHistory)
-                    
-                    thisObsProd = b[sSeq[-1]][o[-1]]
-                    thisTransProb = a[sSeq[-2]][sSeq[-1]]
-
-                    total = histProb * thisObsProd * thisTransProb
-
-                    if total > maxProb:
-                        maxProb = total
-                        bestSeq = sSeq
-
-                print maxProb, ' '.join(bestSeq)
+                firstO = o[0]
+                for s in states:
+                    bestPathTo[((firstO,), s)] = (pi[s]*b[s][firstO], (s,))
+                
+                for i in range(1,length):
+                    curO = o[i]
+                    histO = o[:i]
+                    histOTuple = tuple(histO)
+                    for curS in states:
+                        outputProb = b[curS][curO]
+                        maxProb = 0.0
+                        maxPath = None
+                        for prevS in states:
+                            histProb, histPath = bestPathTo[(histOTuple, prevS)]
+                            transitionProb = a[prevS][curS]
+                            probToCurS = histProb * transitionProb * outputProb
+                            if probToCurS > maxProb:
+                                maxProb = probToCurS
+                                maxPath = histPath + (curS,)
+                        bestPathTo[(tuple(o[:i+1]), curS)] = (maxProb, maxPath)
+                
+                maxProb = 0.0
+                obsTuple = tuple(o)
+                maxPath = None
+                for s in states:
+                    prob, path = bestPathTo[(obsTuple, s)]
+                    if prob > maxProb:
+                        maxProb = prob
+                        maxPath = path
+                
+                print maxProb, maxPath
+            
     except EOFError:
         return
 
