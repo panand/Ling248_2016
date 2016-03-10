@@ -1,0 +1,72 @@
+Nielsen, Chs 4:
+
+Looked at BNC (had not been parsed), and the Penn Treebank
+BNC = VPE ~every 32 sentences
+WSJ = VPE ~every 77 sentences
+Brown = VPE ~every 38 sentences
+
+--> VPE is not a journalistic style
+
+* Chapter 4: *
+
+	- Maximum entropy classifier
+	- Transformation based learning algorithm (Manning & Schütze, Ch 10.4)
+	
+	Starts with a baseline for detecting VPE:
+		Look 3 back, 7 forward around AUX.
+		Stops at sentence boundaries/quotes
+			Asks: Is there content? (N, V, A, P, PN, Number words) and decides from there
+			
+	--> recall is HIGH (89%). But that's because VPE happens most of the time at AUX. Precision is low (42.14%). 
+		We don't know why precision is low. 
+		
+	Transformation based learning: start with POS tags, and learn rules to change some of the AUX tags to VPE tags.
+		--> intuitive.
+		--> Rules are triggers for tagging VPE, this coupled with tags referring to punctuation 
+			gets you really good results 
+			
+				
+	Max Entropy Model.
+		words in 3-wd radius, vs 5-wd radius.  3 wd radius seemed to work best (surprising? maybe domain of selection?).
+		
+		When you add the empty VP feature to this (Hardt's original VPE tactic), precision and recall both go up.
+	
+	Jorge Dissertation ellipsis diagnostics: 
+		-non constituent, not head licensed, Type 2, "deep anaphora"	(stripping)
+		-constituent, head licensed, Type 1, "surface anaphora" 		(VPE)
+		
+	
+	Error Analysis:
+		In the data, there are empty things that are NOT VPE--things are marked as ADJ-P/NP
+			-recall goes down if you decide to mark these VPE
+			-precision goes up
+			
+		* Difference betw empty things and indices:
+			should be able to distinguish between them, but this proved a problem in his analysis
+				-->can't deal with incorrect parses, for example.
+				
+				Extraction from VPE:
+					"probably charging double what ordinary maids did __ for housework"
+						[double the amount]
+				
+			 	-if you include these traces, is this a problem? Nielsen says this would lower the precision
+			 	 of the parser. Pranav doesn't know if this is true.
+			 	 
+		* Comparative Subdeletion
+			--> Nielsen: "this is sometimes mistaken for VPE"
+				but question: isn't comparative subdeletion just VPE?
+					(hint, many people think these ARE VPE)
+		
+		* Remaining cases of false positives:
+			-Tag questions
+				Because of inversion, NP subject is "in" the VP still
+				
+	
+
+			
+			
+			
+			
+			
+	
+	
