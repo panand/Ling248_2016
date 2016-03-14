@@ -1,0 +1,167 @@
+import pdb
+import re
+import json
+
+tokMap = {"-LCB-": "{", "-RCB-": "}", "-LSB-": "[", "-RSB-": "]", "-LRB-": "(", "-RRB-": ")",}
+
+puncRE = re.compile(r'\W+')
+auxForms = {}
+auxForms["have"] = ["has", "had", "have"]
+auxForms["be"] = ["be", "is", "are", "was", "were"]
+auxForms["do"] = ["do", "does", "did"]
+auxForms["can"] = ["ca", "can"]
+auxForms["will"] = ["will", "wo"]
+
+def listRightIndex(alist, value):
+    look = re.compile(r'^' + value)
+    for i in range(len(alist)):
+        if look.search(alist[-1*i]):
+            return len(alist) - i
+    raise ValueError
+
+
+def tokenizeBS(bs):
+    fh = open(bs)
+    lines = []
+    for l in fh:
+        ellip = l.index(' ...')
+        fieldsStr = l[:ellip]
+        snippetStr = l[ellip:]
+        fields = fieldsStr.split(' ')
+        tokens = snippetStr.split(' ')[2:-2] #leave off the ...s and the \n
+        lrep = {"file": fields[0], "toks": tokens, "anteInds": (int(fields[3]), int(fields[4])), "elidedInds": (int(fields[1]), int(fields[2])), "aux": fields[5], "anteType": fields[6], "connector": fields[7]}
+        aux = fields[5]
+        elidedInds = (int(fields[1]), int(fields[2]))
+        elidedLen = elidedInds[1] - elidedInds[0]
+        if aux in auxForms:
+            possAux = [x for x in auxForms[aux] if len(x) == elidedLen]
+        else:
+            possAux = [aux]
+        possVPE = []
+        for au in possAux:
+            try:
+                v = listRightIndex(tokens, au)
+                possVPE.append((v, au))
+            except ValueError:
+                pass
+        if len(possVPE) != 1:
+            pdb.set_trace()        
+        else:
+            lrep["auxForm"] = possVPE[0][1]
+            lrep["VPETokInd"] = possVPE[0][0]
+        lines.append(lrep)
+    return lines
+
+def makeBSString(toks):
+    s= ''.join(toks)
+    x = puncRE.sub('', s)
+    return x
+
+def special(tok):
+    return tok[0] == "*" or tok == '0'
+
+def makeTokenString(toks, window, start=0):
+    tokensWithOffsets = []
+    for i in range(start, len(toks)):
+        if toks[i] in tokMap:
+            tokensWithOffsets.append((i, tokMap[toks[i]]))
+        elif not special(toks[i]):
+            tokensWithOffsets.append((i, toks[i]))
+    
+    subToks = tokensWithOffsets[:min(window, len(tokensWithOffsets))]
+    string = ''.join([x[1] for x in subToks])
+    string = puncRE.sub('', string)
+    try:
+        indices = (subToks[0][0], subToks[-1][0])
+    except:
+        pdb.set_trace()
+    return (indices,string)
+
+def tokenizeOur(f):
+    fh = open(f)
+    lines = []
+    for l in fh:
+        lineNo, string = l.split('\t')
+        
+        tokens = string.split(' ')[:-1] #leave off the \n
+        lrep = {"file": f, "toks": tokens, "line": lineNo}
+        lines.append(lrep)
+    return lines
+
+def findVPE(cand, tokIndex, ann):
+    aux = ann["aux"]
+    try:
+        auxPossForms = auxForms[aux]
+    except KeyError:
+        auxPossForms = [aux]
+    
+    possVPE = []
+    for au in auxPossForms:
+        pass
+    
+    return None
+
+def merge(bs, f, search, allSnippets):
+    bsInFile = [x for x in bs if search in x["file"]]
+    fInFile = [x for x in f if search in x["file"]]
+    snippetsInFile = [x for x in allSnippets if search in x["file"]]
+    window = 5
+    alignment = []
+    for ann in bsInFile:
+        r = None
+        foundFlag = False
+        BStoks = ann["toks"]
+        lookat = BStoks[ann["VPETokInd"]-4]
+        targetString = makeBSString(BStoks[ann["VPETokInd"]-4:])
+        #print targetString
+        candSet = []
+        indices = []
+        for c in fInFile:
+            for i in range(len(c["toks"])):
+                tok = c["toks"][i]
+                if tok in lookat:
+                     candSet.append(c)
+                     indices.append(i)
+        # if ann["connector"] == "qum":
+        #     pdb.set_trace()
+        for i in range(len(candSet)):
+            inds, string = makeTokenString(candSet[i]["toks"], window, indices[i])
+            if string in targetString and inds[1]-inds[0] > 3:
+                print string
+                print targetString
+                print candSet[i]["toks"][inds[0]:inds[1]+1]
+                cand = candSet[i]
+                tokIndex = inds
+                r = {"bsSnippet": ann, "line": cand, "offset": tokIndex}
+                VPEind = findVPE(cand, tokIndex, ann)
+                print r
+                alignment.append(r)
+                break
+        if r == None:
+            print ann
+            print lookat
+            print candSet        
+    return alignment
+
+def loadAllSnippets(f):
+    fh = open(f)
+    a = []
+    for l in fh:
+        s = json.loads(l)
+        a.append(s)
+    return a
+
+if __name__ == '__main__':
+    our = "wsj_0765.txt"
+    bs = "wsj_0765.extract"
+    snippetsF = "allSnippets"
+    
+    allSnippets = loadAllSnippets(snippetsF)
+    
+    bsLines = tokenizeBS(bs)
+    
+    fLines = tokenizeOur(our)
+    
+    results = merge(bsLines, fLines, "wsj_0765", allSnippets)
+    #for x in results:
+    #    print x

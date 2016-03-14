@@ -1,1 +1,2 @@
-If you unpack the tarball you will find a text file with the standoff annotation --- one for each WSJ section. Each line in a file contains at least 9 columns. Columns are separated by white space. They contain the filename, start character of the VPE trigger, end character of the VPE trigger, start character of the antecedent, end character of the antecedent, auxiliary form.
+If you unpack the tarball you will find a text file with the standoff annotation --- one for each WSJ section. Each line in a file contains at least 9 columns. Columns are separated by white space. 
+filename    start character of the VPE trigger  end character of the VPE trigger    start character of the antecedent   end character of the antecedent auxiliary form  ...snippet...
